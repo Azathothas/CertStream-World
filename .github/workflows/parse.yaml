@@ -84,11 +84,13 @@ jobs:
           set -x ; set +e
           #--------------#
           #Latest --> 24 hr
-          wget --quiet --show-progress --progress=bar "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" -O "/tmp/certstream_domains.txt"
+          wget --quiet --show-progress --progress="dot:giga" "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" -O "/tmp/certstream_domains.txt" 2>&1
+          #wget --quiet "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" -O "/tmp/certstream_domains.txt" 
           echo -e "\n[+] Total Domains (certstream_domains_latest.txt): $(wc -l < /tmp/certstream_domains.txt)\n"
           echo -e "[+] Total Size (certstream_domains_latest.txt): $(du -h /tmp/certstream_domains.txt | awk '{print $1}')\n"
           #Weekly --> 7-8 Days
-          wget --quiet --show-progress --progress=bar "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" -O "/tmp/certstream_domains_7days.txt"
+          wget --quiet --show-progress --progress="dot:giga" "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" -O "/tmp/certstream_domains_7days.txt" 2>&1
+          #wget --quiet "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" -O "/tmp/certstream_domains_7days.txt"
           #Stats
           export SSL_7DAYS_TOTAL="$(wc -l < /tmp/certstream_domains_7days.txt)"
           echo "SSL_7DAYS_TOTAL=$SSL_7DAYS_TOTAL" >> $GITHUB_ENV
