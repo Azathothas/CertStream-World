@@ -143,7 +143,52 @@ jobs:
           echo '```' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
         continue-on-error: true
-        
+
+      - name: Filter 🇩🇪 ccTLDs (Germany)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Germany"
+          cd "$GITHUB_WORKSPACE/main/Data/Germany"
+          # Source : https://en.wikipedia.org/wiki/.de | https://www.denic.de/en/
+          #(ALL)
+          #Last 24 Hr
+          grep -Ei '\.de$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_24h.txt"
+          #Last 7 Days
+          grep -Ei '\.de$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_7days.txt"
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #de_ccTLDs
+          echo -e "\n--> 🇩🇪 de_ccTLDs" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #de_ccTLDs
+          echo -e "\n--> 🇩🇪 de_ccTLDs" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+        continue-on-error: true
+
       - name: Filter 🇷🇺 ccTLDs (Russia)
         run: |
           # Presets
