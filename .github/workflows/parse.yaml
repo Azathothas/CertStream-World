@@ -84,11 +84,11 @@ jobs:
           set -x ; set +e
           #--------------#
           #Latest --> 24 hr
-          wget "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" -O "/tmp/certstream_domains.txt"
+          wget --quiet --show-progress --progress=bar "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" -O "/tmp/certstream_domains.txt"
           echo -e "\n[+] Total Domains (certstream_domains_latest.txt): $(wc -l < /tmp/certstream_domains.txt)\n"
           echo -e "[+] Total Size (certstream_domains_latest.txt): $(du -h /tmp/certstream_domains.txt | awk '{print $1}')\n"
           #Weekly --> 7-8 Days
-          wget "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" -O "/tmp/certstream_domains_7days.txt"
+          wget --quiet --show-progress --progress=bar "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" -O "/tmp/certstream_domains_7days.txt"
           #Stats
           export SSL_7DAYS_TOTAL="$(wc -l < /tmp/certstream_domains_7days.txt)"
           echo "SSL_7DAYS_TOTAL=$SSL_7DAYS_TOTAL" >> $GITHUB_ENV
@@ -123,7 +123,7 @@ jobs:
           echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           #bd_ccTLDs
           echo -e "\n--> 🇧🇩 bd_ccTLDs" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
-          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo '```' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
@@ -136,7 +136,7 @@ jobs:
           echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           #bd_ccTLDs
           echo -e "\n--> 🇧🇩 bd_ccTLDs" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
-          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo '```' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
@@ -155,6 +155,36 @@ jobs:
           grep -Ei '\.ru$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_24h.txt"
           #Last 7 Days
           grep -Ei '\.ru$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_7days.txt"
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #ru_ccTLDs
+          echo -e "\n--> 🇷🇺 ru_ccTLDs" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #ru_ccTLDs
+          echo -e "\n--> 🇷🇺 ru_ccTLDs" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
         continue-on-error: true
         
       - name: Get DateTime
