@@ -3,6 +3,8 @@
 ## Bash Script to only print latest changes for a file
 ## Required Deps : coreutils curl git grep jq moreutils sed
 
+# bash <(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-World/main/.github/scripts/only_print_latest.sh")
+
 # Check if the file path is provided as an argument
  if [ -z "$1" ]; then
      echo "Usage: $0 <file_path>"
@@ -15,7 +17,7 @@
  export FILE_PATH="$1"
 
 #Clone the repo:
- pushd "$(mktemp -d)" > /dev/null 2>&1 && git clone --filter "blob:none" "https://github.com/Azathothas/CertStream-World" && cd "./CertStream-World"
+ pushd "$(mktemp -d)" > /dev/null 2>&1 && git clone --filter "blob:none" "https://github.com/Azathothas/CertStream-World" > /dev/null 2>&1 && cd "./CertStream-World"
 
 #Get the SHA of the latest commit affecting the specified file
  SHA="$(git log -n 1 --pretty=format:'%H' -- "$FILE_PATH")" && export SHA="$SHA"
