@@ -97,6 +97,8 @@ cpanel.mcq.com.bd
 cpanel.peoplesdch.com.bd
 cpanel.pmc.edu.bd
 cpanel.pmis.urp.gov.bd
+cpanel.psrglobal.com.bd
+cpanel.radiance.com.bd
 cpanel.ramcointernational.com.bd
 cpanel.rosenberg.edu.bd
 cpanel.shoping.com.bd
@@ -131,6 +133,8 @@ cpcalendars.mcq.com.bd
 cpcalendars.peoplesdch.com.bd
 cpcalendars.pmc.edu.bd
 cpcalendars.pmis.urp.gov.bd
+cpcalendars.psrglobal.com.bd
+cpcalendars.radiance.com.bd
 cpcalendars.ramcointernational.com.bd
 cpcalendars.shoping.com.bd
 cpcalendars.shukran.com.bd
@@ -165,6 +169,8 @@ cpcontacts.mcq.com.bd
 cpcontacts.peoplesdch.com.bd
 cpcontacts.pmc.edu.bd
 cpcontacts.pmis.urp.gov.bd
+cpcontacts.psrglobal.com.bd
+cpcontacts.radiance.com.bd
 cpcontacts.ramcointernational.com.bd
 cpcontacts.shoping.com.bd
 cpcontacts.shukran.com.bd
@@ -205,6 +211,7 @@ dhakaudyanpublicschool.edu.bd
 dhoahs.edu.bd
 dianahost.com.bd
 difdm.edu.bd
+digitalsignature.com.bd
 dishang.com.bd
 dmaradius.com.bd
 dncollege.edu.bd
@@ -226,6 +233,7 @@ elearningacademy.com.bd
 electrograce.com.bd
 electrosoft.com.bd
 elitbuzz.com.bd
+email.vivo.com.bd
 ems.kazimontucollege.edu.bd
 ems.think.com.bd
 english.uoda.edu.bd
@@ -300,6 +308,7 @@ kagmhs.edu.bd
 kalyanihighschool.edu.bd
 kccghsc.edu.bd
 khandokarenterprise.com.bd
+khsc.edu.bd
 kingsrs.com.bd
 klassy.com.bd
 kube.devops.ideascale.net.bd
@@ -343,6 +352,8 @@ mail.peoplesdch.com.bd
 mail.pmc.edu.bd
 mail.pmis.urp.gov.bd
 mail.promo.com.bd
+mail.psrglobal.com.bd
+mail.radiance.com.bd
 mail.ramcointernational.com.bd
 mail.rosenberg.edu.bd
 mail.shoping.com.bd
@@ -410,6 +421,7 @@ pradm.edu.bd
 primeasia.easyit.com.bd
 promo.com.bd
 protectivelife.com.bd
+psrglobal.com.bd
 pulse.saleslead.com.bd
 pulsepointltd.com.bd
 pundrauniversity.ac.bd
@@ -419,8 +431,10 @@ purnamotimahighschool.edu.bd
 putulhost.com.bd
 qna.com.bd
 quizgiri.com.bd
+radiance.com.bd
 rajbaripourashava.gov.bd
 ramcointernational.com.bd
+react.rabbithost.com.bd
 redrover.com.bd
 retailxen.com.bd
 revolutionit.com.bd
@@ -510,6 +524,8 @@ webdisk.mcq.com.bd
 webdisk.peoplesdch.com.bd
 webdisk.pmc.edu.bd
 webdisk.pmis.urp.gov.bd
+webdisk.psrglobal.com.bd
+webdisk.radiance.com.bd
 webdisk.ramcointernational.com.bd
 webdisk.shoping.com.bd
 webdisk.shukran.com.bd
@@ -543,6 +559,8 @@ webmail.mcq.com.bd
 webmail.peoplesdch.com.bd
 webmail.pmc.edu.bd
 webmail.pmis.urp.gov.bd
+webmail.psrglobal.com.bd
+webmail.radiance.com.bd
 webmail.ramcointernational.com.bd
 webmail.rosenberg.edu.bd
 webmail.shoping.com.bd
@@ -677,9 +695,12 @@ www.pmc.edu.bd
 www.pmis.urp.gov.bd
 www.primeasia.easyit.com.bd
 www.promo.com.bd
+www.psrglobal.com.bd
 www.pulsepointltd.com.bd
 www.qna.com.bd
+www.radiance.com.bd
 www.ramcointernational.com.bd
+www.react.rabbithost.com.bd
 www.redrover.com.bd
 www.room.com.bd
 www.rosenberg.edu.bd
