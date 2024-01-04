@@ -1,24 +1,24 @@
 ```mathematica
-  91M └─┬ main
- 56M   ├─┬ Germany
- 53M   │ ├── certstream_domains_de_all_7days.txt
-2.4M   │ ├── certstream_domains_de_all_24h.txt
-4.0K   │ └── README.md
- 30M   ├─┬ Russia
+  89M └─┬ main
+ 54M   ├─┬ Germany
+ 54M   │ ├── certstream_domains_de_all_7days.txt
+4.0K   │ ├── README.md
+  0B   │ └── certstream_domains_de_all_24h.txt
+ 29M   ├─┬ Russia
  29M   │ ├── certstream_domains_ru_all_7days.txt
-1.1M   │ ├── certstream_domains_ru_all_24h.txt
-4.0K   │ └── README.md
+4.0K   │ ├── README.md
+  0B   │ └── certstream_domains_ru_all_24h.txt
 4.1M   ├─┬ Argentina
-4.0M   │ ├── certstream_domains_ar_all_7days.txt
-120K   │ ├── certstream_domains_ar_all_24h.txt
-4.0K   │ └── README.md
-516K   ├─┬ Nepal
-492K   │ ├── certstream_domains_np_all_7days.txt
- 16K   │ ├── certstream_domains_np_all_24h.txt
-4.0K   │ └── README.md
-256K   ├─┬ Bangladesh
-236K   │ ├── certstream_domains_bd_all_7days.txt
- 12K   │ ├── certstream_domains_bd_all_24h.txt
-4.0K   │ └── README.md
+4.1M   │ ├── certstream_domains_ar_all_7days.txt
+4.0K   │ ├── README.md
+  0B   │ └── certstream_domains_ar_all_24h.txt
+508K   ├─┬ Nepal
+500K   │ ├── certstream_domains_np_all_7days.txt
+4.0K   │ ├── README.md
+  0B   │ └── certstream_domains_np_all_24h.txt
+248K   ├─┬ Bangladesh
+240K   │ ├── certstream_domains_bd_all_7days.txt
+4.0K   │ ├── README.md
+  0B   │ └── certstream_domains_bd_all_24h.txt
 4.0K   └── README.md
 ```
