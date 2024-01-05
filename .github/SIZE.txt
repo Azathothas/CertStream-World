@@ -11,12 +11,12 @@
 4.1M   │ ├── certstream_domains_ar_all_7days.txt
 4.0K   │ ├── README.md
   0B   │ └── certstream_domains_ar_all_24h.txt
-508K   ├─┬ Nepal
-500K   │ ├── certstream_domains_np_all_7days.txt
+520K   ├─┬ Nepal
+512K   │ ├── certstream_domains_np_all_7days.txt
 4.0K   │ ├── README.md
   0B   │ └── certstream_domains_np_all_24h.txt
-248K   ├─┬ Bangladesh
-240K   │ ├── certstream_domains_bd_all_7days.txt
+252K   ├─┬ Bangladesh
+244K   │ ├── certstream_domains_bd_all_7days.txt
 4.0K   │ ├── README.md
   0B   │ └── certstream_domains_bd_all_24h.txt
 4.0K   └── README.md
