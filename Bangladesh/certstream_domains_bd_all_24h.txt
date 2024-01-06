@@ -50,12 +50,15 @@ autodiscover.bdgl.com.bd
 autodiscover.beehive-it.com.bd
 autodiscover.cyberworldit.com.bd
 autodiscover.dataworks.com.bd
+autodiscover.ebestsupply.com.bd
 autodiscover.eproperty.com.bd
 autodiscover.fnstraders.com.bd
 autodiscover.garmentsjobs.com.bd
 autodiscover.gis.com.bd
 autodiscover.greentech.com.bd
+autodiscover.kds.org.bd
 autodiscover.marketing.teamx.com.bd
+autodiscover.mmrahmangallery.com.bd
 autodiscover.mobile-dokan.com.bd
 autodiscover.naogaontsc.gov.bd
 autodiscover.runway.com.bd
@@ -86,6 +89,7 @@ bcps.org.bd
 bcs.org.bd
 bdgl.com.bd
 bdidm.edu.bd
+bdtax.com.bd
 bebeautiful.com.bd
 beehive-it.com.bd
 beolinemdm.edu.bd
@@ -122,6 +126,7 @@ bohiparahs.edu.bd
 bond.com.bd
 borniahs.edu.bd
 bpa.org.bd
+bpghs.edu.bd
 bpmgmhs.edu.bd
 brightstar.com.bd
 bsbusgs.edu.bd
@@ -144,6 +149,7 @@ chakdahaidm.edu.bd
 chapaitsc.edu.bd
 chayashop.com.bd
 chemius.com.bd
+chithuliarabeyanoziborhs.edu.bd
 chugc.edu.bd
 cib.edu.bd
 cleaningservices.com.bd
@@ -168,6 +174,7 @@ cpanel.binoypurhs.edu.bd
 cpanel.biswasit.com.bd
 cpanel.bmhsc.edu.bd
 cpanel.bna.com.bd
+cpanel.bpghs.edu.bd
 cpanel.bpsa.com.bd
 cpanel.brightstar.com.bd
 cpanel.btcbm.edu.bd
@@ -179,6 +186,7 @@ cpanel.deshifoods.com.bd
 cpanel.dhfmadrasah.edu.bd
 cpanel.dinarpurdm.edu.bd
 cpanel.earnest.com.bd
+cpanel.ebestsupply.com.bd
 cpanel.ello.com.bd
 cpanel.enest.com.bd
 cpanel.eproperty.com.bd
@@ -197,10 +205,12 @@ cpanel.jadobpurcollege.edu.bd
 cpanel.jahidpurmadrasah.edu.bd
 cpanel.japanparts.com.bd
 cpanel.kahsb.edu.bd
+cpanel.kds.org.bd
 cpanel.kmmc.edu.bd
 cpanel.knbgroup.com.bd
 cpanel.madedigital.com.bd
 cpanel.marketing.teamx.com.bd
+cpanel.mmrahmangallery.com.bd
 cpanel.mobile-dokan.com.bd
 cpanel.mohaphs.edu.bd
 cpanel.naogaontsc.gov.bd
@@ -237,6 +247,7 @@ cpcalendars.beehive-it.com.bd
 cpcalendars.binoypurhs.edu.bd
 cpcalendars.bmhsc.edu.bd
 cpcalendars.bna.com.bd
+cpcalendars.bpghs.edu.bd
 cpcalendars.bpsa.com.bd
 cpcalendars.btcbm.edu.bd
 cpcalendars.cleaningservices.com.bd
@@ -247,6 +258,7 @@ cpcalendars.deshifoods.com.bd
 cpcalendars.dhfmadrasah.edu.bd
 cpcalendars.dinarpurdm.edu.bd
 cpcalendars.earnest.com.bd
+cpcalendars.ebestsupply.com.bd
 cpcalendars.ello.com.bd
 cpcalendars.enest.com.bd
 cpcalendars.eproperty.com.bd
@@ -264,10 +276,12 @@ cpcalendars.hab.org.bd
 cpcalendars.jahidpurmadrasah.edu.bd
 cpcalendars.japanparts.com.bd
 cpcalendars.kahsb.edu.bd
+cpcalendars.kds.org.bd
 cpcalendars.kmmc.edu.bd
 cpcalendars.knbgroup.com.bd
 cpcalendars.madedigital.com.bd
 cpcalendars.marketing.teamx.com.bd
+cpcalendars.mmrahmangallery.com.bd
 cpcalendars.mobile-dokan.com.bd
 cpcalendars.mohaphs.edu.bd
 cpcalendars.naogaontsc.gov.bd
@@ -304,6 +318,7 @@ cpcontacts.beehive-it.com.bd
 cpcontacts.binoypurhs.edu.bd
 cpcontacts.bmhsc.edu.bd
 cpcontacts.bna.com.bd
+cpcontacts.bpghs.edu.bd
 cpcontacts.bpsa.com.bd
 cpcontacts.btcbm.edu.bd
 cpcontacts.cleaningservices.com.bd
@@ -314,6 +329,7 @@ cpcontacts.deshifoods.com.bd
 cpcontacts.dhfmadrasah.edu.bd
 cpcontacts.dinarpurdm.edu.bd
 cpcontacts.earnest.com.bd
+cpcontacts.ebestsupply.com.bd
 cpcontacts.ello.com.bd
 cpcontacts.enest.com.bd
 cpcontacts.eproperty.com.bd
@@ -330,10 +346,12 @@ cpcontacts.hab.org.bd
 cpcontacts.jahidpurmadrasah.edu.bd
 cpcontacts.japanparts.com.bd
 cpcontacts.kahsb.edu.bd
+cpcontacts.kds.org.bd
 cpcontacts.kmmc.edu.bd
 cpcontacts.knbgroup.com.bd
 cpcontacts.madedigital.com.bd
 cpcontacts.marketing.teamx.com.bd
+cpcontacts.mmrahmangallery.com.bd
 cpcontacts.mobile-dokan.com.bd
 cpcontacts.mohaphs.edu.bd
 cpcontacts.naogaontsc.gov.bd
@@ -418,6 +436,7 @@ dspace.jnu.ac.bd
 dusc.diu.edu.bd
 dyu.com.bd
 earnest.com.bd
+ebestsupply.com.bd
 ebitan.com.bd
 ecommerceservice.biznify.com.bd
 edas.org.bd
@@ -472,6 +491,7 @@ garmentsjobs.com.bd
 gchhs.edu.bd
 ggahsac.edu.bd
 ghsscollege.edu.bd
+gicheck.info.bd
 gis.com.bd
 gkphs.edu.bd
 globalelectrode.com.bd
@@ -569,6 +589,7 @@ kbmcollege.edu.bd
 kcssonadanga.edu.bd
 kdacollege.edu.bd
 kdmsddm.edu.bd
+kds.org.bd
 kgmc.gov.bd
 khamarbarihs.edu.bd
 khamarbarihs.khnss.edu.bd
@@ -602,6 +623,7 @@ landmarksc.com.bd
 laskarpurmadrasah.edu.bd
 lass.edu.bd
 lba.edu.bd
+lc.mkb.com.bd
 leaveservice.biznify.com.bd
 lian.com.bd
 library.acc.edu.bd
@@ -631,6 +653,7 @@ mail.binoypurhs.edu.bd
 mail.biswasit.com.bd
 mail.bmhsc.edu.bd
 mail.bna.com.bd
+mail.bpghs.edu.bd
 mail.bpsa.com.bd
 mail.brightstar.com.bd
 mail.btcbm.edu.bd
@@ -645,6 +668,7 @@ mail.dhfmadrasah.edu.bd
 mail.dinarpurdm.edu.bd
 mail.dpm.com.bd
 mail.earnest.com.bd
+mail.ebestsupply.com.bd
 mail.ebitan.com.bd
 mail.edas.org.bd
 mail.ello.com.bd
@@ -671,6 +695,7 @@ mail.jahidpurmadrasah.edu.bd
 mail.japanparts.com.bd
 mail.kahsb.edu.bd
 mail.karbalahscollege.edu.bd
+mail.kds.org.bd
 mail.kmmc.edu.bd
 mail.knbgroup.com.bd
 mail.luxmischool.edu.bd
@@ -678,6 +703,7 @@ mail.marketing.teamx.com.bd
 mail.mashira.com.bd
 mail.mdrabiulislamakash.com.bd
 mail.milis.edu.bd
+mail.mmrahmangallery.com.bd
 mail.mobile-dokan.com.bd
 mail.mohaphs.edu.bd
 mail.naogaontsc.gov.bd
@@ -740,6 +766,7 @@ mimsms.com.bd
 mirerdangaiamadrasah.edu.bd
 mis.prosystem.com.bd
 mmafdm.edu.bd
+mmrahmangallery.com.bd
 mobile-dokan.com.bd
 mobishop.com.bd
 modernpartex.com.bd
@@ -1048,6 +1075,7 @@ webdisk.beehive-it.com.bd
 webdisk.binoypurhs.edu.bd
 webdisk.bmhsc.edu.bd
 webdisk.bna.com.bd
+webdisk.bpghs.edu.bd
 webdisk.bpsa.com.bd
 webdisk.btcbm.edu.bd
 webdisk.cleaningservices.com.bd
@@ -1058,6 +1086,7 @@ webdisk.deshifoods.com.bd
 webdisk.dhfmadrasah.edu.bd
 webdisk.dinarpurdm.edu.bd
 webdisk.earnest.com.bd
+webdisk.ebestsupply.com.bd
 webdisk.ello.com.bd
 webdisk.enest.com.bd
 webdisk.eproperty.com.bd
@@ -1076,10 +1105,12 @@ webdisk.hab.org.bd
 webdisk.jahidpurmadrasah.edu.bd
 webdisk.japanparts.com.bd
 webdisk.kahsb.edu.bd
+webdisk.kds.org.bd
 webdisk.kmmc.edu.bd
 webdisk.knbgroup.com.bd
 webdisk.madedigital.com.bd
 webdisk.marketing.teamx.com.bd
+webdisk.mmrahmangallery.com.bd
 webdisk.mobile-dokan.com.bd
 webdisk.mohaphs.edu.bd
 webdisk.naogaontsc.gov.bd
@@ -1117,6 +1148,7 @@ webmail.binoypurhs.edu.bd
 webmail.biswasit.com.bd
 webmail.bmhsc.edu.bd
 webmail.bna.com.bd
+webmail.bpghs.edu.bd
 webmail.bpsa.com.bd
 webmail.brightstar.com.bd
 webmail.btcbm.edu.bd
@@ -1128,6 +1160,7 @@ webmail.deshifoods.com.bd
 webmail.dhfmadrasah.edu.bd
 webmail.dinarpurdm.edu.bd
 webmail.earnest.com.bd
+webmail.ebestsupply.com.bd
 webmail.ello.com.bd
 webmail.enest.com.bd
 webmail.eproperty.com.bd
@@ -1147,10 +1180,12 @@ webmail.jadobpurcollege.edu.bd
 webmail.jahidpurmadrasah.edu.bd
 webmail.japanparts.com.bd
 webmail.kahsb.edu.bd
+webmail.kds.org.bd
 webmail.kmmc.edu.bd
 webmail.knbgroup.com.bd
 webmail.madedigital.com.bd
 webmail.marketing.teamx.com.bd
+webmail.mmrahmangallery.com.bd
 webmail.mobile-dokan.com.bd
 webmail.mohaphs.edu.bd
 webmail.naogaontsc.gov.bd
@@ -1239,6 +1274,7 @@ www.blackbud.com.bd
 www.blog99-xyz.minmax.com.bd
 www.bmhsc.edu.bd
 www.bna.com.bd
+www.bpghs.edu.bd
 www.bpsa.com.bd
 www.brightstar.com.bd
 www.bsbusgs.edu.bd
@@ -1294,6 +1330,7 @@ www.dmashs.edu.bd
 www.donate.ahsaniamission.org.bd
 www.dpm.com.bd
 www.earnest.com.bd
+www.ebestsupply.com.bd
 www.ebitan.com.bd
 www.edas.org.bd
 www.edas.org.bd.atti.info.bd
@@ -1368,6 +1405,7 @@ www.kalirbazarup.gov.bd
 www.karbalahscollege.edu.bd
 www.kbghs.edu.bd.one2one.com.bd
 www.kbhs1970.edu.bd
+www.kds.org.bd
 www.khamarbarihs.khnss.edu.bd
 www.kidmcsd.edu.bd
 www.kmmc.edu.bd
@@ -1378,6 +1416,7 @@ www.ktjgdm.edu.bd
 www.kwhs.abdulabadhighschool.edu.bd
 www.labs.pallirup.org.bd
 www.lalbagdam.edu.bd
+www.lc.mkb.com.bd
 www.library.bubt.edu.bd
 www.library.pundrauniversity.ac.bd
 www.london.sbit.com.bd
@@ -1405,6 +1444,7 @@ www.miems.cub.edu.bd
 www.mightygreenltd.com.legendary.com.bd
 www.milis.edu.bd
 www.mmafdm.edu.bd
+www.mmrahmangallery.com.bd
 www.mobile-dokan.com.bd
 www.mohaphs.edu.bd
 www.mohs.edu.bd
@@ -1496,6 +1536,7 @@ www.shoppers.com.bd
 www.singerdabrigirlhs.edu.bd
 www.sk.japanparts.com.bd
 www.smartkids.com.bd
+www.smrc.gicheck.info.bd
 www.sms.abid.com.bd
 www.sms.bmhsc.edu.bd
 www.sms.sbit.com.bd
@@ -1524,6 +1565,7 @@ www.sullagovtcollege.edu.bd
 www.sumaelectriconline.sbit.com.bd
 www.surjopay.ahsaniamission.org.bd
 www.swajan.rayhans.com.bd
+www.sylhetsadar.gicheck.info.bd
 www.syntaxlearner.com.telemedia.com.bd
 www.tcb.melandahbhata.gov.bd
 www.techno.haphchharischool.edu.bd
