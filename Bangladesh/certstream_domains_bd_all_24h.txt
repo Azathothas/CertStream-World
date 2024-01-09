@@ -6,6 +6,7 @@ aasdm.edu.bd
 abad.com.bd
 abahighschool.edu.bd
 abdulabadhighschool.edu.bd
+abid.com.bd
 abm.com.bd
 acp.etct.com.bd
 admin-mail.soms.gov.bd
@@ -39,9 +40,11 @@ anandabasghs.edu.bd
 angelgroup.com.bd
 antast.com.bd
 api.almak.com.bd
+api.ebook.com.bd
 api.scba.org.bd
 api.spellcheck.bangla.gov.bd
 api.ucbstock.com.bd
+api.wearit.com.bd
 aponjonbazar.com.bd
 app.diu.edu.bd
 app.gofix.com.bd
@@ -59,6 +62,7 @@ autodiscover.digitaltechnology.com.bd
 autodiscover.emc.edu.bd
 autodiscover.fccdc.edu.bd
 autodiscover.iteam.com.bd
+autodiscover.joystore.com.bd
 autodiscover.khdmadrasah.edu.bd
 autodiscover.kyoto.com.bd
 autodiscover.mhblhs.edu.bd
@@ -140,12 +144,14 @@ chopstick.com.bd
 clients6.google.com.bd
 clouddoctor.com.bd
 colmi.com.bd
+colorlife.shelai.com.bd
 convocation.uiu.ac.bd
 copyright.com.bd
 cozytrip.com.bd
 cp-api.almak.com.bd
 cp.almak.com.bd
 cp.kda.gov.bd
+cpanel.abid.com.bd
 cpanel.ahbab.com.bd
 cpanel.babycarehomeservicesdhaka.com.bd
 cpanel.bamis.gov.bd
@@ -170,6 +176,7 @@ cpanel.eregistration.gov.bd
 cpanel.fccdc.edu.bd
 cpanel.fnrl.uiu.ac.bd
 cpanel.gcdm.edu.bd
+cpanel.globalair.com.bd
 cpanel.goodhope.com.bd
 cpanel.hajisamsherahs.edu.bd
 cpanel.hosting.bdren.net.bd
@@ -181,6 +188,7 @@ cpanel.inteefatraders.com.bd
 cpanel.iteam.com.bd
 cpanel.jhaudangahighschool.edu.bd
 cpanel.jobfair.cse.uiu.ac.bd
+cpanel.joystore.com.bd
 cpanel.khdmadrasah.edu.bd
 cpanel.kyoto.com.bd
 cpanel.lgsac.edu.bd
@@ -212,6 +220,7 @@ cpanel.upmymensinghholdingtax.gov.bd
 cpanel.urs.uiu.ac.bd
 cpanel.vta.uiu.ac.bd
 cpanel.wearb.com.bd
+cpcalendars.abid.com.bd
 cpcalendars.ahbab.com.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bloodbank.uiu.ac.bd
@@ -234,6 +243,7 @@ cpcalendars.eregistration.gov.bd
 cpcalendars.fccdc.edu.bd
 cpcalendars.fnrl.uiu.ac.bd
 cpcalendars.gcdm.edu.bd
+cpcalendars.globalair.com.bd
 cpcalendars.goodhope.com.bd
 cpcalendars.hajisamsherahs.edu.bd
 cpcalendars.hosting.bdren.net.bd
@@ -245,6 +255,7 @@ cpcalendars.inteefatraders.com.bd
 cpcalendars.iteam.com.bd
 cpcalendars.jhaudangahighschool.edu.bd
 cpcalendars.jobfair.cse.uiu.ac.bd
+cpcalendars.joystore.com.bd
 cpcalendars.khdmadrasah.edu.bd
 cpcalendars.kyoto.com.bd
 cpcalendars.lgsac.edu.bd
@@ -273,6 +284,7 @@ cpcalendars.upmymensinghholdingtax.gov.bd
 cpcalendars.urs.uiu.ac.bd
 cpcalendars.vta.uiu.ac.bd
 cpcalendars.wearb.com.bd
+cpcontacts.abid.com.bd
 cpcontacts.ahbab.com.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bloodbank.uiu.ac.bd
@@ -295,6 +307,7 @@ cpcontacts.eregistration.gov.bd
 cpcontacts.fccdc.edu.bd
 cpcontacts.fnrl.uiu.ac.bd
 cpcontacts.gcdm.edu.bd
+cpcontacts.globalair.com.bd
 cpcontacts.goodhope.com.bd
 cpcontacts.hajisamsherahs.edu.bd
 cpcontacts.hosting.bdren.net.bd
@@ -306,6 +319,7 @@ cpcontacts.inteefatraders.com.bd
 cpcontacts.iteam.com.bd
 cpcontacts.jhaudangahighschool.edu.bd
 cpcontacts.jobfair.cse.uiu.ac.bd
+cpcontacts.joystore.com.bd
 cpcontacts.khdmadrasah.edu.bd
 cpcontacts.kyoto.com.bd
 cpcontacts.lgsac.edu.bd
@@ -428,7 +442,10 @@ gartex.com.bd
 gcdm.edu.bd
 gea.bau.edu.bd
 ghjashore.gov.bd
+globalair.com.bd
+globalpay.com.bd
 gobd.net.bd
+gobindaganjgc.edu.bd
 gofast.com.bd
 goldeninfotech.com.bd
 goodhope.com.bd
@@ -471,6 +488,7 @@ innovativesolutions.com.bd
 intechproperties.com.bd
 inteefatraders.com.bd
 invest.aponjonbazar.com.bd
+ipv6.abid.com.bd
 ipv6.crazecollection.com.bd
 isp.sigroup.com.bd
 iteam.com.bd
@@ -483,6 +501,7 @@ jisa.com.bd
 jitsi.vc8.bcc.gov.bd
 jobfair.cse.uiu.ac.bd
 jobs.cuet.ac.bd
+joystore.com.bd
 jshs.edu.bd
 judipay.gov.bd
 kalikapurdm.edu.bd
@@ -492,6 +511,7 @@ kamaluddinghs.edu.bd
 karatoa.com.bd
 kashianitsc.gov.bd
 kb10takakg.melandahbhata.gov.bd
+kdum.edu.bd
 keshorhatpourashava.gov.bd
 kgc.edu.bd
 kghs88.edu.bd
@@ -523,6 +543,7 @@ madhyakulmam.edu.bd
 madhyakulmam.edu.bd.momtajtdpl.com.bd
 mahichailhs.edu.bd
 maijdeetsc.gov.bd
+mail.abid.com.bd
 mail.aclandall.gov.bd
 mail.ahbab.com.bd
 mail.anandabasghs.edu.bd
@@ -605,6 +626,7 @@ mail.fccdc.edu.bd
 mail.finance.gov.bd
 mail.fnrl.uiu.ac.bd
 mail.gcdm.edu.bd
+mail.globalair.com.bd
 mail.gofast.com.bd
 mail.goodhope.com.bd
 mail.hajisamsherahs.edu.bd
@@ -628,6 +650,7 @@ mail.iteam.com.bd
 mail.janatarsarkar.gov.bd
 mail.jhaudangahighschool.edu.bd
 mail.jobfair.cse.uiu.ac.bd
+mail.joystore.com.bd
 mail.kgdcl.gov.bd
 mail.khdmadrasah.edu.bd
 mail.legislativediv.gov.bd
@@ -676,6 +699,7 @@ mail.rajafairhighschool.edu.bd
 mail.rangamularkandihaacademy.edu.bd
 mail.rdcd.gov.bd
 mail.readychef.com.bd
+mail.recr.edu.bd
 mail.regtravelagency.gov.bd
 mail.rjddm.edu.bd
 mail.rumdo.edu.bd
@@ -684,6 +708,7 @@ mail.sds.uiu.ac.bd
 mail.sfdf.gov.bd
 mail.shahidbhs.edu.bd
 mail.shahjalaljameya.edu.bd
+mail.shanmart.com.bd
 mail.sharif.com.bd
 mail.shark-helmets.com.bd
 mail.sid.gov.bd
@@ -726,6 +751,7 @@ mamnoon.com.bd
 maneki.info.bd
 massimotyre.com.bd
 math.buet.ac.bd
+maxlimited.net.abid.com.bd
 maxline.com.bd
 mbgallery.com.bd
 mbkhschool.edu.bd
@@ -754,6 +780,7 @@ musamolla.com.chs.ac.bd
 mustaharka.invicta.com.bd
 mx.ruet.ac.bd
 myauspost.receiving.collect-package.biomed.com.bd
+mymensinghsadar.upmymensinghholdingtax.gov.bd
 myportal.ucbstock.com.bd
 naikhongchharitsc.edu.bd
 nakshikatha.com.bd
@@ -821,6 +848,7 @@ rcdma.edu.bd
 ready.sonod.com.bd
 readychef.com.bd
 readysell.com.bd
+recr.edu.bd
 rilo.com.bd
 rjddm.edu.bd
 rland.com.bd
@@ -855,6 +883,7 @@ shahidbhs.edu.bd
 shahimmamadrasah.edu.bd
 shahjalaljameya.edu.bd
 shampritibazar.com.bd
+shanmart.com.bd
 sharif.com.bd
 sharifabadcollege.edu.bd
 shark-helmets.com.bd
@@ -915,6 +944,7 @@ tenthuliahighschool.edu.bd
 thecommunicate.com.bd
 thenest.com.bd
 theworld.com.bd
+thisc.com.bd
 tiam.edu.bd
 ticket.khdc.org.bd
 tlfdm.edu.bd
@@ -925,6 +955,7 @@ traceability.ussit.com.bd
 trance.com.bd
 transport.uiu.ac.bd
 traveltech.com.bd
+trishal.upmymensinghholdingtax.gov.bd
 troubleshoot.com.bd
 tuba.com.bd
 turn.vc8.bcc.gov.bd
@@ -952,6 +983,7 @@ wearb.com.bd
 web.com.bd
 web.thenet.com.bd
 webapi.easternuni.edu.bd
+webdisk.abid.com.bd
 webdisk.ahbab.com.bd
 webdisk.bloodbank.uiu.ac.bd
 webdisk.buyz.com.bd
@@ -974,6 +1006,7 @@ webdisk.eregistration.gov.bd
 webdisk.fccdc.edu.bd
 webdisk.fnrl.uiu.ac.bd
 webdisk.gcdm.edu.bd
+webdisk.globalair.com.bd
 webdisk.goodhope.com.bd
 webdisk.hajisamsherahs.edu.bd
 webdisk.iccit.uiu.ac.bd
@@ -984,6 +1017,7 @@ webdisk.inteefatraders.com.bd
 webdisk.iteam.com.bd
 webdisk.jhaudangahighschool.edu.bd
 webdisk.jobfair.cse.uiu.ac.bd
+webdisk.joystore.com.bd
 webdisk.khdmadrasah.edu.bd
 webdisk.kyoto.com.bd
 webdisk.lgsac.edu.bd
@@ -1012,6 +1046,7 @@ webdisk.upmymensinghholdingtax.gov.bd
 webdisk.urs.uiu.ac.bd
 webdisk.vta.uiu.ac.bd
 webdisk.wearb.com.bd
+webmail.abid.com.bd
 webmail.ahbab.com.bd
 webmail.babycarehomeservicesdhaka.com.bd
 webmail.bloodbank.uiu.ac.bd
@@ -1035,6 +1070,7 @@ webmail.eregistration.gov.bd
 webmail.fccdc.edu.bd
 webmail.fnrl.uiu.ac.bd
 webmail.gcdm.edu.bd
+webmail.globalair.com.bd
 webmail.goodhope.com.bd
 webmail.hajisamsherahs.edu.bd
 webmail.hosting.bdren.net.bd
@@ -1046,6 +1082,7 @@ webmail.inteefatraders.com.bd
 webmail.iteam.com.bd
 webmail.jhaudangahighschool.edu.bd
 webmail.jobfair.cse.uiu.ac.bd
+webmail.joystore.com.bd
 webmail.khdmadrasah.edu.bd
 webmail.kyoto.com.bd
 webmail.lgsac.edu.bd
@@ -1089,6 +1126,7 @@ www.7cdev.eco.du.ac.bd
 www.a1qa.com.bd
 www.aasdm.edu.bd
 www.abahighschool.abdulabadhighschool.edu.bd
+www.abid.com.bd
 www.admin-mail.soms.gov.bd
 www.admin.nstu.edu.bd
 www.admission.bsmrstu.edu.bd
@@ -1147,6 +1185,7 @@ www.dcahs.edu.bd
 www.dccc.theworld.com.bd
 www.demo.bluerack.com.bd
 www.deopanchagarh.gov.bd
+www.dev.globalpay.com.bd
 www.diaautomation.gov.bd
 www.digilab.com.bd
 www.digitaltechnology.com.bd
@@ -1175,6 +1214,7 @@ www.fnrl.uiu.ac.bd
 www.food.prothoma.com.bd
 www.freelancer.gov.bd
 www.gcdm.edu.bd
+www.globalair.com.bd
 www.gofast.com.bd
 www.goodhope.com.bd
 www.hajisamsherahs.edu.bd
@@ -1200,6 +1240,7 @@ www.jigataladm.edu.bd
 www.jmainfoeyes.info.bd
 www.job.info.bd
 www.jobfair.cse.uiu.ac.bd
+www.joystore.com.bd
 www.kalikapurdm.edu.bd.momtajtdpl.com.bd
 www.kalisonkorpursecondaryschool.edu.bd.balidiasecondaryschool.edu.bd
 www.kb10takakg.melandahbhata.gov.bd
@@ -1222,6 +1263,7 @@ www.mail.chemius.com.bd
 www.mail.soms.gov.bd
 www.mail.tbz.com.bd
 www.massimotyre.com.bd
+www.maxlimited.net.abid.com.bd
 www.mbgallery.com.bd
 www.mbs.exploreit.com.bd
 www.mhblhs.edu.bd
@@ -1234,6 +1276,7 @@ www.mtmartbd.advancedinsight.com.bd
 www.mtt.com.bd
 www.musamolla.com.chs.ac.bd
 www.myauspost.receiving.collect-package.biomed.com.bd
+www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.myportal.ucbstock.com.bd
 www.ndidm.edu.bd
 www.news.fiha.com.bd
@@ -1266,6 +1309,7 @@ www.rangamularkandihaacademy.edu.bd
 www.rcdma.edu.bd
 www.ready.sonod.com.bd
 www.readychef.com.bd
+www.recr.edu.bd
 www.rjddm.edu.bd
 www.rland.com.bd
 www.rssconstruction.com.bd
@@ -1283,6 +1327,7 @@ www.school.softech.com.bd
 www.sds.uiu.ac.bd
 www.shahidbhs.edu.bd
 www.shahjalaljameya.edu.bd
+www.shanmart.com.bd
 www.sharif.com.bd
 www.sharifabadcollege.edu.bd
 www.shark-helmets.com.bd
@@ -1325,6 +1370,7 @@ www.tqa.com.bd
 www.traceability.ussit.com.bd
 www.transport.uiu.ac.bd
 www.traveltech.com.bd
+www.trishal.upmymensinghholdingtax.gov.bd
 www.troubleshoot.com.bd
 www.uber.wearb.com.bd
 www.ullc.easyit.com.bd
