@@ -1,0 +1,374 @@
+name: ⚓ Filter | Parse 🔰 
+# This will likely increase as Repo Size gets bigger over time
+#MAX_RUNTIME: 30-45 Mins
+on:
+  workflow_dispatch: # Whenever manually run from actions-tab
+  schedule:
+    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    - cron: "59 * * * *" #( Every 59 Mins )
+#------------------------------------------------------------------------------------#
+env:
+  RCLONE_CF_R2_PUB: "${{ secrets.RCLONE_CF_R2_PUB }}"
+#------------------------------------------------------------------------------------#
+jobs:
+  Parse:
+    runs-on: ubuntu-latest
+    #timeout-minutes: 45 # Can't afford to finish the 2000 Minutes quotes    
+    permissions:
+      contents: write
+      
+    steps:        
+      - name: Debloat Runner
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Arsenal/main/misc/Github/Runners/Ubuntu/debloat.sh")
+        continue-on-error: true
+        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+          filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+
+      - name: Setup Env
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          ##CoreUtils
+          sudo apt update -y
+          sudo apt install bc coreutils curl dos2unix fdupes jq moreutils wget -y
+          sudo apt-get install apt-transport-https apt-utils ca-certificates coreutils dos2unix gnupg2 jq moreutils p7zip-full rename rsync software-properties-common texinfo tmux util-linux wget -y 2>/dev/null ; sudo apt-get update -y 2>/dev/null
+          ##Setup rClone
+          mkdir -p "$HOME/.config/rclone"
+          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.config/rclone/rclone.conf"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="$USER_AGENT"
+          echo "USER_AGENT=$USER_AGENT" >> "$GITHUB_ENV"
+        continue-on-error: true
+
+      - name: Install eget
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          # eget for bins
+          sudo wget "https://bin.ajam.dev/x86_64_Linux/eget" -O "/usr/local/bin/eget"
+          sudo chmod +xwr "/usr/local/bin/eget"
+        continue-on-error: false
+
+      - name: Install Deps
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #anew
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew" --to "/usr/local/bin/anew"
+          #asn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asn" --to "/usr/local/bin/asn"
+          #asnmap
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asnmap" --to "/usr/local/bin/asnmap"
+          #cut-cdn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/cut-cdn" --to "/usr/local/bin/cut-cdn"          
+          # dirstat-rs for tree
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/ds" --to "/usr/local/bin/ds"          
+          #dnsx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dnsx" --to "/usr/local/bin/dnsx"
+          #HTTPx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/httpx" --to "/usr/local/bin/httpx"
+          #inscope
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/inscope" --to "/usr/local/bin/inscope"
+          #mapcidr
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/mapcidr" --to "/usr/local/bin/mapcidr"
+          #ripgrep
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/ripgrep" --to "/usr/local/bin/ripgrep"
+          #scopegen
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopegen" --to "/usr/local/bin/scopegen"
+          #scopeview
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopeview" --to "/usr/local/bin/scopeview"
+          #spk
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/spk" --to "/usr/local/bin/spk"
+          #rclone
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/rclone" --to "/usr/local/bin/rclone"
+          #yq
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/yq" --to "/usr/local/bin/yq"
+        continue-on-error: true
+
+      - name: Get Data
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #Latest --> 24 hr
+          wget --quiet --show-progress --progress="dot:giga" "https://pub.ajam.dev/datasets/certstream/all_latest.txt" -O "/tmp/certstream_domains.txt" 2>&1 &
+          #wget --quiet "https://pub.ajam.dev/datasets/certstream/all_latest.txt" -O "/tmp/certstream_domains.txt" 
+          #Weekly --> 7-8 Days
+          wget --quiet --show-progress --progress="dot:giga" "https://pub.ajam.dev/datasets/certstream/all_weekly.txt" -O "/tmp/certstream_domains_7days.txt" 2>&1 &
+          #wget --quiet "https://pub.ajam.dev/datasets/certstream/all_weekly.txt" -O "/tmp/certstream_domains_7days.txt"
+          #wait
+          wait ; echo
+          #Stats
+          echo -e "\n[+] Total Domains (certstream_domains_latest.txt): $(wc -l < /tmp/certstream_domains.txt)\n"
+          echo -e "[+] Total Size (certstream_domains_latest.txt): $(du -h /tmp/certstream_domains.txt | awk '{print $1}')\n"
+          export SSL_7DAYS_TOTAL="$(wc -l < /tmp/certstream_domains_7days.txt)"
+          echo "SSL_7DAYS_TOTAL=$SSL_7DAYS_TOTAL" >> $GITHUB_ENV
+          echo -e "\n[+] Total Subs (certstream_domains_7days.txt): $SSL_7DAYS_TOTAL"
+          echo -e "[+] Total Size (certstream_domains_7days.txt): $(du -h /tmp/certstream_domains_7days.txt | awk '{print $1}')\n"
+        continue-on-error: true
+
+      - name: Filter 🇦🇷 ccTLDs (Argentina)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Argentina"
+          cd "$GITHUB_WORKSPACE/main/Data/Argentina"
+          # Source : https://en.wikipedia.org/wiki/.ar | https://nic.ar/es/nic-argentina/normativa
+          #(ALL)
+          #Last 24 Hr
+          grep -Ei '\.ar$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_24h.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_24h.txt" "r2:/pub/datasets/certstream/Argentina/latest_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #Last 7 Days
+          grep -Ei '\.ar$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_7days.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_7days.txt" "r2:/pub/datasets/certstream/Argentina/weekly_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          #ar_ccTLDs
+          echo -e "\n--> 🇦🇷 ar_ccTLDs" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          #ar_ccTLDs
+          echo -e "\n--> 🇦🇷 ar_ccTLDs" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Argentina/certstream_domains_ar_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Argentina/README.md"
+        continue-on-error: true
+        
+      - name: Filter 🇧🇩 ccTLDs (Bangladesh)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Bangladesh"
+          cd "$GITHUB_WORKSPACE/main/Data/Bangladesh"
+          # Source : https://bdia.btcl.com.bd/
+          #(ALL)
+          #Last 24 Hr
+          #.xn--54b7fta0cc --> .বাংলা
+          grep -Ei '\.bd$|\.xn--54b7fta0cc$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_24h.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_24h.txt" "r2:/pub/datasets/certstream/Bangladesh/latest_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #Last 7 Days
+          grep -Ei '\.bd$|\.xn--54b7fta0cc$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_7days.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_7days.txt" "r2:/pub/datasets/certstream/Bangladesh/weekly_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          #bd_ccTLDs
+          echo -e "\n--> 🇧🇩 bd_ccTLDs" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          #bd_ccTLDs
+          echo -e "\n--> 🇧🇩 bd_ccTLDs" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Bangladesh/certstream_domains_bd_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Bangladesh/README.md"
+        continue-on-error: true
+
+      - name: Filter 🇩🇪 ccTLDs (Germany)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Germany"
+          cd "$GITHUB_WORKSPACE/main/Data/Germany"
+          # Source : https://en.wikipedia.org/wiki/.de | https://www.denic.de/en/
+          #(ALL)
+          #Last 24 Hr
+          grep -Ei '\.de$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_24h.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_24h.txt" "r2:/pub/datasets/certstream/Germany/latest_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #Last 7 Days
+          grep -Ei '\.de$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_7days.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_7days.txt" "r2:/pub/datasets/certstream/Germany/weekly_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #de_ccTLDs
+          echo -e "\n--> 🇩🇪 de_ccTLDs" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          #de_ccTLDs
+          echo -e "\n--> 🇩🇪 de_ccTLDs" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Germany/certstream_domains_de_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Germany/README.md"
+        continue-on-error: true
+
+      - name: Filter 🇳🇵 ccTLDs (Nepal)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Nepal"
+          cd "$GITHUB_WORKSPACE/main/Data/Nepal"
+          # Source : https://en.wikipedia.org/wiki/.np | https://register.com.np/np-ccTLDs
+          #(ALL)
+          #Last 24 Hr
+          grep -Ei '\.np$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_24h.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_24h.txt" "r2:/pub/datasets/certstream/Nepal/latest_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #Last 7 Days
+          grep -Ei '\.np$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_7days.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_7days.txt" "r2:/pub/datasets/certstream/Nepal/weekly_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          #np_ccTLDs
+          echo -e "\n--> 🇳🇵 np_ccTLDs" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          #np_ccTLDs
+          echo -e "\n--> 🇳🇵 np_ccTLDs" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Nepal/certstream_domains_np_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Nepal/README.md"
+        continue-on-error: true
+        
+      - name: Filter 🇷🇺 ccTLDs (Russia)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Russia"
+          cd "$GITHUB_WORKSPACE/main/Data/Russia"
+          # Source : https://en.wikipedia.org/wiki/.ru
+          #(ALL)
+          #Last 24 Hr
+          grep -Ei '\.ru$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_24h.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_24h.txt" "r2:/pub/datasets/certstream/Russia/latest_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #Last 7 Days
+          grep -Ei '\.ru$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_7days.txt"
+          rclone copyto "$GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_7days.txt" "r2:/pub/datasets/certstream/Russia/weekly_all.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #README.md
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #ru_ccTLDs
+          echo -e "\n--> 🇷🇺 ru_ccTLDs" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #7Days
+          echo -e "- #### 🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}\n" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          #ru_ccTLDs
+          echo -e "\n--> 🇷🇺 ru_ccTLDs" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Russia/certstream_domains_ru_all_7days.txt)" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/Russia/README.md"
+        continue-on-error: true
+        
+      - name: Get DateTime
+        run: |
+          # Date Time
+          UTC_TIME=$(date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "UTC_TIME=$UTC_TIME" >> $GITHUB_ENV
+          
+      - name: Git Pull
+        run: |
+           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+        continue-on-error: true
+        
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ ⚓ Filter | Parsed 🔰 CertStream Data 🌊 <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'
