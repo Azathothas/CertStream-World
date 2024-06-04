@@ -37,6 +37,7 @@ app.biznify.com.bd
 apps.eps.com.bd
 apps.jamalpurttc.gov.bd
 archcel.com.bd
+arsc.edu.bd
 artisanfund.kaz.com.bd
 aunhs.edu.bd
 autoconfig.email.vvon.com.bd
@@ -51,6 +52,7 @@ autodiscover.railwaypolice.gov.bd
 ayaats.com.bd
 bahss.edu.bd
 bairan.com.bd
+bangladeshfarm.com.bd
 barobidesign.com.bd
 beaconconsultants.com.bd
 bef.org.bd
@@ -95,6 +97,7 @@ cmsservice.biznify.com.bd
 control.growever.com.bd
 covid19reports.dghs.gov.bd
 cpanel.amigo.com.bd
+cpanel.arsc.edu.bd
 cpanel.bhsch.edu.bd
 cpanel.bluecube.com.bd
 cpanel.caabhc.gov.bd
@@ -116,6 +119,7 @@ cpanel.techtown.com.bd
 cpanel.wonder.com.bd
 cpanel.xmarket.com.bd
 cpcalendars.amigo.com.bd
+cpcalendars.arsc.edu.bd
 cpcalendars.bhsch.edu.bd
 cpcalendars.bluecube.com.bd
 cpcalendars.creora.com.bd
@@ -131,6 +135,7 @@ cpcalendars.railwaypolice.gov.bd
 cpcalendars.techtown.com.bd
 cpcalendars.xmarket.com.bd
 cpcontacts.amigo.com.bd
+cpcontacts.arsc.edu.bd
 cpcontacts.bhsch.edu.bd
 cpcontacts.bluecube.com.bd
 cpcontacts.creora.com.bd
@@ -198,6 +203,7 @@ erp.izakaya.com.bd
 estore.fireservice.gov.bd
 eventexpert.com.bd
 eventfactory.com.bd
+ewa.saas.com.bd
 explorelab.com.bd
 ezzy.plexuscloud.com.bd
 faa.financedu.ac.bd
@@ -227,11 +233,14 @@ hartagirlshs.edu.bd
 hashinreza.com.bd
 hdms.edu.bd
 healthbarta.com.bd
+hgdm.edu.bd
 hil.com.bd
+histravel.com.bd
 homeofirstaid.com.bd
 hotels.com.bd
 hrm-service.bscl.gov.bd
 hrm.bscl.gov.bd
+ibook.com.bd
 iconauto.com.bd
 idmnarail.edu.bd
 ihram.com.bd
@@ -271,6 +280,7 @@ luminouscraft.com.bd
 maheshpurpourashava.gov.bd
 mail.ahsaniamission.org.bd
 mail.amigo.com.bd
+mail.arsc.edu.bd
 mail.aunhs.edu.bd
 mail.bapex.com.bd
 mail.bhsch.edu.bd
@@ -338,6 +348,7 @@ notice.race.net.bd
 novoza.com.bd
 ns2.techbd.com.bd
 nttc.edu.bd
+nurtelecom.com.bd
 nurulhoquecollege.edu.bd
 nwdcr.edu.bd
 ogca.jalalabadgas.org.bd
@@ -393,11 +404,13 @@ rss.ric.edu.bd
 sadai.gov.bd
 saintandrewshs.edu.bd
 saintandrewshs.edu.bd.ihsh.edu.bd
+sakib.com.bd
 sandboxpg.eps.com.bd
 sandboxpgapi.eps.com.bd
 scjss.edu.bd
 seapearl.com.bd
 seo.triangletech.com.bd
+services.nha.gov.bd
 seu.edu.bd
 shahreen.com.bd
 shalam.buet.ac.bd
@@ -467,6 +480,7 @@ volunteer.ekshop.gov.bd
 vtax.com.bd
 wazuh.akij.com.bd
 webdisk.amigo.com.bd
+webdisk.arsc.edu.bd
 webdisk.bhsch.edu.bd
 webdisk.bluecube.com.bd
 webdisk.creora.com.bd
@@ -521,6 +535,7 @@ www.api.ecotechinnovation.com.bd
 www.apisms.shurjomukhisolutions.com.bd
 www.apps.eps.com.bd
 www.apps.jamalpurttc.gov.bd
+www.arsc.edu.bd
 www.aunhs.edu.bd
 www.ayaats.com.bd
 www.bairan.com.bd
@@ -610,6 +625,7 @@ www.ninjatech.com.bd
 www.niribili.com.bd
 www.nirmaan.com.bd
 www.novoza.com.bd
+www.nurtelecom.com.bd
 www.omni.intelesys.com.bd
 www.panchagarhmunicipality.gov.bd
 www.paradisetravels.com.bd
