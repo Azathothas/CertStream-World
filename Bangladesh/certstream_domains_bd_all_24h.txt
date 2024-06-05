@@ -43,6 +43,7 @@ amlhs.edu.bd
 amlhs1954.edu.bd
 anphs.edu.bd
 ansarvdpbank.gov.bd
+aop.com.bd
 api.khata.media365.com.bd
 api.torr.com.bd
 app.mrt.sigmasolutions.com.bd
@@ -71,6 +72,8 @@ autodiscover.bishiahs.edu.bd
 autodiscover.brm.edu.bd
 autodiscover.caghs.edu.bd
 autodiscover.darushacollege.edu.bd
+autodiscover.esl.com.bd
+autodiscover.esl.net.bd
 autodiscover.gikm.edu.bd
 autodiscover.haahfahs.edu.bd
 autodiscover.islamicrelief.org.bd
@@ -224,6 +227,8 @@ cpanel.caghs.edu.bd
 cpanel.darushacollege.edu.bd
 cpanel.dnideal.com.bd
 cpanel.drodhaka.gov.bd
+cpanel.esl.com.bd
+cpanel.esl.net.bd
 cpanel.fdhs.edu.bd
 cpanel.gikm.edu.bd
 cpanel.haahfahs.edu.bd
@@ -234,6 +239,7 @@ cpanel.krsdm.edu.bd
 cpanel.mensaccessories.com.bd
 cpanel.mrdhs.edu.bd
 cpanel.nsmpghs.edu.bd
+cpanel.reliefvalidation.com.bd
 cpanel.salimabaddegreecollege1973.edu.bd
 cpanel.saturiagovmphschool.edu.bd
 cpanel.server.ussit.com.bd
@@ -258,6 +264,8 @@ cpcalendars.caghs.edu.bd
 cpcalendars.darushacollege.edu.bd
 cpcalendars.dnideal.com.bd
 cpcalendars.drodhaka.gov.bd
+cpcalendars.esl.com.bd
+cpcalendars.esl.net.bd
 cpcalendars.fdhs.edu.bd
 cpcalendars.gikm.edu.bd
 cpcalendars.haahfahs.edu.bd
@@ -267,6 +275,7 @@ cpcalendars.jamalpurttc.gov.bd
 cpcalendars.krsdm.edu.bd
 cpcalendars.mrdhs.edu.bd
 cpcalendars.nsmpghs.edu.bd
+cpcalendars.reliefvalidation.com.bd
 cpcalendars.salimabaddegreecollege1973.edu.bd
 cpcalendars.saturiagovmphschool.edu.bd
 cpcalendars.server.ussit.com.bd
@@ -290,6 +299,8 @@ cpcontacts.caghs.edu.bd
 cpcontacts.darushacollege.edu.bd
 cpcontacts.dnideal.com.bd
 cpcontacts.drodhaka.gov.bd
+cpcontacts.esl.com.bd
+cpcontacts.esl.net.bd
 cpcontacts.fdhs.edu.bd
 cpcontacts.gikm.edu.bd
 cpcontacts.haahfahs.edu.bd
@@ -299,6 +310,7 @@ cpcontacts.jamalpurttc.gov.bd
 cpcontacts.krsdm.edu.bd
 cpcontacts.mrdhs.edu.bd
 cpcontacts.nsmpghs.edu.bd
+cpcontacts.reliefvalidation.com.bd
 cpcontacts.salimabaddegreecollege1973.edu.bd
 cpcontacts.saturiagovmphschool.edu.bd
 cpcontacts.server.ussit.com.bd
@@ -378,6 +390,7 @@ ejobs.com.bd
 elearning.ec4j.gov.bd
 electromartltd.com.bd
 elipos.toprated.com.bd
+elitelifestyle.com.bd
 ems.palonghighschool.edu.bd
 energyplus.zamanit.com.bd
 eng.hcsb.org.bd
@@ -388,6 +401,8 @@ erp.icmab.gov.bd
 erp.icmab.org.bd
 erp.innovationit.com.bd
 erp.sarasoftware.com.bd
+esl.com.bd
+esl.net.bd
 essentials.com.bd
 evaly.com.bd
 fancybeautyhairprofessional.com.fancybeauty.com.bd
@@ -411,6 +426,7 @@ funnel.com.bd
 fushs.edu.bd
 gabnahs.edu.bd
 gadget-store.storex.com.bd
+gadgetland.com.bd
 gajailsam.edu.bd
 gallerycosmos.org.bd
 games.innovationit.com.bd
@@ -486,6 +502,7 @@ itselegant.com.bd
 itsolutions.easynsoft.com.bd
 itss.com.bd
 jaarchitects.com.bd
+jaintapurgovths.edu.bd
 jamalpurttc.gov.bd
 janata.com.bd
 jcf.org.bd
@@ -502,11 +519,13 @@ kamdc.edu.bd
 kass100031.edu.bd
 kawghsnandigram.edu.bd
 kazipurrdhighschool.edu.bd
+kazlaam.edu.bd
 kbmcollege.edu.bd
 kdbbhs.edu.bd
 keyan.com.bd
 kgghscht.edu.bd
 kghsc.edu.bd
+kghssyl.edu.bd
 kham.edu.bd
 kham.rsmfm.edu.bd
 khaskandihighschool.edu.bd
@@ -559,6 +578,8 @@ mail.dev.com.bd
 mail.dnideal.com.bd
 mail.drodhaka.gov.bd
 mail.eblink.com.bd
+mail.esl.com.bd
+mail.esl.net.bd
 mail.fdhs.edu.bd
 mail.frogtech.com.bd
 mail.gbpl.com.bd
@@ -708,10 +729,12 @@ raju.com.bd
 rampalup.innovationit.com.bd
 rapid.net.bd
 ras.com.bd
+rda.edu.bd
 rdidm.edu.bd
 rdskm.edu.bd
 rebmsc.edu.bd
 rei71.ac.bd
+reliefvalidation.com.bd
 rents.com.bd
 repairbox.com.bd
 reports.storex.com.bd
@@ -869,6 +892,8 @@ webdisk.caghs.edu.bd
 webdisk.darushacollege.edu.bd
 webdisk.dnideal.com.bd
 webdisk.drodhaka.gov.bd
+webdisk.esl.com.bd
+webdisk.esl.net.bd
 webdisk.fdhs.edu.bd
 webdisk.gikm.edu.bd
 webdisk.haahfahs.edu.bd
@@ -879,6 +904,7 @@ webdisk.krsdm.edu.bd
 webdisk.mensaccessories.com.bd
 webdisk.mrdhs.edu.bd
 webdisk.nsmpghs.edu.bd
+webdisk.reliefvalidation.com.bd
 webdisk.salimabaddegreecollege1973.edu.bd
 webdisk.saturiagovmphschool.edu.bd
 webdisk.server.ussit.com.bd
@@ -902,6 +928,8 @@ webmail.caabhc.gov.bd
 webmail.caghs.edu.bd
 webmail.darushacollege.edu.bd
 webmail.drodhaka.gov.bd
+webmail.esl.com.bd
+webmail.esl.net.bd
 webmail.fdhs.edu.bd
 webmail.gikm.edu.bd
 webmail.haahfahs.edu.bd
@@ -1064,11 +1092,14 @@ www.edtech.bdu.ac.bd
 www.efl.com.bd
 www.egp.bdu.ac.bd
 www.elearning.ec4j.gov.bd
+www.elitelifestyle.com.bd
 www.ems.palonghighschool.edu.bd
 www.energyplus.zamanit.com.bd
 www.eng.hcsb.org.bd
 www.ereporting.innovationit.com.bd
 www.erp.innovationit.com.bd
+www.esl.com.bd
+www.esl.net.bd
 www.fancybeautyhairprofessional.com.fancybeauty.com.bd
 www.fancybeautyinstitute.org.fancybeauty.com.bd
 www.fbsju.edu.bd
@@ -1116,9 +1147,12 @@ www.islamicrelief.org.bd
 www.isu.ac.bd
 www.itasset.ansarvdpbank.gov.bd
 www.itsolutions.easynsoft.com.bd
+www.jaintapurgovths.edu.bd
 www.jamalpurttc.gov.bd
 www.jamiahnar.nirf.org.bd
 www.jnishipping.lsl.com.bd
+www.kazlaam.edu.bd.momtajtdpl.com.bd
+www.kghssyl.edu.bd
 www.kham.rsmfm.edu.bd
 www.khatizinnis.com.bd
 www.kjspusc.edu.bd.pekuahs.edu.bd
@@ -1197,6 +1231,7 @@ www.qna.com.bd
 www.rampalup.innovationit.com.bd
 www.ras.com.bd
 www.reg.padmasecurities.com.bd
+www.reliefvalidation.com.bd
 www.reports.storex.com.bd
 www.rfeni.innovationit.com.bd
 www.rggs-edu.empo.edu.bd
