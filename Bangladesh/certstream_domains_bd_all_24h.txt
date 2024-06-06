@@ -38,10 +38,12 @@ ambaganhs.edu.bd
 antast.com.bd
 api.daewoo.com.bd
 api.digihaat.com.bd
+api.loxbo.com.bd
 api.result.du.ac.bd
 api.smartdeal.com.bd
 app.accl.com.bd
 app.autonemo.com.bd
+app.biznify.com.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
 appmonitor.ibrahimcardiac.org.bd
@@ -182,6 +184,7 @@ cpanel.odoo.com.bd
 cpanel.qsetup.com.bd
 cpanel.result.du.ac.bd
 cpanel.sfmsj.edu.bd
+cpanel.shadelectronicsmart.com.bd
 cpanel.staradhesives.com.bd
 cpanel.tenders.com.bd
 cpanel.toha.eco.du.ac.bd
@@ -210,6 +213,7 @@ cpcalendars.mymensinghhelpline.com.bd
 cpcalendars.novozaa.com.bd
 cpcalendars.odoo.com.bd
 cpcalendars.qsetup.com.bd
+cpcalendars.shadelectronicsmart.com.bd
 cpcalendars.staradhesives.com.bd
 cpcalendars.tenders.com.bd
 cpcontacts.aucm.edu.bd
@@ -237,8 +241,10 @@ cpcontacts.mymensinghhelpline.com.bd
 cpcontacts.novozaa.com.bd
 cpcontacts.odoo.com.bd
 cpcontacts.qsetup.com.bd
+cpcontacts.shadelectronicsmart.com.bd
 cpcontacts.staradhesives.com.bd
 cpcontacts.tenders.com.bd
+cptu.gov.bd
 creation.com.bd
 crm.runwayofficesupply.com.bd
 crmapi.educationat.org.goldeninfotech.com.bd
@@ -255,6 +261,7 @@ dailystore.com.bd
 dailysunshine.com.bd
 darksc.edu.bd
 dashboard.engine.hasc.edu.bd
+delivery24.com.bd
 deltaint.com.bd
 demo.eduzone.com.bd
 demo.elitedesign.com.bd
@@ -291,6 +298,7 @@ eduman.com.bd
 eduzone.com.bd
 efl.com.bd
 ejobs.com.bd
+elitecrete.com.bd
 elp.bdren.net.bd
 employeeservice.biznify.com.bd
 ems.dhakaboysandgirlscollege.edu.bd
@@ -300,6 +308,7 @@ englishfantasy.com.bd
 engreen.com.bd
 ep.retinasoft.com.bd
 epos.cakeshop.com.bd
+eprocure.gov.bd
 erp.automania.com.bd
 erp.belleza.com.bd
 eschool.ekdhs.edu.bd
@@ -328,6 +337,7 @@ ftp.mark.eco.du.ac.bd
 ftp.result.du.ac.bd
 ftp.sfmsj.edu.bd
 ftp.toha.eco.du.ac.bd
+furnicia.com.bd
 futurevalley.com.bd
 gadgetland.com.bd
 gal.com.bd
@@ -335,6 +345,7 @@ gallakadarshadegreecollege.edu.bd
 ganapaddyhs.edu.bd
 ganaughsc.edu.bd
 garjaripaadsdm.edu.bd
+gawsiashop.com.bd
 gebt.just.edu.bd
 geography.jnu.ac.bd
 gitserver.kaz.com.bd
@@ -366,6 +377,7 @@ ibmcr.edu.bd
 iccha.com.bd
 identity.kaz.com.bd
 idyllicdesign.com.bd
+iizeq.com.bd
 imperial.edu.bd
 instant.com.bd
 intertek.com.bd
@@ -425,6 +437,7 @@ madrasa.cpaghs.edu.bd
 madrasah.al-ihsanhighschool.edu.bd
 mail.1pocket.com.bd
 mail.7college.du.ac.bd
+mail.accessnet.com.bd
 mail.aucm.edu.bd
 mail.bachelor.com.bd
 mail.baseltd.com.bd
@@ -472,6 +485,7 @@ mail.odoo.com.bd
 mail.onchain.com.bd
 mail.result.du.ac.bd
 mail.sfmsj.edu.bd
+mail.shadelectronicsmart.com.bd
 mail.shoppers.com.bd
 mail.speedlinks.com.bd
 mail.staradhesives.com.bd
@@ -490,6 +504,7 @@ masafi.com.bd
 mastermind.com.bd
 matribhumi.edu.bd
 mawbiz.com.bd
+maxton.com.bd
 mbc.edu.bd
 mbf.org.bd
 mbhs106910.edu.bd
@@ -609,6 +624,7 @@ roseshoes.net.bazar.net.bd
 rpmhss.edu.bd
 rpsu.edu.bd
 rumaa12.org.bd
+s.baznabogirlshighschool.edu.bd
 saadatcollege.gov.bd
 saahhs.edu.bd
 sadekpuridm.edu.bd
@@ -638,6 +654,7 @@ shahriar.info.bd
 shailottytbmc.edu.bd
 shamsgroup.com.bd
 shop.palshop.com.bd
+shopfly.com.bd
 shopnershiri.org.bd
 shoppers.com.bd
 shutki.com.bd
@@ -753,6 +770,7 @@ webdisk.mymensinghhelpline.com.bd
 webdisk.novozaa.com.bd
 webdisk.odoo.com.bd
 webdisk.qsetup.com.bd
+webdisk.shadelectronicsmart.com.bd
 webdisk.staradhesives.com.bd
 webdisk.tenders.com.bd
 webmail.7college.du.ac.bd
@@ -786,6 +804,7 @@ webmail.novozaa.com.bd
 webmail.odoo.com.bd
 webmail.result.du.ac.bd
 webmail.sfmsj.edu.bd
+webmail.shadelectronicsmart.com.bd
 webmail.staradhesives.com.bd
 webmail.tenders.com.bd
 webmail.toha.eco.du.ac.bd
@@ -793,6 +812,7 @@ webmail.topten.info.bd
 webmail.ugv.edu.bd
 webportal.ugv.edu.bd
 wecon.com.bd
+wheeldeals.com.bd
 whm1.mirnet.com.bd
 wiki.bdnewsnet.com.bd
 wns.instinctgroup.com.bd
@@ -946,6 +966,7 @@ www.mapsdesign.com.bd
 www.mariammemorialgirlsschool.edu.bd
 www.mark.eco.du.ac.bd
 www.mawbiz.com.bd
+www.maxton.com.bd
 www.mbc.edu.bd
 www.mbf.org.bd
 www.mgili.edu.bd
@@ -1000,6 +1021,7 @@ www.rokey.eco.du.ac.bd
 www.rokey.result.du.ac.bd
 www.roseshoes.net.bazar.net.bd
 www.rtm-admin.bcps.edu.bd
+www.s.baznabogirlshighschool.edu.bd
 www.saadatcollege.gov.bd
 www.sadekpuridm.edu.bd
 www.sanboard.gov.bd.tiller.com.bd
@@ -1009,6 +1031,7 @@ www.secondbit.com.bd
 www.secure.7college.du.ac.bd
 www.seep.org.bd
 www.sfmsj.edu.bd
+www.shadelectronicsmart.com.bd
 www.shahojogi.org.mollatravels.com.bd
 www.shailottytbmc.edu.bd
 www.shamsgroup.com.bd
