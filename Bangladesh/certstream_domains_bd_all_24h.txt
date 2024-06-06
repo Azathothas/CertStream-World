@@ -78,6 +78,7 @@ autodiscover.mahi.com.bd
 autodiscover.mbc.edu.bd
 autodiscover.monarchit.com.bd
 autodiscover.odoo.com.bd
+autodiscover.propertysource.com.bd
 autodiscover.qsetup.com.bd
 autodiscover.staradhesives.com.bd
 autodiscover.tenders.com.bd
@@ -125,6 +126,7 @@ blog.redx.com.bd
 booking.dhakacity.com.bd
 bookstore.purebasic.com.bd
 boxes.com.bd
+bposummit.org.bd
 bridge.com.bd
 bridgex.com.bd
 brsl.net.bd
@@ -146,6 +148,7 @@ cbasm.edu.bd
 cems.com.bd
 ces.presidency.ac.bd
 cgrcnbsnhs.edu.bd
+chaapghor.com.bd
 chairman.trsc.edu.bd
 chandigarhighschool.edu.bd
 charachar.com.bd
@@ -198,6 +201,7 @@ cpanel.mpwdc.edu.bd
 cpanel.mymensinghhelpline.com.bd
 cpanel.novozaa.com.bd
 cpanel.odoo.com.bd
+cpanel.propertysource.com.bd
 cpanel.qsetup.com.bd
 cpanel.result.du.ac.bd
 cpanel.sfmsj.edu.bd
@@ -234,6 +238,7 @@ cpcalendars.mpwdc.edu.bd
 cpcalendars.mymensinghhelpline.com.bd
 cpcalendars.novozaa.com.bd
 cpcalendars.odoo.com.bd
+cpcalendars.propertysource.com.bd
 cpcalendars.qsetup.com.bd
 cpcalendars.shadelectronicsmart.com.bd
 cpcalendars.sisalapparel.com.bd
@@ -267,6 +272,7 @@ cpcontacts.mpwdc.edu.bd
 cpcontacts.mymensinghhelpline.com.bd
 cpcontacts.novozaa.com.bd
 cpcontacts.odoo.com.bd
+cpcontacts.propertysource.com.bd
 cpcontacts.qsetup.com.bd
 cpcontacts.shadelectronicsmart.com.bd
 cpcontacts.sisalapparel.com.bd
@@ -336,6 +342,7 @@ elp.bdren.net.bd
 email.educationtoday.com.bd
 email.premierpress.com.bd
 employeeservice.biznify.com.bd
+ems.adgc.edu.bd
 ems.dhakaboysandgirlscollege.edu.bd
 energybangla.com.bd
 energyshield.com.bd
@@ -393,6 +400,7 @@ gitserver.kaz.com.bd
 globalnews.com.bd
 globaloffice.com.bd
 globalskills.com.bd
+glogo.evat.glogo.com.bd
 gobindapurhsgbc.edu.bd
 goldeninfotech.com.bd
 goodday.com.bd
@@ -408,7 +416,9 @@ handicraft.com.bd
 help.shohagh.com.bd
 hereway.com.bd
 highbrow.com.bd
+hil.evat.hamko.com.bd
 himaloy.com.bd
+hll.evat.hamko.com.bd
 hms.sarasoftware.com.bd
 house.innovationit.com.bd
 hrd.expresso.com.bd
@@ -538,6 +548,7 @@ mail.novozaa.com.bd
 mail.odoo.com.bd
 mail.onchain.com.bd
 mail.pool.techtown.com.bd
+mail.propertysource.com.bd
 mail.result.du.ac.bd
 mail.sfmsj.edu.bd
 mail.shadelectronicsmart.com.bd
@@ -556,6 +567,7 @@ mak64wholesaleclub.com.bd
 maksudkamal.du.ac.bd
 malijhikandahs.edu.bd
 mamtech.com.bd
+man.lifesciences.com.bd
 mandarimlhighschool.edu.bd
 mapsdesign.com.bd
 mariammemorialgirlsschool.edu.bd
@@ -626,6 +638,7 @@ osderacademy.edu.bd
 oshin.com.bd
 outsp.kmch.gov.bd
 pabnaalia.edu.bd
+padmabazar.com.bd
 parents.daffodilvarsity.edu.bd
 pathanmotors.com.bd
 pay.aranno.com.bd
@@ -650,6 +663,8 @@ posh.markets.fancybeauty.com.bd
 priomart.xyz.ecart.com.bd
 prismwml.com.bd
 profile.mkadegreecollege.edu.bd
+propertysource.a2arena.com.bd
+propertysource.com.bd
 protectivelife.com.bd
 psc.edu.bd
 pssdm.edu.bd
@@ -708,12 +723,14 @@ sanboard.gov.bd
 sanboard.gov.bd.tiller.com.bd
 sao.org.bd
 sarmhs.edu.bd
+sbadm.edu.bd
 sbn.com.bd
 scholarship.jnu.ac.bd
 school.aiscag.edu.bd
 school.innovationit.com.bd
 schoolsupply.com.bd
 scs.ac.bd
+sdnf.org.bd
 seapearl.xeontech.com.bd
 secondbit.com.bd
 secure.7college.du.ac.bd
@@ -864,6 +881,7 @@ webdisk.mpwdc.edu.bd
 webdisk.mymensinghhelpline.com.bd
 webdisk.novozaa.com.bd
 webdisk.odoo.com.bd
+webdisk.propertysource.com.bd
 webdisk.qsetup.com.bd
 webdisk.shadelectronicsmart.com.bd
 webdisk.sisalapparel.com.bd
@@ -902,6 +920,7 @@ webmail.mpwdc.edu.bd
 webmail.mymensinghhelpline.com.bd
 webmail.novozaa.com.bd
 webmail.odoo.com.bd
+webmail.propertysource.com.bd
 webmail.result.du.ac.bd
 webmail.sfmsj.edu.bd
 webmail.shadelectronicsmart.com.bd
@@ -914,7 +933,9 @@ webmail.tradecoaid.com.bd
 webmail.ugv.edu.bd
 webmail.ummahdeal.com.bd
 webportal.ugv.edu.bd
+websoft.com.bd
 wecon.com.bd
+wheel.com.bd
 wheeldeals.com.bd
 whm1.mirnet.com.bd
 whois.sas.com.bd
@@ -969,6 +990,7 @@ www.bhsch.edu.bd
 www.bill.crowngypsum.com.bd
 www.booking.dhakacity.com.bd
 www.bookstore.purebasic.com.bd
+www.bpo2018.bposummit.org.bd
 www.bridge.com.bd
 www.bridgex.com.bd
 www.brrproperty.ridinghigh.com.bd
@@ -984,6 +1006,7 @@ www.career.rpsu.edu.bd
 www.ces.presidency.ac.bd
 www.chairman.trsc.edu.bd
 www.chandigarhighschool.edu.bd
+www.chottogram.bposummit.org.bd
 www.cisc.cambrian.edu.bd
 www.cleaningservices.com.bd
 www.clinic.minisoft.com.bd
@@ -1126,6 +1149,8 @@ www.pos.professionals.com.bd
 www.posh.markets.fancybeauty.com.bd
 www.priomart.xyz.ecart.com.bd
 www.profile.mkadegreecollege.edu.bd
+www.propertysource.a2arena.com.bd
+www.propertysource.com.bd
 www.pssdm.edu.bd
 www.puthimarihs.edu.bd
 www.qa-school.sibd.com.bd
@@ -1148,6 +1173,7 @@ www.saadatcollege.gov.bd
 www.sadekpuridm.edu.bd
 www.saitaliadakhilmadrasha.edu.bd
 www.sanboard.gov.bd.tiller.com.bd
+www.sbadm.edu.bd
 www.scholarship.jnu.ac.bd
 www.school.innovationit.com.bd
 www.secondbit.com.bd
