@@ -1631,6 +1631,7 @@ cpanel.sab.info.bd
 cpanel.saintpeters.edu.bd
 cpanel.salimabaddegreecollege1973.edu.bd
 cpanel.sarban.com.bd
+cpanel.sarmaranuhs.edu.bd
 cpanel.saturiagovmphschool.edu.bd
 cpanel.sdmm.edu.bd
 cpanel.sencillo.com.bd
@@ -1922,6 +1923,7 @@ cpcalendars.sab.info.bd
 cpcalendars.saintpeters.edu.bd
 cpcalendars.salimabaddegreecollege1973.edu.bd
 cpcalendars.sarban.com.bd
+cpcalendars.sarmaranuhs.edu.bd
 cpcalendars.saturiagovmphschool.edu.bd
 cpcalendars.sdmm.edu.bd
 cpcalendars.sencillo.com.bd
@@ -2205,6 +2207,7 @@ cpcontacts.sab.info.bd
 cpcontacts.saintpeters.edu.bd
 cpcontacts.salimabaddegreecollege1973.edu.bd
 cpcontacts.sarban.com.bd
+cpcontacts.sarmaranuhs.edu.bd
 cpcontacts.saturiagovmphschool.edu.bd
 cpcontacts.sdmm.edu.bd
 cpcontacts.sencillo.com.bd
@@ -2941,6 +2944,7 @@ foodland.com.bd
 foodmart.com.bd
 footmax.com.bd
 formanpurhighschool.edu.bd
+forms.mygov.bd
 fortuneconstruction.com.bd
 fotile.com.bd
 foundersclub.com.bd
@@ -4293,6 +4297,7 @@ mail.salimabaddegreecollege1973.edu.bd
 mail.saptaghs.edu.bd
 mail.sarban.com.bd
 mail.sarkarhatnazaralirupzanhighschool.edu.bd
+mail.sarmaranuhs.edu.bd
 mail.saturiagovmphschool.edu.bd
 mail.sdmm.edu.bd
 mail.sebhs.edu.bd
@@ -4574,6 +4579,7 @@ mmhmc.edu.bd
 mmhs.edu.bd
 mmnr.edu.bd
 mmwiney.buet.ac.bd
+mnghsr.edu.bd
 mnjhs.edu.bd
 mno.diana.com.bd
 mobi.com.bd
@@ -5845,6 +5851,7 @@ speedlinks.com.bd
 speedoz.com.bd
 speedtest.nextonline.com.bd
 spex.com.bd
+sphs1962.edu.bd
 spin.mke.com.bd
 splsc.edu.bd
 spos.nextup.com.bd
@@ -6185,6 +6192,7 @@ tr-socket.most.gov.bd
 tr-support.most.gov.bd
 tr-test-service.most.gov.bd
 tr-training.most.gov.bd
+tra.com.bd
 traack.com.bd
 traceable.garbageman.com.bd
 tracking.mkt.chirkut.com.bd
@@ -6617,6 +6625,7 @@ webdisk.sab.info.bd
 webdisk.saintpeters.edu.bd
 webdisk.salimabaddegreecollege1973.edu.bd
 webdisk.sarban.com.bd
+webdisk.sarmaranuhs.edu.bd
 webdisk.saturiagovmphschool.edu.bd
 webdisk.sdmm.edu.bd
 webdisk.sencillo.com.bd
@@ -6921,6 +6930,7 @@ webmail.sab.info.bd
 webmail.saintpeters.edu.bd
 webmail.salimabaddegreecollege1973.edu.bd
 webmail.sarban.com.bd
+webmail.sarmaranuhs.edu.bd
 webmail.saturiagovmphschool.edu.bd
 webmail.savaracghighschool.edu.bd
 webmail.sdmm.edu.bd
@@ -7401,6 +7411,7 @@ www.billbazar.com.bd
 www.billing.dotves.com.bd
 www.billing.fnit.com.bd
 www.billing.fzonline.com.bd
+www.billing.minisoft.com.bd
 www.billing.repairbox.com.bd
 www.billing.shotomul.com.bd
 www.billing.tomatoweb.com.bd
@@ -8763,6 +8774,7 @@ www.posh.markets.fancybeauty.com.bd
 www.poshapets.dmc.edu.bd
 www.positivelearning.com.bd
 www.preorder.com.bd
+www.prescription.minisoft.com.bd
 www.prescription.zahid.com.bd
 www.presentation.iccit.org.bd
 www.primary.dsti.edu.bd
@@ -8936,6 +8948,7 @@ www.sarban.com.bd
 www.sarghsp.edu.bd
 www.sarikalss.edu.bd
 www.sarkarhatnazaralirupzanhighschool.edu.bd
+www.sarmaranuhs.edu.bd
 www.saturiagovmphschool.edu.bd
 www.savaracghighschool.edu.bd
 www.savarmunicipality.innovationit.com.bd
@@ -9356,6 +9369,7 @@ www.vetexplus-net-my.greentech.org.bd
 www.vice.com.bd
 www.victor.com.bd
 www.victoriahs-sreemangal.edu.bd
+www.videoupload.minisoft.com.bd
 www.visa.umrah.com.bd
 www.viserx.com.bd
 www.visitshibalay.innovationit.com.bd
@@ -9410,6 +9424,7 @@ www.zbadhs-ctg.edu.bd
 www.zcon.com.bd
 www.zen.com.bd
 www.zerogravity.com.bd.kiksha.com.bd
+www.zigwheels.com.bd
 www.ziihs.aphs.edu.bd
 www.zkteco.netzero.com.bd
 www.zossgadget.com.bd
@@ -9456,6 +9471,7 @@ zen.com.bd
 zerogravity.com.bd
 zerogravity.com.bd.kiksha.com.bd
 zhghsc.edu.bd
+zigwheels.com.bd
 ziihs.aphs.edu.bd
 zipcart.com.bd
 zit.com.bd
