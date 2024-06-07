@@ -19,6 +19,7 @@ agape.org.bd
 agraniruet.ac.bd
 agweb.org.bd
 ajkershop.com.bd
+akabaict.edu.bd
 akh.com.bd
 akhp.com.bd
 albaraka.com.bd
@@ -41,13 +42,16 @@ asbmdm.edu.bd
 ascot.com.bd
 atwarimodelphs.edu.bd
 autodiscover.agpghs.edu.bd
+autodiscover.akabaict.edu.bd
 autodiscover.basacfulkuri.edu.bd
 autodiscover.bdgl.com.bd
 autodiscover.birholyhs.edu.bd
 autodiscover.bmssc.edu.bd
 autodiscover.chuniagarihighschool.edu.bd
 autodiscover.gazipurgroup.com.bd
+autodiscover.hajjnews.com.bd
 autodiscover.hdt.com.bd
+autodiscover.infohive.com.bd
 autodiscover.itnaqr.net.bd
 autodiscover.kaikurirmhs.edu.bd
 autodiscover.tvhut.com.bd
@@ -140,6 +144,7 @@ contest.bkdcl.edu.bd
 convocation.ustc.ac.bd
 cp.cheaphost.com.bd
 cpanel.agpghs.edu.bd
+cpanel.akabaict.edu.bd
 cpanel.basacfulkuri.edu.bd
 cpanel.bdgl.com.bd
 cpanel.bifmadrasah.edu.bd
@@ -150,7 +155,9 @@ cpanel.chuniagarihighschool.edu.bd
 cpanel.firstsolutions.com.bd
 cpanel.gazipurgroup.com.bd
 cpanel.goldsands.com.bd
+cpanel.hajjnews.com.bd
 cpanel.hdt.com.bd
+cpanel.infohive.com.bd
 cpanel.itnaqr.net.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.kaikurirmhs.edu.bd
@@ -166,6 +173,7 @@ cpanel.techtown.com.bd
 cpanel.tvhut.com.bd
 cpanel.ummahdeal.com.bd
 cpanel.virgo.com.bd
+cpcalendars.akabaict.edu.bd
 cpcalendars.basacfulkuri.edu.bd
 cpcalendars.bdgl.com.bd
 cpcalendars.bifmadrasah.edu.bd
@@ -175,7 +183,9 @@ cpcalendars.cddm1.edu.bd
 cpcalendars.chuniagarihighschool.edu.bd
 cpcalendars.firstsolutions.com.bd
 cpcalendars.gazipurgroup.com.bd
+cpcalendars.hajjnews.com.bd
 cpcalendars.hdt.com.bd
+cpcalendars.infohive.com.bd
 cpcalendars.itnaqr.net.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kaikurirmhs.edu.bd
@@ -190,6 +200,7 @@ cpcalendars.techtown.com.bd
 cpcalendars.tvhut.com.bd
 cpcalendars.virgo.com.bd
 cpcontacts.agpghs.edu.bd
+cpcontacts.akabaict.edu.bd
 cpcontacts.basacfulkuri.edu.bd
 cpcontacts.bdgl.com.bd
 cpcontacts.bifmadrasah.edu.bd
@@ -199,7 +210,9 @@ cpcontacts.cddm1.edu.bd
 cpcontacts.chuniagarihighschool.edu.bd
 cpcontacts.firstsolutions.com.bd
 cpcontacts.gazipurgroup.com.bd
+cpcontacts.hajjnews.com.bd
 cpcontacts.hdt.com.bd
+cpcontacts.infohive.com.bd
 cpcontacts.itnaqr.net.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kaikurirmhs.edu.bd
@@ -279,6 +292,7 @@ eduzone.com.bd
 electramobile.com.bd
 ems.adgc.edu.bd
 energyavenue.com.bd
+eorganic.com.bd
 epayment.sust.edu.bd
 eranian.zonaki.com.bd
 eviqe.com.bd
@@ -322,6 +336,7 @@ gopalghatahighschool.edu.bd
 grameenshop.com.bd
 gultabazarhs.edu.bd
 h2hs.edu.bd
+hajjnews.com.bd
 hamdardpubliccollege.edu.bd
 hdt.com.bd
 his.brur.ac.bd
@@ -342,6 +357,7 @@ imaacorporation.com.bd
 imadm.edu.bd
 infanta.com.bd
 info.creation.com.bd
+infohive.com.bd
 inteblue.com.bd
 intercloud.bithut.com.bd
 internationalschoolsaidpur.edu.bd
@@ -357,6 +373,7 @@ itnaqr.net.bd
 itselegant.com.bd
 jah.cu.ac.bd
 jamalpurttc.gov.bd
+jdudm.edu.bd
 jhedm.edu.bd
 jhikargachamunicipality.gov.bd
 jis.edu.bd
@@ -374,12 +391,14 @@ kayanizparahs.edu.bd
 kbh.com.bd
 kewatomiruddinalimmadrasha.edu.bd
 khantraders.com.bd
+kmm118600.edu.bd
 kmpi.gov.bd
 korakdiup.faridpurlg.gov.bd
 kpbhs.edu.bd
 kranti.bamis.gov.bd
 krishisheba.com.bd
 lahuriaarsschool.edu.bd
+lalagorharaziadakhilmadrasa.edu.bd
 laluamajhirahs.edu.bd
 latifpuralimmadrasah.edu.bd
 leap.mrg.com.bd
@@ -395,6 +414,7 @@ lpgdemo.greenfuel.com.bd
 mahadihassan.com.bd
 mail.accessnet.com.bd
 mail.agpghs.edu.bd
+mail.akabaict.edu.bd
 mail.anowaragovtcollege.edu.bd
 mail.atwarimodelphs.edu.bd
 mail.basacfulkuri.edu.bd
@@ -412,9 +432,11 @@ mail.dighirparacb.edu.bd
 mail.firstsolutions.com.bd
 mail.gazipurgroup.com.bd
 mail.goldsands.com.bd
+mail.hajjnews.com.bd
 mail.hashtag.com.bd
 mail.hdt.com.bd
 mail.infanta.com.bd
+mail.infohive.com.bd
 mail.itnaqr.net.bd
 mail.jamalpurttc.gov.bd
 mail.kablewala.com.bd
@@ -443,6 +465,7 @@ malijhikandahs.edu.bd
 maple.com.bd
 marjalkmb.edu.bd
 marktale.com.bd
+medudm118592.edu.bd
 megamartbd.com.bd
 merchant.fastdeliver.com.bd
 mgcollege.edu.bd
@@ -467,6 +490,7 @@ narailpourashava.gov.bd
 nasim.buet.ac.bd
 nbhschool.edu.bd
 nbis.com.bd
+ndgkdm.edu.bd
 needs.com.bd
 neptuneenc.com.bd
 news.police.gov.bd
@@ -487,6 +511,7 @@ onnorokomtour.com.bd
 organic64.com.bd
 ost.icc.com.bd
 ozzymart.com.bd
+pabsm118579.edu.bd
 padmabazar.com.bd
 palshakrishnapurhighschool.edu.bd
 pamkc.edu.bd
@@ -571,6 +596,7 @@ shop.studioz.com.bd
 shothik.com.bd
 shyamolimats.edu.bd
 shyamolinursing.edu.bd
+signature.com.bd
 singarolhs.edu.bd
 singherkathimlhs.edu.bd
 sist.ac.bd
@@ -591,6 +617,7 @@ software.blackrace.com.bd
 softwareart.com.bd
 solaparahs.edu.bd
 somahar.com.bd
+spacesignal.com.bd
 sphsc.edu.bd
 spreedex.com.bd
 spreedex.com.bd.dml.com.bd
@@ -669,6 +696,7 @@ w3crafters.samir.com.bd
 warihighschool.edu.bd
 watchshop.com.bd
 webdisk.agpghs.edu.bd
+webdisk.akabaict.edu.bd
 webdisk.basacfulkuri.edu.bd
 webdisk.bdgl.com.bd
 webdisk.bifmadrasah.edu.bd
@@ -678,7 +706,9 @@ webdisk.cddm1.edu.bd
 webdisk.chuniagarihighschool.edu.bd
 webdisk.firstsolutions.com.bd
 webdisk.gazipurgroup.com.bd
+webdisk.hajjnews.com.bd
 webdisk.hdt.com.bd
+webdisk.infohive.com.bd
 webdisk.itnaqr.net.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.kaikurirmhs.edu.bd
@@ -693,6 +723,7 @@ webdisk.tvhut.com.bd
 webdisk.virgo.com.bd
 webmail.abcl.com.bd
 webmail.agpghs.edu.bd
+webmail.akabaict.edu.bd
 webmail.basacfulkuri.edu.bd
 webmail.bdgl.com.bd
 webmail.bifmadrasah.edu.bd
@@ -706,7 +737,9 @@ webmail.electramobile.com.bd
 webmail.firstsolutions.com.bd
 webmail.gazipurgroup.com.bd
 webmail.goldsands.com.bd
+webmail.hajjnews.com.bd
 webmail.hdt.com.bd
+webmail.infohive.com.bd
 webmail.itnaqr.net.bd
 webmail.jamalpurttc.gov.bd
 webmail.kaikurirmhs.edu.bd
@@ -743,6 +776,7 @@ www.ads.rsf.com.bd
 www.afcagrobiotech.com.bd
 www.agpghs.edu.bd
 www.ajkershop.com.bd
+www.akabaict.edu.bd
 www.akh.akhp.com.bd
 www.albionbd.com.favourita.com.bd
 www.alif.zetech.com.bd
@@ -838,6 +872,7 @@ www.giftepro.com.rckhs.edu.bd
 www.glht.edu.bd
 www.goldsands.com.bd
 www.habib.zetech.com.bd
+www.hajjnews.com.bd
 www.hdt.com.bd
 www.his.brur.ac.bd
 www.horixonaviation.com.bd.horixon.com.bd
@@ -849,6 +884,7 @@ www.imadm.edu.bd
 www.infanta.com.bd
 www.info.creation.com.bd
 www.info.presidencybd.edu.bd
+www.infohive.com.bd
 www.inteblue.com.bd
 www.intercloud.bithut.com.bd
 www.iptsp.icc.com.bd
@@ -934,6 +970,7 @@ www.shop.studioz.com.bd
 www.shothik.com.bd
 www.shyamolimats.edu.bd.traumainstitute.edu.bd
 www.shyamolinursing.edu.bd.traumainstitute.edu.bd
+www.signature.com.bd
 www.sjgss.edu.bd
 www.sjhsc.edu.bd
 www.skillbangladesh.com.bd
