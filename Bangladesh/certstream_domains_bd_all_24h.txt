@@ -18,6 +18,7 @@ admin-dev.dailycricket.com.bd
 admin-test.easytrax.com.bd
 admin.bpsa.com.bd
 admin.mandaonline.net.bd
+admin.oilco.com.bd
 admin.primeasia.edu.bd
 admin.shoppingmart.com.bd
 admin.skssc.edu.bd
@@ -57,6 +58,7 @@ ammra.com.bd
 amzad.com.bd
 amzadfood.com.bd
 anahs.edu.bd
+ananda.com.bd
 anaselectronics.com.bd
 anienterprise.com.bd
 apa.ku.ac.bd
@@ -129,6 +131,7 @@ autodiscover.easytax.com.bd
 autodiscover.edification.com.bd
 autodiscover.ermhs.edu.bd
 autodiscover.erpnext.com.bd
+autodiscover.eshopsylhet.com.bd
 autodiscover.euparjon.com.bd
 autodiscover.eusc.edu.bd
 autodiscover.fbic.edu.bd
@@ -304,6 +307,7 @@ buyherenow.com.bd
 buzruksahighschool.edu.bd.bkbhs.edu.bd
 cabltv.xyz.abid.com.bd
 capi.creatorinside.com.bd
+capi.haaterkace.com.bd
 capig.ebasket.com.bd
 carboy.com.bd
 career.theindependent.com.bd
@@ -414,6 +418,7 @@ cpanel.emets.com.bd
 cpanel.enrichgroup.com.bd
 cpanel.ermhs.edu.bd
 cpanel.erpnext.com.bd
+cpanel.eshopsylhet.com.bd
 cpanel.euparjon.com.bd
 cpanel.eusc.edu.bd
 cpanel.fbic.edu.bd
@@ -556,6 +561,7 @@ cpcalendars.emets.com.bd
 cpcalendars.enrichgroup.com.bd
 cpcalendars.ermhs.edu.bd
 cpcalendars.erpnext.com.bd
+cpcalendars.eshopsylhet.com.bd
 cpcalendars.euparjon.com.bd
 cpcalendars.eusc.edu.bd
 cpcalendars.fbic.edu.bd
@@ -678,6 +684,7 @@ cpcontacts.emets.com.bd
 cpcontacts.enrichgroup.com.bd
 cpcontacts.ermhs.edu.bd
 cpcontacts.erpnext.com.bd
+cpcontacts.eshopsylhet.com.bd
 cpcontacts.euparjon.com.bd
 cpcontacts.eusc.edu.bd
 cpcontacts.fbic.edu.bd
@@ -865,6 +872,7 @@ ermhs.edu.bd
 erp.presidencybd.edu.bd
 erpnext.com.bd
 eserve.org.bd
+eshopsylhet.com.bd
 esrgear.com.bd
 estate.kda.gov.bd
 ests.com.bd
@@ -1198,6 +1206,7 @@ mail.emets.com.bd
 mail.enrichgroup.com.bd
 mail.ermhs.edu.bd
 mail.erpnext.com.bd
+mail.eshopsylhet.com.bd
 mail.euparjon.com.bd
 mail.eusc.edu.bd
 mail.faithbangladesh.org.bd
@@ -1422,6 +1431,7 @@ noormohammadcollege.ac.bd
 northsouth.ac.bd
 nova.org.bd
 novus.com.bd
+npos.eshopsylhet.com.bd
 nssdk.edu.bd
 ntcbd.starnet.com.bd
 nursingcareforyou.com.bd
@@ -1435,6 +1445,7 @@ old.barishalcity.gov.bd
 old.daffodilvarsity.edu.bd
 old.fortress.com.bd
 old.iom.edu.bd
+olokik.com.bd
 oneit.com.bd
 onesolution.com.bd
 openid.dghs.gov.bd
@@ -1675,6 +1686,7 @@ ssmc.edu.bd
 ssreerampurhighschool.edu.bd
 staging.luvit.com.bd
 steelbond.com.bd
+subspace.com.bd
 sudoksho.rms.com.bd
 suhssyl.edu.bd
 sukndm.edu.bd
@@ -1824,6 +1836,7 @@ webdisk.emets.com.bd
 webdisk.enrichgroup.com.bd
 webdisk.ermhs.edu.bd
 webdisk.erpnext.com.bd
+webdisk.eshopsylhet.com.bd
 webdisk.euparjon.com.bd
 webdisk.eusc.edu.bd
 webdisk.fbic.edu.bd
@@ -1967,6 +1980,7 @@ webmail.emets.com.bd
 webmail.enrichgroup.com.bd
 webmail.ermhs.edu.bd
 webmail.erpnext.com.bd
+webmail.eshopsylhet.com.bd
 webmail.euparjon.com.bd
 webmail.eusc.edu.bd
 webmail.fbic.edu.bd
@@ -2287,6 +2301,7 @@ www.enroute.rms.com.bd
 www.ermhs.edu.bd
 www.erp.presidencybd.edu.bd
 www.erpnext.com.bd
+www.eshopsylhet.com.bd
 www.esrgear.com.bd
 www.etrade.barisalcity.gov.bd
 www.etrade.barishalcity.gov.bd
@@ -2470,6 +2485,7 @@ www.nodejsapp.ownfood.com.bd
 www.noormohammadcollege.ac.bd
 www.northsouth.ac.bd
 www.novus.com.bd
+www.npos.eshopsylhet.com.bd
 www.nssdk.edu.bd
 www.ntcbd.starnet.com.bd
 www.nutritiondepot.com.bd
