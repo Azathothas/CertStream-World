@@ -22,10 +22,12 @@ admin.gpi.edu.bd
 admin.picky.com.bd
 admin.razapurcollege.edu.bd
 admin.sonod.com.bd
+admin.sraep.gov.bd
 admin.stcoverseas.com.bd
 adminui.cslsoft.com.bd
 admission-bhec-du.ac.bd
 admission.baiust.ac.bd
+admission.baustkhulna.ac.bd
 admission.sgmsc.edu.bd
 admitcard.com.bd
 admitcard.pundrauniversity.ac.bd
@@ -45,6 +47,7 @@ agfuphs.edu.bd
 aglkmgm.edu.bd
 aguntech.com.bd
 ahmedtanvir.com.bd
+aiamam.aiamam.edu.bd
 ail.com.bd
 airmaryhs.edu.bd
 akhanei.com.bd
@@ -191,6 +194,7 @@ biffl.org.bd
 bigtech.com.bd
 bilchs.edu.bd
 billing.callcenter.sigmasolutions.com.bd
+billing.himalaya.com.bd
 billing.raindrop.com.bd
 billing.sbn.com.bd
 billing.speedone.net.bd
@@ -607,6 +611,7 @@ ems.kazimontucollege.edu.bd
 ems.kgck.edu.bd
 ems.mgsc.edu.bd
 emsserver.epb-exporttracker.gov.bd
+en.atik.com.bd
 enroute.com.bd
 epay.metlife.com.bd
 epop.com.bd
@@ -661,6 +666,7 @@ freshmart.com.bd
 frp.com.bd
 ftp.armadea.com.bd
 ftp.hanoch.com.bd
+ftp.himalaya.com.bd
 ftp.surovi.com.bd
 futureplan.com.bd
 gaburagopallaxmiss.edu.bd
@@ -713,6 +719,7 @@ heghschool.edu.bd
 heriken.com.bd
 herpower.gov.bd
 hhkm.edu.bd
+himalaya.com.bd
 hisfeni.edu.bd
 hizlacollege.edu.bd
 hkajss.edu.bd
@@ -873,6 +880,7 @@ laxmiganjhighschool.edu.bd
 lcs.edu.bd
 leave.platinumhotels.com.bd
 legalaction.org.bd
+lgphs.edu.bd
 liakatalihs.edu.bd
 lifm.edu.bd
 lilabali.com.bd
@@ -970,6 +978,7 @@ mail.hamejiadm.edu.bd
 mail.hanoch.com.bd
 mail.hashtag.com.bd
 mail.hbhighschool.edu.bd
+mail.himalaya.com.bd
 mail.hmjacc.edu.bd
 mail.hnl.com.bd
 mail.hsschool.edu.bd
@@ -1060,6 +1069,7 @@ mail.zarbi.com.bd
 majesty.com.bd
 majhiparawdc.edu.bd
 malaabis.com.bd
+mallbuddy.com.bd
 manage.holago.com.bd
 mansinghpurdm.edu.bd
 marketex.com.bd
@@ -1239,6 +1249,7 @@ pmghs.edu.bd
 pmlhs.edu.bd
 poarbarihighschool.edu.bd
 pop.armadea.com.bd
+pop.himalaya.com.bd
 porabarihschool.edu.bd
 porabarihschool.edu.bd.poarbarihighschool.edu.bd
 portal.cpmgc.edu.bd
@@ -1247,6 +1258,7 @@ portal.govtadiabadschoolcollege.edu.bd
 portal.mgsc.edu.bd
 portal.netrokonatsc.gov.bd
 pos.applecenter.com.bd
+pos.himalaya.com.bd
 pos.takesell.com.bd
 prettybuy.com.bd
 primeasia.edu.bd
@@ -1410,6 +1422,7 @@ smmahs.edu.bd
 smsdmadrasah.edu.bd
 smsdmadrasah.edu.bd.genuine.edu.bd
 smtp.armadea.com.bd
+smtp.himalaya.com.bd
 snc.edu.bd
 snhspabna.edu.bd
 sofascore.com.bd
@@ -1423,11 +1436,13 @@ source.ecdl.com.bd
 spacedesign.com.bd
 spaceless.com.bd
 spices.asha.com.bd
+spiceworld.com.bd
 spinkughs.edu.bd
 sportal.nstu.edu.bd
 sportshop.com.bd
 sportsworld.com.bd
 sps.successplus.com.bd
+sraep.gov.bd
 srahman.com.bd
 srdmp.edu.bd
 srihatta.com.bd
@@ -1656,6 +1671,7 @@ webmail.foodpremi.com.bd
 webmail.goraihighschool.edu.bd
 webmail.gpharma.com.bd
 webmail.gpi.com.bd
+webmail.himalaya.com.bd
 webmail.hsschool.edu.bd
 webmail.icecte.ruet.ac.bd
 webmail.indiancosmetics.com.bd
@@ -1731,11 +1747,13 @@ www.admin.razapurcollege.edu.bd
 www.admin.shouhardo3plus.techhut.com.bd
 www.admin.sonod.com.bd
 www.admission.baiust.ac.bd
+www.admission.baustkhulna.ac.bd
 www.admission.sgmsc.edu.bd
 www.admitcard.com.bd
 www.admitcard.pundrauniversity.ac.bd
 www.adroits.com.bd
 www.aehs.edu.bd
+www.aiamam.aiamam.edu.bd
 www.airmaryhs.edu.bd
 www.akhanei.com.bd
 www.alinagorhs.edu.bd
@@ -1784,6 +1802,7 @@ www.bestower.com.bd
 www.beta.siloti.com.bd
 www.bgmdm.edu.bd
 www.bhssabmc.edu.bd
+www.billing.himalaya.com.bd
 www.billing.raindrop.com.bd
 www.billing.sbn.com.bd
 www.billpay.rahulenterprise.com.bd
@@ -1920,6 +1939,7 @@ www.hbhighschool.edu.bd
 www.heakmam.edu.bd
 www.health.gsk.com.bd
 www.hfbd.org.bd
+www.himalaya.com.bd
 www.history.dgpmhs.edu.bd
 www.hkajss.edu.bd.pmndm.edu.bd
 www.hkphs.edu.bd
@@ -2129,6 +2149,7 @@ www.pkatajhs.debipurhs.edu.bd
 www.platinumhotels.com.bd
 www.pluspoint.com.bd
 www.porabarihschool.edu.bd.poarbarihighschool.edu.bd
+www.pos.himalaya.com.bd
 www.pos.takesell.com.bd
 www.prettybuy.com.bd
 www.primeasia.easyit.com.bd
