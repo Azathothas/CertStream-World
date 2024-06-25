@@ -115,6 +115,7 @@ blmf.org.bd
 bmail.ru.ac.bd
 bogurapoly.gov.bd
 bou.edu.bd
+boyrahighschool.edu.bd
 bpi.com.ph.dhamraimunicipality.gov.bd
 bscic-emarket.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -130,6 +131,7 @@ cghsp.edu.bd
 chaitanpurhs.edu.bd
 chalibhangaup.gov.bd
 chartec.bkdcl.edu.bd
+chcham.edu.bd
 chinacampusnetwork.com.bd
 chirontoni.raju.com.bd
 cjschs.edu.bd
@@ -238,6 +240,7 @@ cpcalendars.ugc-hemis.gov.bd
 cpcalendars.wedobi.com.bd
 cpcalendars.welcomeelectronics.com.bd
 cpcalendars.whm.xic.com.bd
+cpcalendars.zamantech.com.bd
 cpcalendars.zarbi.com.bd
 cpcontacts.adroits.com.bd
 cpcontacts.allinonecomputer.com.bd
@@ -282,10 +285,12 @@ cpcontacts.ugc-hemis.gov.bd
 cpcontacts.wedobi.com.bd
 cpcontacts.welcomeelectronics.com.bd
 cpcontacts.whm.xic.com.bd
+cpcontacts.zamantech.com.bd
 cpcontacts.zarbi.com.bd
 creativeelevators.com.bd
 crm.nanocad.com.bd
 csb.ru.ac.bd
+cse.cstu.ac.bd
 cse.mbstu.ac.bd
 ctaghsc.edu.bd
 custom.bd24.com.bd
@@ -296,6 +301,7 @@ dashboard.bestelectronics.com.bd
 dashboard.holago.com.bd
 datascience.beta.uiu.ac.bd
 daudkandipiloths.edu.bd
+dba.cstu.ac.bd
 dbs.com.bd
 dcomevents.com.bd
 ddam.edu.bd
@@ -414,6 +420,7 @@ hytera.com.bd
 ibhssantosh.edu.bd
 icecte.ruet.ac.bd
 icpc.daffodilvarsity.edu.bd
+ict.cstu.ac.bd
 idbet-hero.guitar.com.bd
 iedcr.gov.bd
 ig.com.bd
@@ -487,6 +494,7 @@ loomin.com.bd
 lpgconcms.greenfuel.com.bd
 lpmhs.edu.bd
 m.rtpslot.gccc.edu.bd
+maarij.com.bd
 mahmudcorporation.com.bd
 mail.adroits.com.bd
 mail.allinonecomputer.com.bd
@@ -494,6 +502,7 @@ mail.almak.com.bd
 mail.alpana.com.bd
 mail.amfashions.com.bd
 mail.anathbondhubosepubliclibrary.com.bd
+mail.anwarflourmill.com.bd
 mail.apus.org.bd
 mail.armadea.com.bd
 mail.ator.com.bd
@@ -505,6 +514,7 @@ mail.bhssabmc.edu.bd
 mail.bkgps.edu.bd
 mail.bkuc.edu.bd
 mail.borabor.com.bd
+mail.boyrahighschool.edu.bd
 mail.businessacademy.com.bd
 mail.casual.com.bd
 mail.chinahat.com.bd
@@ -548,6 +558,7 @@ mail.khatizinnis.com.bd
 mail.kidneed.com.bd
 mail.krphs.edu.bd
 mail.kshuhs.edu.bd
+mail.maarij.com.bd
 mail.mcelevators.com.bd
 mail.mhahs.edu.bd
 mail.mhshc.edu.bd
@@ -732,6 +743,7 @@ rans.com.bd
 rasel.com.bd
 ratulproperties.com.bd
 rdl.com.bd
+rdmadrasah.edu.bd
 redhot.com.bd
 reg.com.bd
 register.gameapp.gov.bd
@@ -750,6 +762,7 @@ royalacademy.edu.bd
 roztec.com.bd
 rpspgdit.iitju.edu.bd
 rpspmit.iitju.edu.bd
+rrmgroup.com.bd
 rtabmc.edu.bd
 ruppurghs.edu.bd
 ruppurhs.edu.bd
@@ -794,6 +807,7 @@ sirajiron.com.bd
 sk-course.zahid.com.bd
 smartbdsummit.gov.bd
 smartcomputer.com.bd
+smarthomes.com.bd
 smarttechnology.com.bd
 smartteleworld.com.bd
 smarttracker.com.bd
@@ -818,6 +832,7 @@ sps.successplus.com.bd
 ssdegreecollege.edu.bd
 ssgsbagerhat.edu.bd
 st.newsbd24.com.bd
+staging.coachcouncil.com.bd
 store.cloudnest.com.bd
 students.just.edu.bd
 sub.ac.bd
@@ -848,6 +863,7 @@ testmanage.biltoo.com.bd
 testwebsite.com.bd
 thakurmallikhs.edu.bd
 timewatch.com.bd
+tjfhs.edu.bd
 tmobile.com.bd
 tnm.com.bd
 tontine.labelflex.com.bd
@@ -872,6 +888,7 @@ url.eduvisors.com.bd
 user.qservice.com.bd
 uset.edu.bd
 utshab.com.bd
+utso.com.bd
 vashantekcollege.gov.bd
 vcard.com.bd
 vibegaming.com.bd
@@ -928,10 +945,12 @@ webdisk.ugc-hemis.gov.bd
 webdisk.wedobi.com.bd
 webdisk.welcomeelectronics.com.bd
 webdisk.whm.xic.com.bd
+webdisk.zamantech.com.bd
 webdisk.zarbi.com.bd
 webmail.adroits.com.bd
 webmail.allinonecomputer.com.bd
 webmail.anathbondhubosepubliclibrary.com.bd
+webmail.anwarflourmill.com.bd
 webmail.apus.org.bd
 webmail.bakshiganjpourashava.gov.bd
 webmail.bavs.gov.bd
@@ -939,6 +958,7 @@ webmail.bdcloud.com.bd
 webmail.bkgps.edu.bd
 webmail.bkuc.edu.bd
 webmail.bou.edu.bd
+webmail.chcham.edu.bd
 webmail.cloudcoffee.com.bd
 webmail.codexive.com.bd
 webmail.cse.mbstu.ac.bd
@@ -974,6 +994,7 @@ webmail.ugc-hemis.gov.bd
 webmail.wedobi.com.bd
 webmail.welcomeelectronics.com.bd
 webmail.whm.xic.com.bd
+webmail.zamantech.com.bd
 webmail.zarbi.com.bd
 webschool.com.bd
 wedobi.com.bd
@@ -1031,6 +1052,7 @@ www.bkuc.edu.bd
 www.blmf.org.bd
 www.bogurapoly.gov.bd
 www.bou.edu.bd
+www.boyrahighschool.edu.bd
 www.bpi.com.ph.dhamraimunicipality.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cafecorn.filmsfive.com.bd
@@ -1038,6 +1060,7 @@ www.ceblk.ringtech.com.bd
 www.cghsp.edu.bd
 www.chalibhangaup.gov.bd
 www.chartec.bkdcl.edu.bd
+www.chcham.edu.bd
 www.chirontoni.raju.com.bd
 www.claim-unitokens.ukrmhs.edu.bd
 www.clarksonhydeglobal.com.bd
@@ -1048,9 +1071,11 @@ www.cms.aljaami.com.bd
 www.codexive.com.bd
 www.cp-api.almak.com.bd
 www.cp.almak.com.bd
+www.cse.cstu.ac.bd
 www.cse.mbstu.ac.bd
 www.cstu.ac.bd
 www.darularqam.ac.bd
+www.dba.cstu.ac.bd
 www.dc-nea.ringtech.com.bd
 www.dealership.smarttechnology.com.bd
 www.demo-motoservice-web.bigtech.com.bd
@@ -1107,6 +1132,7 @@ www.hrm.minisoft.com.bd
 www.hsschool.edu.bd
 www.hytera.com.bd
 www.icecte.ruet.ac.bd
+www.ict.cstu.ac.bd
 www.ifixit.applelab.com.bd
 www.iims.mhsp.edu.bd
 www.iims.ruppurghs.edu.bd
@@ -1148,6 +1174,7 @@ www.lpmhs.edu.bd
 www.m.rtpslot.gccc.edu.bd
 www.m.ssgsbagerhat.edu.bd
 www.m.sumon.com.bd
+www.maarij.com.bd
 www.madfilmsbd.ashrafenterprise.com.bd
 www.mail.alpana.com.bd
 www.mail.amfashions.com.bd
@@ -1259,6 +1286,7 @@ www.smartbdsummit.gov.bd
 www.smartteleworld.com.bd
 www.smarttracker.com.bd
 www.snc.edu.bd
+www.soft.rdmadrasah.edu.bd
 www.softcreation.com.bd
 www.softcreation.com.bd.rabbithost.com.bd
 www.sohayota.gov.bd.melandahbhata.gov.bd
@@ -1268,6 +1296,7 @@ www.source.ecdl.com.bd
 www.spinkughs.edu.bd
 www.sportal.nstu.edu.bd
 www.sps.successplus.com.bd
+www.staging.coachcouncil.com.bd
 www.store.cloudnest.com.bd
 www.sudip.sumon.com.bd
 www.suspace.su.edu.bd
@@ -1317,6 +1346,7 @@ xponent.com.bd
 xtech.info.bd
 yhschool.edu.bd
 zabo.com.bd
+zamantech.com.bd
 zapooz.com.bd
 zarbi.com.bd
 zowa.com.bd
