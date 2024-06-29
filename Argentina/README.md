@@ -6,11 +6,11 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +11211989
+[+] New/ReNewed SSL Certs (ALL): +13191017
 
 
 --> 🇦🇷 ar_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +33015
+[+] New/ReNewed SSL Certs (ALL): +36397
 
 ```
 
