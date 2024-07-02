@@ -1,6 +1,7 @@
 1000cars.com.bd
 2023-24.accounts.bise-ctg.gov.bd
 2apbn.gov.bd
+3matrik.messbook.com.bd
 7infotech.com.bd
 7t1.com.bd
 7x.demo.webworld.com.bd
@@ -32,6 +33,7 @@ account.mitpark.com.bd
 admin-snapshot.prosystem.com.bd
 admin.acas.edu.bd
 admin.cgbdsydney.gov.bd
+admin.demoss.brur.ac.bd
 admin.enrac.com.bd
 admin.fiber4.com.bd
 admin.gobazar.net.bd
@@ -42,6 +44,7 @@ admin.kaoniaymhighschool.edu.bd.aamc.edu.bd
 admin.mandaonline.net.bd
 admin.masterclass.com.bd
 admin.toolbox.com.bd
+admiral.com.bd
 adntech.com.bd
 adroits.com.bd
 aeuam.edu.bd
@@ -56,6 +59,7 @@ aighsc.edu.bd
 aims.com.bd
 ait.stevia.com.bd
 aitc.com.bd
+akhlaq.com.bd
 akmo.org.bd
 aladinmart.com.bd
 alhajabdulwahabhs.edu.bd
@@ -72,8 +76,11 @@ amanbuilders.com.bd
 amarbangabandhu.gov.bd
 ambhschool.edu.bd
 amc.edu.bd
+amlaki.org.bd
 amnurabulandashahcollege.edu.bd
 amr.cdc.gov.bd
+amragachiahs.edu.bd
+amragachiahs.edu.bd.pmndm.edu.bd
 amtolikamilmadrasha.edu.bd
 anaayafashion.com.bd
 anannya.com.bd
@@ -192,6 +199,7 @@ bcti.edu.bd
 bdaygift.tylo.com.bd
 bdm.edu.bd
 bdm116671.edu.bd
+bdmadrasha.edu.bd
 bdschoolsystems.com.bd
 bdtax.com.bd
 beacononcology.com.bd
@@ -271,19 +279,23 @@ career.thinkgroup.com.bd
 careercare.com.bd
 careguru.aaraa.com.bd
 carista.com.bd
+carparts.com.bd
 cashmemo.com.bd
 catseye.com.bd
 cc.ihealthline.com.bd
 cdn.i4e.com.bd
 cdns.i4e.com.bd
 cduam118513.edu.bd
+central.com.bd
 cerm.buet.ac.bd
 cfm.buhs.ac.bd
 cgbdsydney.gov.bd
 chaderhathighschool.edu.bd
 chandanahighschool.edu.bd
+chandannagarcollege.edu.bd
 chandersmhs.edu.bd
 chandersmhs.edu.bd.macademy.com.bd
+chandpurhighschool.edu.bd
 chandsarhmahschool.edu.bd
 charbagdangadm.edu.bd
 chattogrampost.com.bd
@@ -328,6 +340,7 @@ cpanel.aquarium.com.bd
 cpanel.bajs.edu.bd
 cpanel.basantapurhighschool.edu.bd
 cpanel.bax.com.bd
+cpanel.bdmadrasha.edu.bd
 cpanel.bdschoolsystems.com.bd
 cpanel.bmhsfeni.edu.bd
 cpanel.brightstar.com.bd
@@ -355,6 +368,7 @@ cpanel.govtnacollege.edu.bd
 cpanel.gsm.com.bd
 cpanel.hsdc.edu.bd
 cpanel.humairakhan.com.bd
+cpanel.hydroponics.com.bd
 cpanel.i4e.com.bd
 cpanel.ibitsylhet.edu.bd
 cpanel.inkmaster.com.bd
@@ -367,6 +381,7 @@ cpanel.kfm.edu.bd
 cpanel.laamhs.edu.bd
 cpanel.leelabai.com.bd
 cpanel.liz.com.bd
+cpanel.macksons.com.bd
 cpanel.mecl.com.bd
 cpanel.mit.edu.bd
 cpanel.modelacademy.edu.bd
@@ -387,10 +402,12 @@ cpanel.potaka.com.bd
 cpanel.ppgh.edu.bd
 cpanel.primax.com.bd
 cpanel.qualityshopbd.monermoto.com.bd
+cpanel.quickdental.com.bd
 cpanel.raachs.edu.bd
 cpanel.rahulgroup.com.bd
 cpanel.redoanandfriends.com.bd
 cpanel.relianceholidays.com.bd
+cpanel.rise.edu.bd
 cpanel.safetyhub.com.bd
 cpanel.sailing.com.bd
 cpanel.saimtravels.com.bd
@@ -407,6 +424,7 @@ cpanel.tex-hub.com.bd
 cpanel.theindex.com.bd
 cpanel.thsict.edu.bd
 cpanel.unitrade.com.bd
+cpanel.visiontech.com.bd
 cpanel.webgen.com.bd
 cpanel.wishmart.com.bd
 cpcalendars.admin.kaoniaymhighschool.edu.bd
@@ -418,6 +436,7 @@ cpcalendars.amc.edu.bd
 cpcalendars.aquarium.com.bd
 cpcalendars.bajs.edu.bd
 cpcalendars.basantapurhighschool.edu.bd
+cpcalendars.bdmadrasha.edu.bd
 cpcalendars.bdschoolsystems.com.bd
 cpcalendars.bmhsfeni.edu.bd
 cpcalendars.catseye.com.bd
@@ -442,6 +461,7 @@ cpcalendars.govtnacollege.edu.bd
 cpcalendars.gsm.com.bd
 cpcalendars.hsdc.edu.bd
 cpcalendars.humairakhan.com.bd
+cpcalendars.hydroponics.com.bd
 cpcalendars.i4e.com.bd
 cpcalendars.ibitsylhet.edu.bd
 cpcalendars.inkmaster.com.bd
@@ -454,6 +474,7 @@ cpcalendars.kfm.edu.bd
 cpcalendars.laamhs.edu.bd
 cpcalendars.leelabai.com.bd
 cpcalendars.liz.com.bd
+cpcalendars.macksons.com.bd
 cpcalendars.mecl.com.bd
 cpcalendars.mit.edu.bd
 cpcalendars.mors.edu.bd
@@ -470,10 +491,12 @@ cpcalendars.pgmphs.edu.bd
 cpcalendars.playmaker.com.bd
 cpcalendars.potaka.com.bd
 cpcalendars.ppgh.edu.bd
+cpcalendars.quickdental.com.bd
 cpcalendars.raachs.edu.bd
 cpcalendars.rahulgroup.com.bd
 cpcalendars.redoanandfriends.com.bd
 cpcalendars.relianceholidays.com.bd
+cpcalendars.rise.edu.bd
 cpcalendars.safetyhub.com.bd
 cpcalendars.sailing.com.bd
 cpcalendars.saimtravels.com.bd
@@ -489,6 +512,7 @@ cpcalendars.tex-hub.com.bd
 cpcalendars.theindex.com.bd
 cpcalendars.thsict.edu.bd
 cpcalendars.unitrade.com.bd
+cpcalendars.visiontech.com.bd
 cpcalendars.webgen.com.bd
 cpcalendars.wishmart.com.bd
 cpcontacts.admin.kaoniaymhighschool.edu.bd
@@ -500,6 +524,7 @@ cpcontacts.amc.edu.bd
 cpcontacts.aquarium.com.bd
 cpcontacts.bajs.edu.bd
 cpcontacts.basantapurhighschool.edu.bd
+cpcontacts.bdmadrasha.edu.bd
 cpcontacts.bdschoolsystems.com.bd
 cpcontacts.bmhsfeni.edu.bd
 cpcontacts.catseye.com.bd
@@ -523,6 +548,7 @@ cpcontacts.govtnacollege.edu.bd
 cpcontacts.gsm.com.bd
 cpcontacts.hsdc.edu.bd
 cpcontacts.humairakhan.com.bd
+cpcontacts.hydroponics.com.bd
 cpcontacts.i4e.com.bd
 cpcontacts.ibitsylhet.edu.bd
 cpcontacts.inkmaster.com.bd
@@ -535,6 +561,7 @@ cpcontacts.kfm.edu.bd
 cpcontacts.laamhs.edu.bd
 cpcontacts.leelabai.com.bd
 cpcontacts.liz.com.bd
+cpcontacts.macksons.com.bd
 cpcontacts.manjurahmedhs.edu.bd
 cpcontacts.mecl.com.bd
 cpcontacts.mit.edu.bd
@@ -556,10 +583,12 @@ cpcontacts.potaka.com.bd
 cpcontacts.ppgh.edu.bd
 cpcontacts.primax.com.bd
 cpcontacts.qualityshopbd.monermoto.com.bd
+cpcontacts.quickdental.com.bd
 cpcontacts.raachs.edu.bd
 cpcontacts.rahulgroup.com.bd
 cpcontacts.redoanandfriends.com.bd
 cpcontacts.relianceholidays.com.bd
+cpcontacts.rise.edu.bd
 cpcontacts.safetyhub.com.bd
 cpcontacts.sailing.com.bd
 cpcontacts.saimtravels.com.bd
@@ -575,6 +604,7 @@ cpcontacts.tex-hub.com.bd
 cpcontacts.theindex.com.bd
 cpcontacts.thsict.edu.bd
 cpcontacts.unitrade.com.bd
+cpcontacts.visiontech.com.bd
 cpcontacts.webgen.com.bd
 cpcontacts.wishmart.com.bd
 cpd.diu.edu.bd
@@ -608,6 +638,7 @@ dce.buet.ac.bd
 ddcsc.com.bd
 ddsdm.edu.bd
 ddsfm.edu.bd
+dealin.dealin.com.bd
 deco.com.bd
 demo.ahsan.com.bd
 demo.bengalic.com.bd
@@ -648,6 +679,7 @@ dmc.fima.gov.bd
 dncollege.edu.bd
 dns-eu.cloudhosting.com.bd
 dnsphs.edu.bd
+do.tc.com.bd
 doc.bnm.org.bd
 doctors.babys.com.bd
 dokan.com.bd
@@ -658,6 +690,8 @@ don.mafia.com.bd
 doptor-api.amms.cag.org.bd
 dream.mahimsoft.com.bd
 dreamtravelpoint.com.bd
+drmsc.edu.bd
+dscebd-org.dsce.edu.bd
 dshcir.du.ac.bd
 dttti.gov.bd
 dunia.com.bd
@@ -665,16 +699,19 @@ durgapurhsc.edu.bd
 durjoyrides.com.bd
 e-square.com.bd
 easternhardware.com.bd
+eastjgss.edu.bd
 eboighar.sigmasolutions.com.bd
 ebook.com.bd
 ebs.thinkfoundation.com.bd
 ecare.com.bd
+ecom.mmabdullah.com.bd
 ecs.gov.bd
 edgecsit.bsmrau.edu.bd
 edu.bd.amarit.com.bd
 edu.bd.dcjidm.edu.bd
 edu.info.bd
 education.mollatravels.com.bd
+eduman.com.bd
 eem.com.bd
 efgfashion.com.bd
 eims.com.bd
@@ -684,6 +721,7 @@ electronics822.welcomeelectronics.com.bd
 electronicsbazar.com.bd
 electrovibe.com.bd
 emagazine.anannya.com.bd
+email.riders.foodpanda.com.bd
 emailservice.biznify.com.bd
 emby.gameup.com.bd
 emby3.gameup.com.bd
@@ -695,6 +733,7 @@ en.educationnews.com.bd
 enam.com.bd
 enatransport.com.bd
 enggoffice.buet.ac.bd
+erp.gari-import.com.bd
 erp.ishwarganjgovtcollege.edu.bd
 eschool.getready.com.bd
 esellpoint.com.bd
@@ -757,6 +796,7 @@ gfs.com.bd
 ghorket.com.bd
 ghorketing.com.bd
 giidm.edu.bd
+gildan.com.bd
 globalelectrode.com.bd
 globalinformatics.com.bd
 globalmatrix.com.bd
@@ -791,11 +831,13 @@ hadidglobal.com.bd
 hajeeanjobalihighschool.edu.bd
 haluaghatgirls.edu.bd
 happywholesale.com.bd
+hatihatipapa.com.bd
 hatil.net.bd
 hatil.org.bd
 hawchs.edu.bd
 haziabdulhakimbhsc.edu.bd
 healingproject.vaseline.com.bd
+healthport.com.bd
 heilo.com.bd
 helptech.com.bd.helptech.com.bd
 hgmc.edu.bd
@@ -812,10 +854,12 @@ hotspot.okay.net.bd
 hphscs.edu.bd
 hr.pqc.com.bd
 hrm.globalinformatics.com.bd
+hrm.ithub.com.bd
 hrmdss.gov.bd
 hs.maestro.com.bd
 hsdc.edu.bd
 humairakhan.com.bd
+hydroponics.com.bd
 i4e.com.bd
 ibge.bsmrau.edu.bd
 ibitsylhet.edu.bd
@@ -867,8 +911,10 @@ isp.ithutz.com.bd
 issdhaka.edu.bd
 issl.com.bd
 it.keal.com.bd
+it.mmabdullah.com.bd
 itemconfigservice.biznify.com.bd
 itnashare.com.bd
+ius.ac.bd
 ivti.image.edu.bd
 jamunahs.edu.bd
 janakalyanhs.edu.bd
@@ -889,6 +935,7 @@ jnk.dev.ashop.com.bd
 job.jnu.ac.bd
 jotey.com.bd
 journals.jkkniu.edu.bd
+joyroom.com.bd
 jrdm.edu.bd
 juniahs.edu.bd
 kabirhatgovcollege.edu.bd
@@ -921,6 +968,7 @@ kmamhs.edu.bd
 knex.com.bd
 knsikhagrachari.gov.bd
 knss.edu.bd
+kochikacha.com.bd
 koinpurahighschool.edu.bd
 kolorob.com.bd
 krishimarket.com.bd
@@ -944,6 +992,7 @@ lgbhs.edu.bd
 lgis.edu.bd
 librarysandbox.bibm.org.bd
 lifeblood.wisdom.com.bd
+limca.intellect.com.bd
 link.imamul.com.bd
 live.mygov.bd
 livepublications.com.bd
@@ -968,8 +1017,10 @@ m.piainguljameya.edu.bd
 m.ppmam.edu.bd
 m.shahjalaljameya.edu.bd
 m.wenet.com.bd
+m4yours.com.mmh.com.bd
 ma.com.bd
 maccity.com.bd
+macksons.com.bd
 magento.link3.net.bd
 magicshop.com.bd
 maheshkhalicollege.edu.bd
@@ -989,6 +1040,7 @@ mail.bajs.edu.bd
 mail.basantapurhighschool.edu.bd
 mail.bax.com.bd
 mail.bbic.edu.bd
+mail.bdmadrasha.edu.bd
 mail.bdren.net.bd
 mail.bdschoolsystems.com.bd
 mail.bjidm.edu.bd
@@ -1028,6 +1080,7 @@ mail.hashtag.com.bd
 mail.hgmc.edu.bd
 mail.hsdc.edu.bd
 mail.humairakhan.com.bd
+mail.hydroponics.com.bd
 mail.i4e.com.bd
 mail.ibitsylhet.edu.bd
 mail.inkmaster.com.bd
@@ -1048,6 +1101,7 @@ mail.leelabai.com.bd
 mail.lgis.edu.bd
 mail.liveshopping.com.bd
 mail.liz.com.bd
+mail.macksons.com.bd
 mail.mahichailhs.edu.bd
 mail.mammadrasah.edu.bd
 mail.mecl.com.bd
@@ -1060,6 +1114,7 @@ mail.nanobrow.com.bd
 mail.nashat.com.bd
 mail.navision.com.bd
 mail.ncghsn.edu.bd
+mail.nicvd.gov.bd
 mail.nmpuachs.edu.bd
 mail.ns21.stamforduniversity.edu.bd
 mail.ohdirfoundation.org.bd
@@ -1076,12 +1131,14 @@ mail.potaka.com.bd
 mail.ppgh.edu.bd
 mail.prantojon.com.bd
 mail.primax.com.bd
+mail.quickdental.com.bd
 mail.raachs.edu.bd
 mail.rahulgroup.com.bd
 mail.rdc.edu.bd
 mail.redoanandfriends.com.bd
 mail.regreen.com.bd
 mail.relianceholidays.com.bd
+mail.rise.edu.bd
 mail.romoni.com.bd
 mail.safetyhub.com.bd
 mail.sailing.com.bd
@@ -1099,6 +1156,7 @@ mail.spmhdm.edu.bd
 mail.ssrm.edu.bd
 mail.superqueen.com.bd
 mail.svhs.edu.bd
+mail.tagirlshighschool.edu.bd
 mail.tajinternational.com.bd
 mail.tarunsoft.com.bd
 mail.tc.dghs.gov.bd
@@ -1112,6 +1170,7 @@ mail.uniqbd.com.bd
 mail.unitrade.com.bd
 mail.vdaz.com.bd
 mail.visioncommunication.com.bd
+mail.visiontech.com.bd
 mail.webgen.com.bd
 mail.wishmart.com.bd
 mammadrasah.edu.bd
@@ -1127,6 +1186,7 @@ matchmaking.com.bd
 math.buet.ac.bd
 mbtkm.rapid.com.bd
 mceltd.com.bd
+mcq.com.bd
 mdidm.edu.bd
 mdmahbub.buet.ac.bd
 mdmb.edu.bd
@@ -1159,6 +1219,7 @@ moshoriamadrasah.edu.bd
 mostafapurmadrasah.edu.bd
 moulvibazarbar.com.bd
 moulvibazarbar.com.bd.sylhetbar.com.bd
+mountviewnursingcollege.edu.bd
 moveon.com.bd
 mrmshs.edu.bd
 msca.com.bd
@@ -1177,6 +1238,7 @@ nahhms.edu.bd
 namira.com.bd
 nanobrow.com.bd
 nanolash.com.bd
+narayanganjcollege.edu.bd
 narendrapurhs.edu.bd
 narsingdilg.gov.bd
 nashat.com.bd
@@ -1192,6 +1254,7 @@ ncghsn.edu.bd
 ncll.com.bd
 ncmhs.edu.bd
 nec.edu.bd
+netrakonahighschool.edu.bd
 new.autodiscover.manjurahmedhs.edu.bd
 new.bestseo.com.bd
 new.i4e.com.bd
@@ -1207,12 +1270,14 @@ ngo1.elitedesign.com.bd
 ngo2.elitedesign.com.bd
 nhssingra.edu.bd
 ni-opu.info.bd
+nicvd.gov.bd
 nidcollegeelms.com.bd
 nilphamarittc.gov.bd
 njnscr.osa.com.bd
 nkepcdc.dnet.org.bd
 nmpuachs.edu.bd
 noc.i4e.com.bd
+nowparasandc.edu.bd
 nrd.org.bd
 ns21.stamforduniversity.edu.bd
 nu.ac.bd
@@ -1225,8 +1290,10 @@ oceanenterprise.com.bd
 odommo.xyz.odommo.com.bd
 ohdirfoundation.org.bd
 oia.du.ac.bd
+old.bjkhs1883.edu.bd
 old.bright.com.bd
 old.dghs.gov.bd
+old.jpex.com.bd
 old.revenueaid.com.bd
 oldresult.fenipoly.edu.bd
 omgbazar.com.bd
@@ -1257,6 +1324,7 @@ panel.i4e.com.bd
 panja.com.bd
 papella.com.bd
 papercraft.com.bd
+pappu.smarttechnology.com.bd
 parkrishnogobindopurghs.edu.bd
 partner.foodamy.com.bd
 paschimbhaghighschool.edu.bd
@@ -1293,6 +1361,7 @@ playmaker.com.bd
 pmjsschool.edu.bd
 pmtad.sohag.com.bd
 polypharma.com.bd
+polytrade.com.bd
 pop.nanobrow.com.bd
 pop.padmadigital.com.bd
 pop.paira.com.bd
@@ -1309,10 +1378,12 @@ pos.easyit.com.bd
 pos.face2.com.bd
 pos.iits.com.bd
 pos.mastertech.com.bd
+pos.pordagallery.com.bd
 potaka.com.bd
 pouchao.com.bd
 ppgh.edu.bd
 pragotihsc.edu.bd
+prakritikveshoj.com.bd
 prantojon.com.bd
 preetom.toprated.com.bd
 preorder.com.bd
@@ -1321,9 +1392,11 @@ primax.com.bd
 prochesta.org.bd
 product.faceve.com.bd
 professional.jnuenglish.edu.bd
+profile.rmc.edu.bd
 prolearning.com.bd
 provider.returntrip.com.bd
 psm2024.nanan.com.bd
+pst.com.bd
 ptc.aljaami.com.bd
 pub.ac.bd
 publicmarket.com.bd
@@ -1331,8 +1404,10 @@ puhsc.edu.bd
 pulmoconbd.klay.com.bd
 qsetup.com.bd
 queenshospital.com.bd
+queensuniversity.edu.bd
 queue.cgbdsydney.gov.bd
 quickair.com.bd
+quickdental.com.bd
 qurantutor.decoder.com.bd
 raachs.edu.bd
 rahulgroup.com.bd
@@ -1355,6 +1430,8 @@ reunion.sherebanglahall.buet.ac.bd
 reza.info.bd
 rhrush.edu.bd
 ridershop.foodpanda.com.bd
+ridinghigh.com.bd
+rise.edu.bd
 risky.com.bd
 rkrmsc.edu.bd
 rnrlifestyle.com.bd
@@ -1362,6 +1439,7 @@ room.mahmudul.com.bd
 rpu-bee.amms.cag.org.bd
 rrhighschoolduarabazar.edu.bd
 rsb.com.bd
+rslnkm.edu.bd
 russell.com.bd
 rustumpurnsdmadrasha.edu.bd
 rvnc.edu.bd
@@ -1372,6 +1450,7 @@ s.cbmb.edu.bd
 s.chowdalaghs.edu.bd
 s.dcahs.edu.bd
 s.dpaghs.edu.bd
+s.gtcalhs.edu.bd
 s.harikhalihs.edu.bd
 s.lathigonjhsc.edu.bd
 s.mohicharonmlhighschool.edu.bd
@@ -1416,6 +1495,7 @@ schoolmanagement.wonder.com.bd
 schoolware.com.bd
 scs.ssd.gov.bd
 seagullbd.com.multishop.com.bd
+seatbook.gbgc.edu.bd
 sei.com.bd
 selfcare.link3.net.bd
 selfcare.mandaonline.net.bd
@@ -1503,6 +1583,7 @@ suchs.edu.bd
 sunrisingkg.edu.bd
 supc.edu.bd
 superqueen.com.bd
+supply360.com.bd
 support.vu.edu.bd
 surjopay.ahsaniamission.org.bd
 sutihsshighschool114210.edu.bd
@@ -1512,6 +1593,8 @@ suvastuspace.com.bd
 svhs.edu.bd
 swcstore.iba-ju.edu.bd
 sweetstyle.com.bd
+tagirlshighschool.edu.bd
+tagirlshighschool.edu.bd.pmndm.edu.bd
 taimullah.buet.ac.bd
 tajinternational.com.bd
 talentdetect.com.bd
@@ -1606,9 +1689,11 @@ versatilerealestate.com.bd
 victor.com.bd
 visabari.com.bd
 visioncommunication.com.bd
+visiontech.com.bd
 vitalac.com.bd
 vms.abco.com.bd
 vrcbd.cmc.gov.bd
+vtti.gov.bd
 warehouse.com.bd
 watchmart.com.bd
 weather-test.arthor.com.bd
@@ -1622,6 +1707,7 @@ webdisk.aquarium.com.bd
 webdisk.bajs.edu.bd
 webdisk.basantapurhighschool.edu.bd
 webdisk.bax.com.bd
+webdisk.bdmadrasha.edu.bd
 webdisk.bdschoolsystems.com.bd
 webdisk.bmhsfeni.edu.bd
 webdisk.catseye.com.bd
@@ -1644,6 +1730,7 @@ webdisk.govtnacollege.edu.bd
 webdisk.gsm.com.bd
 webdisk.hsdc.edu.bd
 webdisk.humairakhan.com.bd
+webdisk.hydroponics.com.bd
 webdisk.i4e.com.bd
 webdisk.ibitsylhet.edu.bd
 webdisk.inkmaster.com.bd
@@ -1656,6 +1743,7 @@ webdisk.kfm.edu.bd
 webdisk.laamhs.edu.bd
 webdisk.leelabai.com.bd
 webdisk.liz.com.bd
+webdisk.macksons.com.bd
 webdisk.mecl.com.bd
 webdisk.mit.edu.bd
 webdisk.mors.edu.bd
@@ -1673,10 +1761,12 @@ webdisk.playmaker.com.bd
 webdisk.polypharma.com.bd
 webdisk.potaka.com.bd
 webdisk.ppgh.edu.bd
+webdisk.quickdental.com.bd
 webdisk.raachs.edu.bd
 webdisk.rahulgroup.com.bd
 webdisk.redoanandfriends.com.bd
 webdisk.relianceholidays.com.bd
+webdisk.rise.edu.bd
 webdisk.safetyhub.com.bd
 webdisk.sailing.com.bd
 webdisk.saimtravels.com.bd
@@ -1692,6 +1782,7 @@ webdisk.tex-hub.com.bd
 webdisk.theindex.com.bd
 webdisk.thsict.edu.bd
 webdisk.unitrade.com.bd
+webdisk.visiontech.com.bd
 webdisk.webgen.com.bd
 webdisk.wishmart.com.bd
 webgen.com.bd
@@ -1704,6 +1795,7 @@ webmail.amc.edu.bd
 webmail.aquarium.com.bd
 webmail.bajs.edu.bd
 webmail.basantapurhighschool.edu.bd
+webmail.bdmadrasha.edu.bd
 webmail.bdschoolsystems.com.bd
 webmail.bmhsfeni.edu.bd
 webmail.brightstar.com.bd
@@ -1729,6 +1821,7 @@ webmail.govtnacollege.edu.bd
 webmail.gsm.com.bd
 webmail.hsdc.edu.bd
 webmail.humairakhan.com.bd
+webmail.hydroponics.com.bd
 webmail.i4e.com.bd
 webmail.ibitsylhet.edu.bd
 webmail.inkmaster.com.bd
@@ -1741,6 +1834,7 @@ webmail.kfm.edu.bd
 webmail.laamhs.edu.bd
 webmail.leelabai.com.bd
 webmail.liz.com.bd
+webmail.macksons.com.bd
 webmail.mecl.com.bd
 webmail.mit.edu.bd
 webmail.modelacademy.edu.bd
@@ -1758,9 +1852,11 @@ webmail.playmaker.com.bd
 webmail.potaka.com.bd
 webmail.ppgh.edu.bd
 webmail.prome.com.bd
+webmail.quickdental.com.bd
 webmail.raachs.edu.bd
 webmail.rahulgroup.com.bd
 webmail.relianceholidays.com.bd
+webmail.rise.edu.bd
 webmail.safetyhub.com.bd
 webmail.sailing.com.bd
 webmail.saimtravels.com.bd
@@ -1779,6 +1875,7 @@ webmail.tex-hub.com.bd
 webmail.theindex.com.bd
 webmail.thsict.edu.bd
 webmail.unitrade.com.bd
+webmail.visiontech.com.bd
 webmail.webgen.com.bd
 webmail.wishmart.com.bd
 whm.catseye.com.bd
@@ -1786,6 +1883,7 @@ whm.cityinternet.com.bd
 whm.crm.monermoto.com.bd
 whm.mecl.com.bd
 whm.ns21.stamforduniversity.edu.bd
+whm.visiontech.com.bd
 wholesalebazar.com.bd
 wilo.com.bd
 wintex.com.bd
@@ -1793,6 +1891,7 @@ wishmart.com.bd
 womenscorner.com.bd
 works.iits.com.bd
 wpdevloper.com.techway.com.bd
+www.3matrik.messbook.com.bd
 www.7x.demo.webworld.com.bd
 www.9bcsforum.org.bd
 www.aasoft.com.bd
@@ -1801,6 +1900,7 @@ www.ac.ssint.com.bd
 www.academy.doptor.com.bd
 www.academy.gphis.edu.bd
 www.account.dokani.com.bd
+www.admin.demoss.brur.ac.bd
 www.admin.enrac.com.bd
 www.admin.fiber4.com.bd
 www.admin.gobazar.net.bd
@@ -1824,6 +1924,7 @@ www.allskyshop.com.bd
 www.allureleathers.com.everlife.com.bd
 www.amanbuilders.com.bd
 www.amc.edu.bd
+www.amragachiahs.edu.bd.pmndm.edu.bd
 www.anannya.com.bd
 www.apa.sau.ac.bd
 www.apex.furnicia.com.bd
@@ -1852,6 +1953,7 @@ www.bax.com.bd
 www.bbic.edu.bd
 www.bce.com.bd
 www.bdaygift.tylo.com.bd
+www.bdmadrasha.edu.bd
 www.bdschoolsystems.com.bd
 www.bdtax.com.bd
 www.bhtpa.thinkfoundation.com.bd
@@ -1868,6 +1970,7 @@ www.board.computerschool.com.bd
 www.borno.ithutz.com.bd
 www.breb.thinkfoundation.com.bd
 www.brightstar.com.bd
+www.brr-property.ridinghigh.com.bd
 www.bsmrau.edu.bd
 www.btt-com-bd.tks.com.bd
 www.bugmama.com.bd
@@ -1889,9 +1992,11 @@ www.career.thinkgroup.com.bd
 www.careeradmin.sau.ac.bd
 www.careercare.com.bd
 www.careguru.aaraa.com.bd
+www.central.com.bd
 www.cfm.buhs.ac.bd
 www.chandanahighschool.edu.bd
 www.chandersmhs.edu.bd.macademy.com.bd
+www.chandpurhighschool.eduman.com.bd
 www.chattogrampost.com.bd
 www.chawkbazar.com.bd
 www.chemidoluhs.edu.bd
@@ -1920,6 +2025,7 @@ www.das.dkschool.edu.bd
 www.data.ccnweb.com.bd
 www.data.opensoft.com.bd
 www.ddsfm.edu.bd
+www.dealin.dealin.com.bd
 www.demo.ahsan.com.bd
 www.demo.bazar.net.bd
 www.demo.rabby.com.bd
@@ -1936,15 +2042,18 @@ www.django.sylgovaliamadrasa.edu.bd
 www.djic.edu.bd
 www.djidronelabbd.applelab.com.bd
 www.dmc.fima.gov.bd
+www.do.tc.com.bd
 www.doc.bnm.org.bd
 www.doctors.babys.com.bd
 www.dokan.com.bd
 www.domainname.com.bd
 www.don.mafia.com.bd
+www.dscebd-org.dsce.edu.bd
 www.dshcir.du.ac.bd
 www.durgapurhsc.edu.bd.amarit.com.bd
 www.eastdelta.edu.bd
 www.ebs.thinkfoundation.com.bd
+www.ecom.mmabdullah.com.bd
 www.edgecsit.bsmrau.edu.bd
 www.education.mollatravels.com.bd
 www.electronics822.welcomeelectronics.com.bd
@@ -1969,6 +2078,7 @@ www.flashnetbd.xyz.flashnet.com.bd
 www.flymobile.com.bd
 www.foodamy.com.bd
 www.foodstudio.com.bd
+www.friendsonline.com.bd
 www.frontier.com.bd
 www.gadgetz.com.bd
 www.gaminglaptop.com.bd
@@ -2010,6 +2120,7 @@ www.hrms.knsikhagrachari.gov.bd
 www.hsdc.edu.bd
 www.htec.com.bd
 www.humairakhan.com.bd
+www.hydroponics.com.bd
 www.i4e.com.bd
 www.ibge.bsmrau.edu.bd
 www.ibitsylhet.edu.bd
@@ -2032,6 +2143,7 @@ www.iqac.bsmrau.edu.bd
 www.ishwarganjgovtcollege.edu.bd
 www.isp.ithutz.com.bd
 www.it.keal.com.bd
+www.it.mmabdullah.com.bd
 www.itnashare.com.bd
 www.ivti.image.edu.bd
 www.jci.org.bd
@@ -2067,6 +2179,7 @@ www.lgis.edu.bd
 www.librarysandbox.bibm.org.bd
 www.lifeblood.wisdom.com.bd
 www.ligebd.utso.com.bd
+www.limca.intellect.com.bd
 www.liveshopping.com.bd
 www.liz.com.bd
 www.lms.ebitan.com.bd
@@ -2083,6 +2196,7 @@ www.m.shahjalaljameya.edu.bd
 www.m.wenet.com.bd
 www.macbookexpartuser.applelab.com.bd
 www.maccity.com.bd
+www.macksons.com.bd
 www.magurahomiohall.xyz.eponno.com.bd
 www.mahichailhs.edu.bd
 www.mail.businessacademy.com.bd
@@ -2100,6 +2214,7 @@ www.marko.oss.com.bd
 www.masterclass.com.bd
 www.masud.cti.edu.bd
 www.mceltd.com.bd
+www.mcq.com.bd
 www.mecl.com.bd
 www.menz.topperit.com.bd
 www.messbook.com.bd
@@ -2130,6 +2245,7 @@ www.news3.elitedesign.com.bd
 www.nfcc.du.ac.bd
 www.ngo1.elitedesign.com.bd
 www.ngo2.elitedesign.com.bd
+www.nicvd.gov.bd
 www.nidcollegeelms.com.bd
 www.nkepcdc.dnet.org.bd
 www.nmpuachs.edu.bd
@@ -2140,9 +2256,12 @@ www.odommo.xyz.odommo.com.bd
 www.oerlbd.electrovibe.com.bd
 www.ohdirfoundation.org.bd
 www.oia.du.ac.bd
+www.old.bjkhs1883.edu.bd
 www.old.hphscs.edu.bd
+www.old.jpex.com.bd
 www.oldresult.fenipoly.edu.bd
 www.oldweb.kanaighatcollege.edu.bd
+www.olgaserv.ridinghigh.com.bd
 www.onedirection.zariq.com.bd
 www.onereseller.onecodesoft.com.bd
 www.onetravel.onecodesoft.com.bd
@@ -2155,6 +2274,7 @@ www.padmadigital.com.bd
 www.paira.com.bd
 www.palky.com.bd
 www.papercraft.com.bd
+www.pappu.smarttechnology.com.bd
 www.partner.foodamy.com.bd
 www.pay.allbanglahost.com.bd
 www.pay.arenterprise.com.bd
@@ -2171,6 +2291,7 @@ www.phil.du.ac.bd
 www.phsafhs.edu.bd
 www.pidhr.bmit.com.bd
 www.playmaker.com.bd
+www.pms.m4yours.com.mmh.com.bd
 www.polypharma.com.bd
 www.polytrade.com.bd
 www.portal2.connect3.net.bd
@@ -2185,6 +2306,7 @@ www.preorder.com.bd
 www.primax.com.bd
 www.product.faceve.com.bd
 www.professional.jnuenglish.edu.bd
+www.profile.rmc.edu.bd
 www.prolearning.com.bd
 www.provider.returntrip.com.bd
 www.psm2024.nanan.com.bd
@@ -2193,6 +2315,8 @@ www.puhsc.edu.bd
 www.pulmoconbd.klay.com.bd
 www.queen.topperit.com.bd
 www.queenshospital.com.bd
+www.queensuniversity.edu.bd
+www.quickdental.com.bd
 www.qurantutor.decoder.com.bd
 www.raachs.edu.bd
 www.rahulgroup.com.bd
@@ -2205,7 +2329,9 @@ www.redoanandfriends.com.bd
 www.relianceholidays.com.bd
 www.relianceholidays.com.bd.relianceworldwide.com.bd
 www.restaurant.zamanit.com.bd
+www.rise.edu.bd
 www.rps.sarakerbazarhighschool.edu.bd
+www.rslnkm.edu.bd
 www.s.ahs.edu.bd
 www.s.asshs.edu.bd
 www.s.bardalhs.edu.bd
@@ -2213,6 +2339,7 @@ www.s.cbmb.edu.bd
 www.s.chowdalaghs.edu.bd
 www.s.dcahs.edu.bd
 www.s.dpaghs.edu.bd
+www.s.gtcalhs.edu.bd
 www.s.harikhalihs.edu.bd
 www.s.lathigonjhsc.edu.bd
 www.s.mohicharonmlhighschool.edu.bd
@@ -2246,10 +2373,12 @@ www.school.saptaghs.edu.bd
 www.school1.elitedesign.com.bd
 www.school2.elitedesign.com.bd
 www.seagullbd.com.multishop.com.bd
+www.seatbook.gbgc.edu.bd
 www.selfcare.mandaonline.net.bd
 www.server.beargear.com.bd
 www.service.masteritsolution.com.bd
 www.sgc.sgc.com.bd
+www.sgsgroup.com.bd
 www.shaadi.com.bd
 www.shanmart.com.bd
 www.sheactive.com.bd
@@ -2282,10 +2411,13 @@ www.static.dokan.com.bd
 www.store.nexgen.com.bd
 www.sub.smfm.edu.bd
 www.superqueen.com.bd
+www.supply360.com.bd
 www.support.vu.edu.bd
 www.surjopay.ahsaniamission.org.bd
 www.sutihsshighschool114210.edu.bd
 www.svhs.edu.bd
+www.tagirlshighschool.edu.bd
+www.tagirlshighschool.edu.bd.pmndm.edu.bd
 www.tajinternational.com.bd
 www.tarunsoft.com.bd
 www.tcti.edu.bd
@@ -2325,6 +2457,7 @@ www.v3.beta.rtss.edu.bd
 www.velocity.net.bd
 www.victor.com.bd
 www.visioncommunication.com.bd
+www.visiontech.com.bd
 www.vrcbd.cmc.gov.bd
 www.watchmart.com.bd
 www.weather-test.arthor.com.bd
