@@ -1,7 +1,7 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_07_26
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_07_27
 ```console
 
 
@@ -14,16 +14,16 @@
 
 ```
 
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_07_26 <--> 2024_07_19
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_07_27 <--> 2024_07_20
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +117121575
+[+] New/ReNewed SSL Certs (ALL): +117374382
 
 
 --> 🇷🇺 ru_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +2064904
+[+] New/ReNewed SSL Certs (ALL): +2068227
 
 ```
 
