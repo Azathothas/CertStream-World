@@ -41,6 +41,7 @@ akmmhms.edu.bd
 akpen.com.bd
 alaminfazil.edu.bd
 albin.com.bd
+alhasanain.com.bd
 alienapparelsltd.com.bd
 aljaami.com.bd
 almizan.com.bd
@@ -72,10 +73,12 @@ autoconfig.email.vvon.com.bd
 autodiscover.bagmarabssc.edu.bd
 autodiscover.broa.com.bd
 autodiscover.cas.com.bd
+autodiscover.dauhs.edu.bd
 autodiscover.dealson.com.bd
 autodiscover.email.vvon.com.bd
 autodiscover.eventor.com.bd
 autodiscover.gobariahighschool.edu.bd
+autodiscover.gschschool.edu.bd
 autodiscover.magnoliaproperties.com.bd
 autodiscover.mrpeon.com.bd
 autodiscover.musafir.com.bd
@@ -88,6 +91,7 @@ autodiscover.sdmm.edu.bd
 autodiscover.sdsdmadrasah.edu.bd
 autodiscover.smartcv.com.bd
 autodiscover.theredliner.com.bd
+autonics.com.bd
 ayeshbamadrasah.edu.bd
 b.ssh.com.bd
 babycarecomfort.com.bd
@@ -157,6 +161,7 @@ btriapps.gov.bd
 btsource.com.bd
 bubble.com.bd
 bubt.edu.bd
+buildtech.com.bd
 burburiahighschool.edu.bd
 businessbangladesh.com.bd
 cafomolwa.gov.bd
@@ -207,13 +212,16 @@ cpanel.bcoecopyright.gov.bd
 cpanel.broa.com.bd
 cpanel.btsource.com.bd
 cpanel.cas.com.bd
+cpanel.catseye.com.bd
 cpanel.dailydeal.com.bd
+cpanel.dauhs.edu.bd
 cpanel.dealson.com.bd
 cpanel.eventor.com.bd
 cpanel.fashionmart.com.bd
 cpanel.furat.com.bd
 cpanel.garparahs.edu.bd
 cpanel.gobariahighschool.edu.bd
+cpanel.gschschool.edu.bd
 cpanel.ihtjhenaidah.edu.bd
 cpanel.ilc.edu.bd
 cpanel.ipghs.edu.bd
@@ -251,6 +259,8 @@ cpcalendars.bagmarabssc.edu.bd
 cpcalendars.broa.com.bd
 cpcalendars.btsource.com.bd
 cpcalendars.cas.com.bd
+cpcalendars.catseye.com.bd
+cpcalendars.dauhs.edu.bd
 cpcalendars.dealson.com.bd
 cpcalendars.eventor.com.bd
 cpcalendars.fashionmart.com.bd
@@ -258,6 +268,7 @@ cpcalendars.fiab.org.bd
 cpcalendars.furat.com.bd
 cpcalendars.garparahs.edu.bd
 cpcalendars.gobariahighschool.edu.bd
+cpcalendars.gschschool.edu.bd
 cpcalendars.iedu.com.bd
 cpcalendars.ihtjhenaidah.edu.bd
 cpcalendars.ilc.edu.bd
@@ -294,6 +305,8 @@ cpcontacts.bagmarabssc.edu.bd
 cpcontacts.broa.com.bd
 cpcontacts.btsource.com.bd
 cpcontacts.cas.com.bd
+cpcontacts.catseye.com.bd
+cpcontacts.dauhs.edu.bd
 cpcontacts.dealson.com.bd
 cpcontacts.eventor.com.bd
 cpcontacts.fashionmart.com.bd
@@ -301,6 +314,7 @@ cpcontacts.fiab.org.bd
 cpcontacts.flavo.com.bd
 cpcontacts.furat.com.bd
 cpcontacts.gobariahighschool.edu.bd
+cpcontacts.gschschool.edu.bd
 cpcontacts.iedu.com.bd
 cpcontacts.ihtjhenaidah.edu.bd
 cpcontacts.ilc.edu.bd
@@ -339,6 +353,7 @@ daktar.com.bd
 damannanschool111087.edu.bd
 dashboard.10fix.com.bd
 dashboard.orcus.com.bd
+dauhs.edu.bd
 dazzy.com.bd
 db.du.ac.bd
 dcci-dbi.edu.bd
@@ -362,6 +377,7 @@ djsis.edu.bd
 dldchc-badas.org.bd
 documentation.taxstick.appstick.com.bd
 dolon.info.bd
+dolphin.com.bd
 dominos.com.bd
 doulatpurhoquebahadurhs.edu.bd
 dpg.gov.bd
@@ -444,6 +460,7 @@ govtsantoshiughs.edu.bd
 greenhousehotel.com.bd
 greentech-org-bd.greentech.org.bd
 growever.com.bd
+gschschool.edu.bd
 gulf.iconisl.com.bd
 habib.com.bd
 haithkandihighschool.edu.bd
@@ -456,6 +473,7 @@ hatt.com.bd
 hcphs.edu.bd
 hhehs.edu.bd
 hkmc.edu.bd
+hmadnan.com.bd
 hmphs.edu.bd
 holovision.com.bd
 home.gnc.gov.bd
@@ -512,6 +530,7 @@ joynagar.edu.bd
 jphost.com.bd
 kahs.edu.bd
 kalamullah.com.bd
+kalidaskuhs.edu.bd
 kamarparacollege.edu.bd
 karmadhahsc.edu.bd
 kaundiasshs.edu.bd
@@ -570,6 +589,7 @@ mail.cas.com.bd
 mail.chamagramhnhs.edu.bd
 mail.cjhscim.edu.bd
 mail.dailydeal.com.bd
+mail.dauhs.edu.bd
 mail.dealson.com.bd
 mail.delicate.com.bd
 mail.doulatpurhoquebahadurhs.edu.bd
@@ -582,6 +602,7 @@ mail.fiab.org.bd
 mail.furat.com.bd
 mail.garparahs.edu.bd
 mail.gobariahighschool.edu.bd
+mail.gschschool.edu.bd
 mail.haithkandihighschool.edu.bd
 mail.hcphs.edu.bd
 mail.hhehs.edu.bd
@@ -675,6 +696,7 @@ mirsaraigirlshighschool.edu.bd
 mm.hellotech.com.bd
 mmrazzaque.buet.ac.bd
 mna.com.bd
+mnjhs.edu.bd
 mohangonjahs.edu.bd
 moliaishhs.edu.bd
 mollikpurhs.edu.bd
@@ -913,6 +935,7 @@ tuhincoder.e24.com.bd
 tv.smartnet.com.bd
 ucbsc.edu.bd
 update.krghs.edu.bd
+upmymensinghholdingtax.gov.bd
 urlshortener.dev.alpha.net.bd
 urma.edu.bd
 user.bdcoopins.com.bd
@@ -937,6 +960,8 @@ webdisk.bcoecopyright.gov.bd
 webdisk.broa.com.bd
 webdisk.btsource.com.bd
 webdisk.cas.com.bd
+webdisk.catseye.com.bd
+webdisk.dauhs.edu.bd
 webdisk.dealson.com.bd
 webdisk.eventor.com.bd
 webdisk.fashionmart.com.bd
@@ -945,6 +970,7 @@ webdisk.flavo.com.bd
 webdisk.furat.com.bd
 webdisk.garparahs.edu.bd
 webdisk.gobariahighschool.edu.bd
+webdisk.gschschool.edu.bd
 webdisk.iedu.com.bd
 webdisk.ihtjhenaidah.edu.bd
 webdisk.ilc.edu.bd
@@ -983,7 +1009,9 @@ webmail.bcoecopyright.gov.bd
 webmail.broa.com.bd
 webmail.btsource.com.bd
 webmail.cas.com.bd
+webmail.catseye.com.bd
 webmail.dailydeal.com.bd
+webmail.dauhs.edu.bd
 webmail.dealson.com.bd
 webmail.email.vvon.com.bd
 webmail.eventor.com.bd
@@ -991,6 +1019,7 @@ webmail.fashionmart.com.bd
 webmail.fiab.org.bd
 webmail.furat.com.bd
 webmail.gobariahighschool.edu.bd
+webmail.gschschool.edu.bd
 webmail.ihtjhenaidah.edu.bd
 webmail.ilc.edu.bd
 webmail.ipghs.edu.bd
@@ -1023,6 +1052,7 @@ webmail.zinoirhs.edu.bd
 wehs.edu.bd
 wheeldeals.com.bd
 whm.amths.edu.bd
+whm.catseye.com.bd
 withdraw.fullstop.com.bd
 woodenbd.cbait.com.bd
 work.redrose.com.bd
@@ -1054,6 +1084,7 @@ www.app.pqc.com.bd
 www.artcon.com.bd
 www.asp.rmb.edu.bd
 www.aunhs.edu.bd
+www.autonics.com.bd
 www.b.ssh.com.bd
 www.baghilfhs.edu.bd
 www.bagmarabssc.edu.bd
@@ -1098,7 +1129,9 @@ www.courseplan.jalalabadcollege.edu.bd
 www.covid.rpsu.edu.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.dailydeal.com.bd
+www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.dashboard.10fix.com.bd
+www.dauhs.edu.bd
 www.dealson.com.bd
 www.demo.agrostar.com.bd
 www.demo.mufti.com.bd
@@ -1150,6 +1183,7 @@ www.gobindapurhs.edu.bd.momtajtdpl.com.bd
 www.goodness.naturals.com.bd
 www.greentech-org-bd.greentech.org.bd
 www.growever.com.bd
+www.gschschool.edu.bd
 www.gtnapi.goldeninfotech.com.bd
 www.gulf.iconisl.com.bd
 www.haithkandihighschool.edu.bd
