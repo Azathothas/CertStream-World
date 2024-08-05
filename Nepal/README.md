@@ -19,11 +19,11 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +123562229
+[+] New/ReNewed SSL Certs (ALL): +109382867
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +37634
+[+] New/ReNewed SSL Certs (ALL): +33106
 
 ```
 
