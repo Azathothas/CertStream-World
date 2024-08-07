@@ -1,7 +1,7 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_06
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_07
 ```console
 
 
@@ -14,16 +14,16 @@
 
 ```
 
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_06 <--> 2024_07_30
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_07 <--> 2024_07_31
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +110892541
+[+] New/ReNewed SSL Certs (ALL): +112420130
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +18146
+[+] New/ReNewed SSL Certs (ALL): +18375
 
 ```
 
