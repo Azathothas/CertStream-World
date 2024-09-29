@@ -38,6 +38,7 @@ anarkaliss.edu.bd
 annoman.com.bd
 apfbhs.edu.bd
 api.esms.com.bd
+api.nstyle.com.bd
 aponvuban.avas.org.bd
 app.propertystudio.com.bd
 app.softtech.com.bd
@@ -55,6 +56,7 @@ atik.com.bd
 ausc.edu.bd
 auth0.diu.edu.bd
 auto-trade.com.bd
+autoconfig.infobd.com.bd
 autodiscover.abadpukurhs.edu.bd
 autodiscover.bhogdangaak.edu.bd
 autodiscover.blscg.edu.bd
@@ -63,6 +65,7 @@ autodiscover.chakendakhs.edu.bd
 autodiscover.gkghs.edu.bd
 autodiscover.gkhs.edu.bd
 autodiscover.gmkghgk.edu.bd
+autodiscover.infobd.com.bd
 autodiscover.itnaglobal.com.bd
 autodiscover.jdacademy.edu.bd
 autodiscover.journeyadviser.com.bd
@@ -70,6 +73,7 @@ autodiscover.jphss.edu.bd
 autodiscover.kazisdm.edu.bd
 autodiscover.khidirpurhsngn.edu.bd
 autodiscover.mhs-kuri.edu.bd
+autodiscover.nagarajpurhs.edu.bd
 autodiscover.rdhsn.edu.bd
 autodiscover.rupkatha.com.bd
 autodiscover.sazin.com.bd
@@ -154,6 +158,7 @@ ces.old.ulab.edu.bd
 cetl.old.ulab.edu.bd
 cgc.edu.bd
 chakendakhs.edu.bd
+chandpurcitycollege.edu.bd
 channirchakgirls.edu.bd
 charigramhighschool.edu.bd
 charpolishajlhs.edu.bd
@@ -165,6 +170,7 @@ chunakhalieam.edu.bd
 cityhardware.com.bd
 civic.com.bd
 cjhscim.edu.bd
+client.ithutz.com.bd
 cloud.jogajog.com.bd
 cloudbook.com.bd
 cmoshmc.edu.bd
@@ -193,6 +199,7 @@ cpanel.kazisdm.edu.bd
 cpanel.khidirpurhsngn.edu.bd
 cpanel.mhs-kuri.edu.bd
 cpanel.mollarhathighschool.edu.bd
+cpanel.nagarajpurhs.edu.bd
 cpanel.nstyle.com.bd
 cpanel.rckhs.edu.bd
 cpanel.rdhsn.edu.bd
@@ -225,6 +232,7 @@ cpcalendars.kazisdm.edu.bd
 cpcalendars.khidirpurhsngn.edu.bd
 cpcalendars.mhs-kuri.edu.bd
 cpcalendars.mollarhathighschool.edu.bd
+cpcalendars.nagarajpurhs.edu.bd
 cpcalendars.rckhs.edu.bd
 cpcalendars.rdhsn.edu.bd
 cpcalendars.sazin.com.bd
@@ -255,6 +263,7 @@ cpcontacts.kazisdm.edu.bd
 cpcontacts.khidirpurhsngn.edu.bd
 cpcontacts.mhs-kuri.edu.bd
 cpcontacts.mollarhathighschool.edu.bd
+cpcontacts.nagarajpurhs.edu.bd
 cpcontacts.rckhs.edu.bd
 cpcontacts.rdhsn.edu.bd
 cpcontacts.sazin.com.bd
@@ -345,6 +354,7 @@ form.cqr.org.bd
 forms.jalalabadgas.org.bd
 forum.rezaulalam.com.bd
 frontia.com.bd
+ftp.oss.bepza.gov.bd
 fulhariss.edu.bd
 garaganjschool.edu.bd
 garagonjgirls.edu.bd
@@ -353,6 +363,7 @@ gazidental.com.bd.samaworld.com.bd
 gc.daffodilvarsity.edu.bd
 gcl.com.bd
 gesc.daffodilvarsity.edu.bd
+getfit.com.bd
 ghatkhaliss.edu.bd
 gifdm.edu.bd
 gis.beautifulbangladesh.gov.bd
@@ -390,6 +401,7 @@ hetampurss.edu.bd
 hghscn.edu.bd
 himalayan.com.bd
 hkd-garments-backend-v2.coderslab.com.bd
+hmmdc.edu.bd
 homeland.com.bd
 hoteldemeridian.com.bd
 howladerbanijjaloy.com.bd
@@ -405,6 +417,7 @@ ictcell.buet.ac.bd
 idp.uiu.ac.bd
 idp.wub.edu.bd
 ieee-ictp.buet.ac.bd
+ificbank.com.bd
 ihtbogura.gov.bd
 iims.balokdiarhs.edu.bd
 illusion.com.bd
@@ -429,6 +442,7 @@ itn.buet.ac.bd
 itnaglobal.com.bd
 iwfm.buet.ac.bd
 jachaipay.ekshop.gov.bd
+jamesprince.com.bd
 jangirhighschool.edu.bd
 jashore.gov.bd
 jazbasourcing.com.bd
@@ -485,6 +499,7 @@ link.ecs.org.bd
 liruizipper.com.bd
 lobjancghsc.edu.bd
 magc.edu.bd
+magpie.net.bd
 mahhs.edu.bd
 mahi.com.bd
 mahmsc.edu.bd
@@ -542,6 +557,7 @@ mail.mhs-kuri.edu.bd
 mail.midul.com.bd
 mail.mollarhathighschool.edu.bd
 mail.muhallilsfood.com.bd
+mail.nagarajpurhs.edu.bd
 mail.najaah.com.bd
 mail.nstyle.com.bd
 mail.nu.edu.bd
@@ -596,6 +612,7 @@ missionacademy.com.bd
 mme.buet.ac.bd
 mmsgs.edu.bd
 mobile-slsd.mohpw.gov.bd
+moddohbhuterdiass.edu.bd
 mognamahighschool.edu.bd
 mollarhathighschool.edu.bd
 mollikit.com.bd
@@ -612,13 +629,16 @@ muhallilsfood.com.bd
 mx2.bbl.net.bd
 mx3.prisma.net.bd
 my.corecloud.com.bd
+myconstituency.gov.bd
 nabil.com.bd
 nabomondol.com.bd
+nagarajpurhs.edu.bd
 nags.edu.bd
 name.buet.ac.bd
 nargunhighschool.edu.bd
 nascent.com.bd
 nascib-dev.niseee.gov.bd
+natherkandihs.edu.bd
 nayakhalihighschool.edu.bd
 nce.buet.ac.bd
 ndf.mobiledes.com.interioritems.com.bd
@@ -683,6 +703,8 @@ pustiprogram.com.shasthoshikkha.org.bd
 qcode.cqr.org.bd
 radhanagaranchs.edu.bd
 radhapurhs.edu.bd
+raghunathpurhs.edu.bd
+rain3.secondhand.com.bd
 rainit.com.bd
 rampahs.edu.bd
 ratowalworldpoetrabindranathhs.edu.bd
@@ -728,6 +750,7 @@ scubed.com.bd
 seba24.com.bd
 securepay.mabsit.com.bd
 seegate.com.bd
+sellox.com.bd
 sepdemo1.ussit.com.bd
 seradeal.com.bd
 sgdcm.edu.bd
@@ -737,8 +760,10 @@ shakib.com.bd
 shalukahs.edu.bd
 shihabulislam.com.bd
 shishir.com.bd
+shop.calix.com.bd
 shopnix.com.bd
 shopnodhora.com.bd
+shovarampurhighschool.edu.bd
 siamtrading.com.bd
 sjahighschool.edu.bd
 skc.edu.bd
@@ -814,6 +839,7 @@ trim.com.bd
 trim.com.bd.prevalent.com.bd
 twc.edu.bd
 ucbt.edu.bd
+uctc.com.bd
 ujangramss.edu.bd
 ujanicollege.edu.bd
 ultratech.com.bd
@@ -831,6 +857,7 @@ vandoy.com.bd
 vdaz.com.bd
 virtualbd.com.bd
 vtour.beautifulbangladesh.gov.bd
+wallet.shadhin.com.bd
 web.hamdard.com.bd
 webdisk.abadpukurhs.edu.bd
 webdisk.bhogdangaak.edu.bd
@@ -852,6 +879,7 @@ webdisk.kazisdm.edu.bd
 webdisk.khidirpurhsngn.edu.bd
 webdisk.mhs-kuri.edu.bd
 webdisk.mollarhathighschool.edu.bd
+webdisk.nagarajpurhs.edu.bd
 webdisk.rckhs.edu.bd
 webdisk.rdhsn.edu.bd
 webdisk.sazin.com.bd
@@ -882,6 +910,7 @@ webmail.kazisdm.edu.bd
 webmail.khidirpurhsngn.edu.bd
 webmail.mhs-kuri.edu.bd
 webmail.mollarhathighschool.edu.bd
+webmail.nagarajpurhs.edu.bd
 webmail.nstyle.com.bd
 webmail.rckhs.edu.bd
 webmail.rdhsn.edu.bd
@@ -915,6 +944,7 @@ www.aman.com.bd
 www.amarai.gameapp.gov.bd
 www.amslogisticssolution.com.bd
 www.annoman.com.bd
+www.api.nstyle.com.bd
 www.aponvuban.avas.org.bd
 www.app.softtech.com.bd
 www.ar.gameapp.gov.bd
@@ -942,6 +972,7 @@ www.cafodefence.gov.bd
 www.carrymama.com.bd
 www.chakendakhs.edu.bd
 www.charigramhighschool.edu.bd
+www.client.ithutz.com.bd
 www.cloudbook.com.bd
 www.conveyor.com.bd
 www.crystaltours.com.bd
@@ -1036,6 +1067,7 @@ www.mhs-kuri.edu.bd
 www.midul.com.bd
 www.mollarhathighschool.edu.bd
 www.ms.dgpmhs.edu.bd
+www.nagarajpurhs.edu.bd
 www.ndf.mobiledes.com.interioritems.com.bd
 www.new.bsdmdakhilmadrasah.edu.bd
 www.news.bsdmdakhilmadrasah.edu.bd
@@ -1072,6 +1104,7 @@ www.sghsngn.edu.bd
 www.shahreen.com.bd
 www.shalukahs.edu.bd
 www.shihabulislam.com.bd
+www.shop.calix.com.bd
 www.shop.isparenterprise.com.bd
 www.shopnodhora.com.bd
 www.shoppingcorner.com.bd
