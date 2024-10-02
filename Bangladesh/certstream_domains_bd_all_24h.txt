@@ -1,3 +1,4 @@
+4dsolution.com.bd
 5wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 6www.bgptools-wildcard-confirmed.nationaltrading.com.bd
 8bit.com.bd
@@ -49,6 +50,7 @@ atripz.com.bd
 autodiscover.adb.org.bd
 autodiscover.circleunit.com.bd
 autodiscover.dearit.com.bd
+autodiscover.gbgc.edu.bd
 autodiscover.gsfmmc.edu.bd
 autodiscover.marinegroup.com.bd
 autodiscover.mobilepoint.com.bd
@@ -105,6 +107,7 @@ bub.edu.bd
 bubt.edu.bd
 c.khajurtalamc.edu.bd
 caffelo.utt.com.bd
+cafocommerce.gov.bd
 cafomolwa.gov.bd
 candm.com.bd
 caprashwoodland.com.bd
@@ -145,6 +148,7 @@ cpanel.candm.com.bd
 cpanel.catseye.com.bd
 cpanel.circleunit.com.bd
 cpanel.dearit.com.bd
+cpanel.gbgc.edu.bd
 cpanel.gsfmmc.edu.bd
 cpanel.hthf.org.bd
 cpanel.jphost.com.bd
@@ -167,6 +171,7 @@ cpcalendars.bsmmc.edu.bd
 cpcalendars.catseye.com.bd
 cpcalendars.circleunit.com.bd
 cpcalendars.dearit.com.bd
+cpcalendars.gbgc.edu.bd
 cpcalendars.gsfmmc.edu.bd
 cpcalendars.hthf.org.bd
 cpcalendars.jphost.com.bd
@@ -189,6 +194,7 @@ cpcontacts.bsmmc.edu.bd
 cpcontacts.catseye.com.bd
 cpcontacts.circleunit.com.bd
 cpcontacts.dearit.com.bd
+cpcontacts.gbgc.edu.bd
 cpcontacts.gsfmmc.edu.bd
 cpcontacts.hthf.org.bd
 cpcontacts.jphost.com.bd
@@ -239,6 +245,8 @@ drhs1925.edu.bd
 drmmrpc.edu.bd
 dsti.edu.bd
 earpurhighschool.edu.bd
+easternprinting.com.bd
+ebill.fcn.com.bd
 ebook.com.bd
 ebookvaly.com.worldtrade.com.bd
 ecombackend.clickmart.com.bd
@@ -261,10 +269,14 @@ firstlook.com.bd
 fnac.com.bd
 foodie.com.bd
 fumkhs.edu.bd
+furniture.minmax.com.bd
 gadaipurjeheralihs.edu.bd
 gal.com.bd
 garmentschemical.com.bd
+gbgc.edu.bd
 gcsac.edu.bd
+glamgrl.com.bd
+goldeninfotech.com.bd
 golfcafe.jgc.com.bd
 govtsantoshiughs.edu.bd
 growever.com.bd
@@ -281,6 +293,7 @@ hoichoi.com.bd
 homeofirstaid.com.bd
 hospital.nimch.com.bd
 hotspot.sbn.com.bd
+hr.iiuc.ac.bd
 hthf.org.bd
 ibhssantosh.edu.bd
 ihealthline.com.bd
@@ -370,6 +383,7 @@ mail.doulatpurhoquebahadurhs.edu.bd
 mail.drhs1925.edu.bd
 mail.earpurhighschool.edu.bd
 mail.eblink.com.bd
+mail.gbgc.edu.bd
 mail.gsfmmc.edu.bd
 mail.haithkandihighschool.edu.bd
 mail.hcphs.edu.bd
@@ -517,6 +531,7 @@ radius.mytufan.com.bd
 raghunathpurhs.edu.bd
 rakibul.padmaponno.com.bd
 ranifood.com.bd
+rapghs.edu.bd
 ras.com.bd
 rasulpurmschoolandcollege.edu.bd
 rauhs.edu.bd
@@ -537,6 +552,7 @@ s.bhablahighschool.edu.bd
 s.mahhs.edu.bd
 sadai.gov.bd
 sakhuahighschool.edu.bd
+salon.com.bd
 saptaghs.edu.bd
 sarban.com.bd
 sarkarhatnazaralirupzanhighschool.edu.bd
@@ -562,10 +578,12 @@ shohojmart.com.bd
 shopemart.com.bd
 shopnik.com.bd
 sigroup.com.bd
+skbhs.edu.bd
 slot-mania.cnap-cse.ruet.ac.bd
 slot.accessibledictionary.gov.bd
 smhhighschool.edu.bd
 smrc.edu.bd
+sms.garivara.com.bd
 snsltd.com.bd
 sofama.edu.bd
 soft.iiscmymensingh.edu.bd
@@ -641,6 +659,7 @@ webdisk.bsmmc.edu.bd
 webdisk.catseye.com.bd
 webdisk.circleunit.com.bd
 webdisk.dearit.com.bd
+webdisk.gbgc.edu.bd
 webdisk.gsfmmc.edu.bd
 webdisk.hthf.org.bd
 webdisk.jphost.com.bd
@@ -664,6 +683,7 @@ webmail.catseye.com.bd
 webmail.circleunit.com.bd
 webmail.coventina.com.bd
 webmail.dearit.com.bd
+webmail.gbgc.edu.bd
 webmail.gsfmmc.edu.bd
 webmail.hthf.org.bd
 webmail.ist.edu.bd
@@ -686,6 +706,7 @@ work.redrose.com.bd
 wp.networksolution.net.bd
 www.5wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.6www.bgptools-wildcard-confirmed.nationaltrading.com.bd
+www.aamranari.goldeninfotech.com.bd
 www.accounts.techware.com.bd
 www.adb.org.bd
 www.admin.rpsu.ac.bd
@@ -767,6 +788,8 @@ www.doubleexpressbd.com.ktc.edu.bd
 www.doulatpurhoquebahadurhs.edu.bd
 www.drhs1925.edu.bd
 www.earpurhighschool.edu.bd
+www.easternprinting.com.bd
+www.ebill.fcn.com.bd
 www.ebookvaly.com.worldtrade.com.bd
 www.economics.bubt.edu.bd
 www.elt.bubt.edu.bd
@@ -779,10 +802,13 @@ www.falgun.com.bd
 www.faq.greenbytes.net.bd
 www.files.gmrwc.edu.bd
 www.firstlook.com.bd
+www.furniture.minmax.com.bd
 www.gallery.cub.edu.bd
+www.gbgc.edu.bd
 www.gkmc.abdulabadhighschool.edu.bd
 www.growever.com.bd
 www.gsfmmc.edu.bd
+www.gtnapi.goldeninfotech.com.bd
 www.haithkandihighschool.edu.bd
 www.hcphs.edu.bd
 www.hhehs.edu.bd
@@ -878,6 +904,7 @@ www.psd.delwar.info.bd
 www.raadapparels.com.bd
 www.raghunathpurhs.edu.bd
 www.rakibul.padmaponno.com.bd
+www.rapghs.edu.bd
 www.ras.com.bd
 www.razabariahs.edu.bd
 www.rd.ictbdiasms.gov.bd
@@ -887,6 +914,7 @@ www.renesamschool.edu.bd
 www.s.bhablahighschool.edu.bd
 www.sadhan.com.bd
 www.sakhuahighschool.edu.bd
+www.salon.com.bd
 www.saptaghs.edu.bd
 www.sarban.com.bd
 www.sarkarhatnazaralirupzanhighschool.edu.bd
@@ -905,10 +933,12 @@ www.shopemart.com.bd
 www.shopnik.com.bd
 www.si.itss.com.bd
 www.sigroup.com.bd
+www.skbhs.edu.bd
 www.smhhighschool.edu.bd
 www.soft.iiscmymensingh.edu.bd
 www.sreepoddimodelhs.edu.bd
 www.stories.shotomul.com.bd
+www.sublet.goldeninfotech.com.bd
 www.sukhabor.com.bd
 www.suman.edu.bd
 www.support.diana.com.bd
