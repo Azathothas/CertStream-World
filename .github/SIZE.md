@@ -2,22 +2,22 @@
  76M └─┬ main
  50M   ├─┬ Germany
  47M   │ ├── certstream_domains_de_all_7days.txt
-3.4M   │ ├── certstream_domains_de_all_24h.txt
+3.2M   │ ├── certstream_domains_de_all_24h.txt
 4.0K   │ └── README.md
  22M   ├─┬ Russia
- 21M   │ ├── certstream_domains_ru_all_7days.txt
-1.3M   │ ├── certstream_domains_ru_all_24h.txt
+ 20M   │ ├── certstream_domains_ru_all_7days.txt
+1.6M   │ ├── certstream_domains_ru_all_24h.txt
 4.0K   │ └── README.md
-2.5M   ├─┬ Argentina
+2.6M   ├─┬ Argentina
 2.4M   │ ├── certstream_domains_ar_all_7days.txt
-184K   │ ├── certstream_domains_ar_all_24h.txt
+196K   │ ├── certstream_domains_ar_all_24h.txt
 4.0K   │ └── README.md
-460K   ├─┬ Nepal
-428K   │ ├── certstream_domains_np_all_7days.txt
- 24K   │ ├── certstream_domains_np_all_24h.txt
+452K   ├─┬ Nepal
+408K   │ ├── certstream_domains_np_all_7days.txt
+ 36K   │ ├── certstream_domains_np_all_24h.txt
 4.0K   │ └── README.md
-212K   ├─┬ Bangladesh
-192K   │ ├── certstream_domains_bd_all_7days.txt
+208K   ├─┬ Bangladesh
+188K   │ ├── certstream_domains_bd_all_7days.txt
  12K   │ ├── certstream_domains_bd_all_24h.txt
 4.0K   │ └── README.md
 4.0K   ├── README.md
