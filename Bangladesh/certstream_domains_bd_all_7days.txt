@@ -588,6 +588,7 @@ autodiscover.patabahar.com.bd
 autodiscover.piarabazar.com.bd
 autodiscover.picksonline.com.bd
 autodiscover.picotech.com.bd
+autodiscover.pkshs.edu.bd
 autodiscover.portal.blast.org.bd
 autodiscover.prochesta.org.bd
 autodiscover.puhs.edu.bd
@@ -1095,6 +1096,7 @@ bridge.com.bd
 bridgeconsultancy.com.bd
 bridgex.com.bd
 brightstarnetwork.net.bd
+brightview.com.bd
 brillmark.com.bd
 bringin.com.bd
 brissie.com.bd
@@ -1651,6 +1653,7 @@ cpanel.pei.edu.bd
 cpanel.perulhs.edu.bd
 cpanel.piarabazar.com.bd
 cpanel.picksonline.com.bd
+cpanel.pkshs.edu.bd
 cpanel.poc.ruet.ac.bd
 cpanel.porabaripfm.edu.bd
 cpanel.portal.blast.org.bd
@@ -1927,6 +1930,7 @@ cpcalendars.paromita.com.bd
 cpcalendars.patabahar.com.bd
 cpcalendars.pei.edu.bd
 cpcalendars.perulhs.edu.bd
+cpcalendars.pkshs.edu.bd
 cpcalendars.porabaripfm.edu.bd
 cpcalendars.portal.blast.org.bd
 cpcalendars.powertechint.com.bd
@@ -2184,6 +2188,7 @@ cpcontacts.pears.com.bd
 cpcontacts.pei.edu.bd
 cpcontacts.perulhs.edu.bd
 cpcontacts.picksonline.com.bd
+cpcontacts.pkshs.edu.bd
 cpcontacts.porabaripfm.edu.bd
 cpcontacts.portal.blast.org.bd
 cpcontacts.powertechint.com.bd
@@ -4395,6 +4400,7 @@ mail.photo.com.bd
 mail.photofocus.com.bd
 mail.picotech.com.bd
 mail.pingnaghs.edu.bd
+mail.pkshs.edu.bd
 mail.porabaripfm.edu.bd
 mail.powertechint.com.bd
 mail.powerup.com.bd
@@ -4548,6 +4554,7 @@ maintenance.wasa.sigmasolutions.com.bd
 maisb.edu.bd
 maitrysecondaryschoolparbatipur.edu.bd
 maizparass.edu.bd
+majesty.com.bd
 majhiparawdc.edu.bd
 majiruddinhs.edu.bd
 mak64wholesaleclub.com.bd
@@ -5302,6 +5309,7 @@ pkhighschool.edu.bd
 pkhsss.edu.bd
 pkkdm.edu.bd
 pkmedia.com.bd
+pkshs.edu.bd
 plastech.com.bd
 platform-test.easytrax.com.bd
 platinumbd.com.bd
@@ -6940,6 +6948,7 @@ webdisk.patabahar.com.bd
 webdisk.pei.edu.bd
 webdisk.perulhs.edu.bd
 webdisk.piarabazar.com.bd
+webdisk.pkshs.edu.bd
 webdisk.porabaripfm.edu.bd
 webdisk.portal.blast.org.bd
 webdisk.powertechint.com.bd
@@ -7230,6 +7239,7 @@ webmail.pei.edu.bd
 webmail.photo.com.bd
 webmail.piarabazar.com.bd
 webmail.picotech.com.bd
+webmail.pkshs.edu.bd
 webmail.porabaripfm.edu.bd
 webmail.portal.blast.org.bd
 webmail.powertechint.com.bd
@@ -9513,6 +9523,7 @@ www.pitambarpara.edu.bd
 www.pjms.org.bd
 www.pkhsss.edu.bd
 www.pkkdm.edu.bd
+www.pkshs.edu.bd
 www.plastech.com.bd
 www.platinumbd.com.bd.brandmarrow.com.bd
 www.play.betarcommercialservice.gov.bd
