@@ -1,7 +1,7 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_10_08
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_10_09
 ```console
 
 
@@ -14,16 +14,16 @@
 
 ```
 
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_10_08 <--> 2024_10_01
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_10_09 <--> 2024_10_02
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +70492066
+[+] New/ReNewed SSL Certs (ALL): +71198566
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +21547
+[+] New/ReNewed SSL Certs (ALL): +21738
 
 ```
 
