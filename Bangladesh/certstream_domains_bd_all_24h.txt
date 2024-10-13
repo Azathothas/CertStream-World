@@ -27,6 +27,8 @@ alpha-jenkins.nationaltrading.com.bd
 amarai.gameapp.gov.bd
 amarise.com.bd
 amirhamza.com.bd
+anio.com.bd
+ansvm.pstu.ac.bd
 apa.iub.ac.bd
 api.demo.isle.com.bd
 api.gangghs.edu.bd
@@ -61,6 +63,7 @@ autodiscover.littlearabia.com.bd
 autodiscover.loginex.com.bd
 autodiscover.nationalbank.com.bd
 autodiscover.rajshahiwasa.org.bd
+autodiscover.recowa.com.bd
 autodiscover.server1.we-textile.com.bd
 awfeu.com.unitek.com.bd
 azea.dev.alpha.net.bd
@@ -84,6 +87,7 @@ beta.sfxgsc.edu.bd
 bhalsundm.edu.bd
 bhola.gov.bd
 bhtc.com.bd
+biipa.com.bd
 bikehouse.com.bd
 bkkss.edu.bd
 bkp.com.bd
@@ -101,6 +105,7 @@ btmc.edu.bd
 btrc.bdren.net.bd
 buildsafeengineering.com.bd
 campaign.bubt.edu.bd
+caregivershubbd.com.csti.com.bd
 carnavi.com.bd
 castle.com.bd
 cdc.daffodilvarsity.edu.bd
@@ -112,6 +117,7 @@ chandpur.gov.bd
 cheapmytrip.info.bd
 chsjsr.edu.bd
 ci-ci.nationaltrading.com.bd
+cli.monaym.com.bd
 cmc.techathome.com.bd
 cmghst.edu.bd
 codevibes.com.bd
@@ -142,6 +148,7 @@ cpanel.procharon.com.bd
 cpanel.property.com.bd
 cpanel.property360.com.bd
 cpanel.rajshahiwasa.org.bd
+cpanel.recowa.com.bd
 cpanel.review.com.bd
 cpanel.sar.com.bd
 cpanel.server1.we-textile.com.bd
@@ -173,6 +180,7 @@ cpcalendars.procharon.com.bd
 cpcalendars.property.com.bd
 cpcalendars.property360.com.bd
 cpcalendars.rajshahiwasa.org.bd
+cpcalendars.recowa.com.bd
 cpcalendars.review.com.bd
 cpcalendars.sar.com.bd
 cpcalendars.server1.we-textile.com.bd
@@ -202,6 +210,7 @@ cpcontacts.procharon.com.bd
 cpcontacts.property.com.bd
 cpcontacts.property360.com.bd
 cpcontacts.rajshahiwasa.org.bd
+cpcontacts.recowa.com.bd
 cpcontacts.review.com.bd
 cpcontacts.sar.com.bd
 cpcontacts.server1.we-textile.com.bd
@@ -218,6 +227,7 @@ db4.sonod.com.bd
 dbazar.com.bd
 dceimsv3.bdeducation.org.bd
 demo-erp.bigtech.com.bd
+demo.ajexpress.com.bd
 demo.datasource.com.bd
 demo.emega.com.bd
 demo.isle.com.bd
@@ -236,6 +246,7 @@ dmssoft.com.bd
 dodm.edu.bd
 dpgc.edu.bd
 dpsc.edu.bd
+drkzamanbnsbeh.org.bd
 dru.com.bd
 du.gameapp.gov.bd
 duhandar.com.bd
@@ -261,8 +272,10 @@ entrust.com.bd
 eongroup.net.bd
 eps.com.bd
 erp.metro.net.bd
+erpsoftware.com.bd
 erptest.gari-import.com.bd
 eservice.kgck.edu.bd
+etrail.com.bd
 evecorp.com.bd
 everyday.com.bd
 exclusive.forward.com.bd
@@ -310,6 +323,7 @@ hassc.com.bd
 hatphs.edu.bd
 hbfuller.com.bd
 heriken.com.bd
+hfta.com.bd
 hostel.infra.edu.bd
 hotels.com.bd
 hoteltaj.com.bd
@@ -350,7 +364,9 @@ kanchkolhatmnhs.edu.bd
 karu.com.bd
 kaufm.edu.bd
 kazirpaglaatinst.com.haldiagovhs.edu.bd
+kbahdccghs.edu.bd
 kbdmb.edu.bd
+kcchatt.gov.bd
 kcgh.edu.bd
 kentwaterpurifiersbd.com.livpure.com.bd
 kghsk.edu.bd
@@ -433,8 +449,10 @@ mail.procharon.com.bd
 mail.property.com.bd
 mail.property360.com.bd
 mail.protikarshop.com.bd
+mail.pssb.com.bd
 mail.rajshahiwasa.org.bd
 mail.rarefashion.com.bd
+mail.recowa.com.bd
 mail.review.com.bd
 mail.runup.com.bd
 mail.sar.com.bd
@@ -487,6 +505,7 @@ ndufm.edu.bd
 new.stolen.com.bd
 news.eminence.edu.bd
 nextbusiness.com.bd
+nhsmart.com.bd
 nid.shurjopay.com.bd
 nirobnandi.com.bd
 nism.edu.bd
@@ -497,6 +516,7 @@ norillacollege.edu.bd
 offerpoka.com.bd
 old.bbcpsc.edu.bd
 old.ncmym.edu.bd
+oneiro.com.bd
 onekar.com.bd
 optimus.com.bd
 ordernow.com.bd
@@ -504,6 +524,8 @@ padc.edu.bd
 paichat.paikaree.com.bd
 pallibazar.com.bd
 panasonic-bd.com.digitaltechzone.com.bd
+panchagarhmunicipality.gov.bd
+paniparassghs.edu.bd
 pappuplaytime.com.bd
 pay.furnicia.com.bd
 pclinks.com.bd
@@ -542,6 +564,7 @@ rasta.com.bd
 rdphs.edu.bd
 realestate.com.bd
 realstatelaravel.appstick.com.bd
+recowa.com.bd
 register.gameapp.gov.bd
 reliance.com.bd
 resume.easyit.com.bd
@@ -685,6 +708,7 @@ webdisk.procharon.com.bd
 webdisk.property.com.bd
 webdisk.property360.com.bd
 webdisk.rajshahiwasa.org.bd
+webdisk.recowa.com.bd
 webdisk.review.com.bd
 webdisk.sar.com.bd
 webdisk.server1.we-textile.com.bd
@@ -716,6 +740,7 @@ webmail.procharon.com.bd
 webmail.property.com.bd
 webmail.property360.com.bd
 webmail.rajshahiwasa.org.bd
+webmail.recowa.com.bd
 webmail.review.com.bd
 webmail.sar.com.bd
 webmail.server1.we-textile.com.bd
@@ -767,6 +792,7 @@ www.bddm.cmdm.edu.bd
 www.bdtax.com.bd
 www.beta.blscg.edu.bd
 www.beta.sfxgsc.edu.bd
+www.bjicsms.goldeninfotech.com.bd
 www.bkp.com.bd
 www.blicapital.com.bd
 www.bonggobazar.realestate.com.bd
@@ -778,9 +804,11 @@ www.btmc.edu.bd.macademy.com.bd
 www.buildsafeengineering.com.bd
 www.campaign.bubt.edu.bd
 www.care.minmax.com.bd
+www.caregivershubbd.com.csti.com.bd
 www.carnavi.com.bd
 www.carservice.goldeninfotech.com.bd
 www.castle.com.bd
+www.cli.monaym.com.bd
 www.cmc.techathome.com.bd
 www.cmghst.edu.bd
 www.codevibes.com.bd
@@ -791,6 +819,7 @@ www.cyberweb.com.bd
 www.dbazar.com.bd
 www.dceimsv3.bdeducation.org.bd
 www.demo-erp.bigtech.com.bd
+www.demo.ajexpress.com.bd
 www.demo.datasource.com.bd
 www.demo.emega.com.bd
 www.demo.isle.com.bd
@@ -834,6 +863,7 @@ www.info.mdch.edu.bd
 www.infoit.com.bd
 www.inventory.electrograce.com.bd
 www.iqac.rpsu.edu.bd
+www.irestora.goldeninfotech.com.bd
 www.isratstyle.com.spider.com.bd
 www.iswarganj.upmymensinghholdingtax.gov.bd
 www.itbn.sparkit.net.bd
@@ -895,6 +925,7 @@ www.new.stolen.com.bd
 www.nordvpn.fiber4.com.bd
 www.old.bbcpsc.edu.bd
 www.old.ncmym.edu.bd
+www.oneiro.com.bd
 www.pallibazar.com.bd
 www.panasonic-bd.com.digitaltechzone.com.bd
 www.pay.furnicia.com.bd
@@ -917,6 +948,7 @@ www.qrcode.globalinformatics.com.bd
 www.rajshahiwasa.org.bd
 www.rarefashion.com.bd
 www.rdphs.edu.bd.momtajtdpl.com.bd
+www.recowa.com.bd
 www.register.gameapp.gov.bd
 www.resume.easyit.com.bd
 www.review.com.bd
