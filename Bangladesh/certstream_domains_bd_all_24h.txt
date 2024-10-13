@@ -22,6 +22,7 @@ app.carrot.com.bd
 app.taxhouse.com.bd
 ar.gameapp.gov.bd
 arjunadm.edu.bd
+arlafoods.com.bd
 arpas.com.bd
 astrosimp.com.shadelectronicsmart.com.bd
 audit.com.bd
@@ -37,6 +38,7 @@ autodiscover.eps.com.bd
 autodiscover.everyday.com.bd
 autodiscover.jatrapurghs.edu.bd
 autodiscover.loginex.com.bd
+autodiscover.rajshahiwasa.org.bd
 autodiscover.server1.we-textile.com.bd
 awfeu.com.unitek.com.bd
 backend.amis.edu.bd
@@ -45,8 +47,10 @@ bandarban.gov.bd
 barguna.gov.bd
 barisal.gov.bd
 barisaldiv.gov.bd
+bbkhs.edu.bd
 bdengineering.com.bd
 bdtax.com.bd
+beta.blscg.edu.bd
 bhalsundm.edu.bd
 bhola.gov.bd
 bhtc.com.bd
@@ -61,6 +65,7 @@ bsfmstu.gameapp.gov.bd
 btmc.edu.bd
 btrc.bdren.net.bd
 buildsafeengineering.com.bd
+campaign.bubt.edu.bd
 carnavi.com.bd
 cdc.daffodilvarsity.edu.bd
 certificate.bdren.net.bd
@@ -90,6 +95,7 @@ cpanel.kahalthurihhs103781.edu.bd
 cpanel.procharon.com.bd
 cpanel.property.com.bd
 cpanel.property360.com.bd
+cpanel.rajshahiwasa.org.bd
 cpanel.review.com.bd
 cpanel.server1.we-textile.com.bd
 cpanel.songbird.com.bd
@@ -111,6 +117,7 @@ cpcalendars.loginex.com.bd
 cpcalendars.procharon.com.bd
 cpcalendars.property.com.bd
 cpcalendars.property360.com.bd
+cpcalendars.rajshahiwasa.org.bd
 cpcalendars.review.com.bd
 cpcalendars.server1.we-textile.com.bd
 cpcontacts.aloghar.com.bd
@@ -130,10 +137,13 @@ cpcontacts.loginex.com.bd
 cpcontacts.procharon.com.bd
 cpcontacts.property.com.bd
 cpcontacts.property360.com.bd
+cpcontacts.rajshahiwasa.org.bd
 cpcontacts.review.com.bd
 cpcontacts.server1.we-textile.com.bd
 csit.pstu.ac.bd
 ctc.edu.bd
+ctgcollege.gov.bd
+cube.com.bd
 datasource.com.bd
 dawnpharma.com.bd
 db4.sonod.com.bd
@@ -183,6 +193,7 @@ foodprovider.apico.com.bd
 forum.dis.edu.bd
 ftp.princessgallery.com.bd
 ftp.stationeries.com.bd
+ftp.tee.com.bd
 gadgetwarehouse.com.bd
 gains.com.bd
 galaxyglobalit.com.bd
@@ -201,6 +212,7 @@ haramainsecurities.com.bd
 hasanpursncollege.edu.bd
 hassc.com.bd
 hatphs.edu.bd
+hbfuller.com.bd
 hotels.com.bd
 hoteltaj.com.bd
 hub.grace.edu.bd
@@ -289,6 +301,7 @@ mail.procharon.com.bd
 mail.property.com.bd
 mail.property360.com.bd
 mail.protikarshop.com.bd
+mail.rajshahiwasa.org.bd
 mail.review.com.bd
 mail.runup.com.bd
 mail.server1.we-textile.com.bd
@@ -343,6 +356,7 @@ panasonic-bd.com.digitaltechzone.com.bd
 pappuplaytime.com.bd
 pay.furnicia.com.bd
 pclinks.com.bd
+pht.com.bd
 plumber.com.bd
 pop.princessgallery.com.bd
 porchex.com.bd
@@ -362,10 +376,12 @@ protikarshop.com.bd
 psjsam.edu.bd
 qpl.com.bd
 qrcode.globalinformatics.com.bd
+rajshahiwasa.org.bd
 ramnagarhighschoolgopalpur.edu.bd
 rdphs.edu.bd
 realestate.com.bd
 register.gameapp.gov.bd
+reliance.com.bd
 resume.easyit.com.bd
 review.com.bd
 rms-api.myradar.com.bd
@@ -393,7 +409,9 @@ shop.alim.com.bd
 shop.ithutz.com.bd
 sibd.com.bd
 sinbadshop.com.bd
+singherkathimlhs.edu.bd
 sis.sis.edu.bd
+sivus.org.bd
 smart.pksf.org.bd
 sms.cub.edu.bd
 smtp.princessgallery.com.bd
@@ -441,6 +459,7 @@ umrah.efly.com.bd
 ums.krc.edu.bd
 urgentair.com.bd
 usmart.com.bd
+vbd.com.bd
 venture.com.bd
 vertexgroup.com.bd
 voguebyprince.com.bd
@@ -465,6 +484,7 @@ webdisk.loginex.com.bd
 webdisk.procharon.com.bd
 webdisk.property.com.bd
 webdisk.property360.com.bd
+webdisk.rajshahiwasa.org.bd
 webdisk.review.com.bd
 webdisk.server1.we-textile.com.bd
 webdisk.songbird.com.bd
@@ -486,16 +506,20 @@ webmail.paradisetelecom.com.bd
 webmail.procharon.com.bd
 webmail.property.com.bd
 webmail.property360.com.bd
+webmail.rajshahiwasa.org.bd
 webmail.review.com.bd
 webmail.server1.we-textile.com.bd
 webmail.sohag.sohag.com.bd
 webmail.songbird.com.bd
 webmail.stationeries.com.bd
+website.com.bd
 websitesolutions.com.bd
 whm.server1.we-textile.com.bd
 www.abedok.com.bd
 www.account.plumber.com.bd
+www.ad.cube.com.bd
 www.admin.eklashpurhighschool.edu.bd
+www.admission.cube.com.bd
 www.ajjhs.edu.bd.ihsh.edu.bd
 www.alharamainsecurities.com.bd
 www.aloghar.com.bd
@@ -512,6 +536,7 @@ www.awfeu.com.unitek.com.bd
 www.azimnagarhs.abdulabadhighschool.edu.bd
 www.backend.eklashpurhighschool.edu.bd
 www.bdtax.com.bd
+www.beta.blscg.edu.bd
 www.bkp.com.bd
 www.blicapital.com.bd
 www.bonggobazar.realestate.com.bd
@@ -519,6 +544,7 @@ www.brightstarnetwork.net.bd
 www.bsfmstu.gameapp.gov.bd
 www.btmc.edu.bd.macademy.com.bd
 www.buildsafeengineering.com.bd
+www.campaign.bubt.edu.bd
 www.care.minmax.com.bd
 www.carnavi.com.bd
 www.cmc.techathome.com.bd
@@ -616,6 +642,7 @@ www.properties.realestate.com.bd
 www.property.com.bd
 www.property360.com.bd
 www.qrcode.globalinformatics.com.bd
+www.rajshahiwasa.org.bd
 www.rdphs.edu.bd.momtajtdpl.com.bd
 www.register.gameapp.gov.bd
 www.resume.easyit.com.bd
