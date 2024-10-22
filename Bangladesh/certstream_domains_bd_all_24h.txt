@@ -219,6 +219,7 @@ autodiscover.nhs1972.edu.bd
 autodiscover.oranpurbhighschool.edu.bd
 autodiscover.paincare.com.bd
 autodiscover.pashagroup.com.bd
+autodiscover.pbdmrk.edu.bd
 autodiscover.pdhs67.edu.bd
 autodiscover.petpapa.com.bd
 autodiscover.pms.edu.bd
@@ -596,6 +597,7 @@ cpanel.paincare.com.bd
 cpanel.palshahs.edu.bd
 cpanel.panishailhs.edu.bd
 cpanel.pashagroup.com.bd
+cpanel.pbdmrk.edu.bd
 cpanel.pdhs67.edu.bd
 cpanel.petpapa.com.bd
 cpanel.pimdcpr.edu.bd
@@ -715,6 +717,7 @@ cpcalendars.itnatools.com.bd
 cpcalendars.jamurkinsaghs.edu.bd
 cpcalendars.jashimuddin.edu.bd
 cpcalendars.jhs1963.edu.bd
+cpcalendars.katalyst.com.bd
 cpcalendars.kbec.com.bd
 cpcalendars.kcidm103808.edu.bd
 cpcalendars.kdmadrasah.edu.bd
@@ -741,6 +744,7 @@ cpcalendars.onlinedoctor.com.bd
 cpcalendars.oranpurbhighschool.edu.bd
 cpcalendars.paincare.com.bd
 cpcalendars.pashagroup.com.bd
+cpcalendars.pbdmrk.edu.bd
 cpcalendars.pdhs67.edu.bd
 cpcalendars.petpapa.com.bd
 cpcalendars.pms.edu.bd
@@ -881,6 +885,7 @@ cpcontacts.onlinedoctor.com.bd
 cpcontacts.oranpurbhighschool.edu.bd
 cpcontacts.paincare.com.bd
 cpcontacts.pashagroup.com.bd
+cpcontacts.pbdmrk.edu.bd
 cpcontacts.pdhs67.edu.bd
 cpcontacts.petpapa.com.bd
 cpcontacts.pms.edu.bd
@@ -1011,6 +1016,7 @@ dhupakandiadarshahighschool.edu.bd
 dianahost.com.bd
 diaper.com.bd
 dighalbakhsc.edu.bd
+digisol.com.bd
 digitalhaat.gov.bd
 digitalhub.com.bd
 digitalliteracy.com.bd
@@ -1039,6 +1045,7 @@ drws.doer.com.bd
 dskm.ac.bd
 dsl.org.bd
 dsncp.edu.bd
+dss.edu.bd
 dth.nirapatta.com.bd
 dukpion.com.bd
 dulaihighschool.edu.bd
@@ -1048,6 +1055,7 @@ dwippuraghs.edu.bd
 dwu.uits.edu.bd
 eappeal.taxappealctg.gov.bd
 eastasia.com.bd
+eastdelta.edu.bd
 easterncare.com.bd
 easycard.com.bd
 ebigshops.com.bigbazar.com.bd
@@ -1055,6 +1063,7 @@ ecc-beta.doe.gov.bd
 ecom6.zamanit.com.bd
 ecomart.com.bd
 ecommerized.com.bd
+ecotech.com.bd
 edf.org.bd
 edu.bd.bishnopurhighs.edu.bd
 edu.bd.ihsh.edu.bd
@@ -1218,6 +1227,7 @@ gbengineering.com.bd
 gbpsgschool.edu.bd
 genesis.com.bd
 genuine.edu.bd
+getitsolution.com.bd
 ggahsac.edu.bd
 ggsshs.edu.bd
 ghoraghatmunicipality.gov.bd
@@ -1244,6 +1254,7 @@ gohailbarihs.edu.bd
 gohalagirls.edu.bd
 goldeninfotech.com.bd
 goldenway.com.bd
+goldsands.com.bd
 gonokairhs.edu.bd
 gooddays.com.bd
 google.com.bd
@@ -1366,6 +1377,7 @@ itnapos.com.bd
 itnapos.net.bd
 itnatools.com.bd
 ittheory.com.bd
+itzone.com.bd
 iu.ac.bd
 izone.com.bd
 jaintiacollege.edu.bd
@@ -1624,6 +1636,7 @@ mail.mohiminstitution.edu.bd
 mail.mohozidparahighschool.edu.bd
 mail.munshirbazarhighschool.edu.bd
 mail.nagarnursing.edu.bd
+mail.nbonline.net.bd
 mail.needly.com.bd
 mail.netx.net.bd
 mail.nhs1972.edu.bd
@@ -1636,6 +1649,7 @@ mail.paincare.com.bd
 mail.palshahs.edu.bd
 mail.panishailhs.edu.bd
 mail.pashagroup.com.bd
+mail.pbdmrk.edu.bd
 mail.pdhs67.edu.bd
 mail.petpapa.com.bd
 mail.pimdcpr.edu.bd
@@ -1876,6 +1890,7 @@ mzaman.buet.ac.bd
 nabilanaz.buet.ac.bd
 nadim.buet.ac.bd
 nafis.buet.ac.bd
+nafiskamal.com.bd
 nagad.com.bd
 nagarnursing.edu.bd
 nahid.buet.ac.bd
@@ -1883,6 +1898,7 @@ nahidsanzida.buet.ac.bd
 nahmed.buet.ac.bd
 najat.com.bd
 narandiatrkn.edu.bd
+narayanganjhighschoolandcollege.edu.bd
 narayanganjpreparatoryschool.edu.bd
 narzo.com.bd
 nasreenakter.buet.ac.bd
@@ -1895,6 +1911,7 @@ nazma.buet.ac.bd
 nazmul22.com.bd
 nazrul.buet.ac.bd
 nazrulislam.buet.ac.bd
+nbonline.net.bd
 nccbcst.bsmmu.ac.bd
 ncchub.com.bd
 needly.com.bd
@@ -1978,6 +1995,7 @@ omexpress.com.bd
 omni.com.bd
 omnishipping.com.bd
 oneclick.com.bd
+onlinedesk.com.bd
 onmobile.mysports.com.bd
 opac.jnu.ac.bd
 openid.dghs.gov.bd
@@ -2005,6 +2023,7 @@ panchgaondm.edu.bd
 panel.10mg.com.bd
 panishailhs.edu.bd
 paperboat.com.bd
+paragontech.com.bd
 parasolhealth.com.bd
 parpugihighschool.edu.bd
 parthakdas.buet.ac.bd
@@ -2016,7 +2035,9 @@ patharghatapourashava.gov.bd
 payment.gcl-intl.com.bd
 payment.nextonline.com.bd
 paypal.maeti.edu.bd
+pbdmrk.edu.bd
 pbfm.edu.bd
+pbx.fnm.com.bd
 pd.daffodilvarsity.edu.bd
 pdhs67.edu.bd
 pears.com.bd
@@ -2101,6 +2122,7 @@ pwdta.gov.bd
 qdmkhosru.buet.ac.bd
 queens.edu.bd
 quikads.com.bd
+quinta.com.bd
 r2.loox.com.bd
 raadar.com.bd
 raashed.buet.ac.bd
@@ -2178,6 +2200,7 @@ rrmsteel.com.bd
 rrpagrofarms.com.bd
 rsb.com.bd
 rumdo.edu.bd
+rupnagarmadrasah.edu.bd
 rupoboti.com.bd
 rusdwdc.edu.bd
 s-beliversign-api.amardokan.com.bd
@@ -2416,6 +2439,7 @@ taufiq.buet.ac.bd
 tawhidezaz.buet.ac.bd
 taxadvisor.com.bd
 taxappealctg.gov.bd
+taxeszone3ctg.gov.bd
 taxvatbd.com.renesa.edu.bd
 tazekprodhanschool.edu.bd
 tbal.com.bd
@@ -2613,6 +2637,7 @@ webdisk.onlinedoctor.com.bd
 webdisk.oranpurbhighschool.edu.bd
 webdisk.paincare.com.bd
 webdisk.pashagroup.com.bd
+webdisk.pbdmrk.edu.bd
 webdisk.pdhs67.edu.bd
 webdisk.petpapa.com.bd
 webdisk.pms.edu.bd
@@ -2783,6 +2808,7 @@ webmail.paincare.com.bd
 webmail.palshahs.edu.bd
 webmail.panishailhs.edu.bd
 webmail.pashagroup.com.bd
+webmail.pbdmrk.edu.bd
 webmail.pdhs67.edu.bd
 webmail.petpapa.com.bd
 webmail.pms.edu.bd
@@ -3096,6 +3122,7 @@ www.clientv2.sarkarit.com.bd
 www.cloud.dnet.org.bd
 www.colorsraiment.applelab.com.bd
 www.combosoft.com.bd
+www.comfystyle.com.bd
 www.commercialbuildingdhaka.sharif.com.bd
 www.commercialofficebangladesh.sharif.com.bd
 www.commercialofficeuttara.sharif.com.bd
@@ -3482,6 +3509,7 @@ www.mykub.eps.com.bd
 www.myrent.sharif.com.bd
 www.nagarnursing.edu.bd
 www.narandiatrkn.edu.bd
+www.nbonline.net.bd
 www.needly.com.bd
 www.netx.net.bd
 www.netx.net.bd.speedonline.com.bd
@@ -3543,6 +3571,7 @@ www.paybill.eps.com.bd
 www.payment.gcl-intl.com.bd
 www.payment.vu.edu.bd
 www.paypal.maeti.edu.bd
+www.pbdmrk.edu.bd
 www.pdhs67.edu.bd
 www.peerless.eict.com.bd
 www.peoplescarehospital.com.bd
@@ -3782,6 +3811,7 @@ www.takapoint-v2.dailyreport.com.bd
 www.talmanhs.edu.bd
 www.tatamotors.com.bd
 www.taxadvisor.com.bd
+www.taxeszone3ctg.gov.bd
 www.taxvatbd.com.renesa.edu.bd
 www.tbal.com.bd
 www.tcbschool.edu.bd
@@ -3878,6 +3908,8 @@ zikhan.buet.ac.bd
 zircon.com.bd
 zjghsp.edu.bd
 znahmed.buet.ac.bd
+zonaki.com.bd
+zpkhulna.gov.bd
 zppatuakhali.gov.bd
 zrkhan.buet.ac.bd
 zrpbsc.edu.bd
