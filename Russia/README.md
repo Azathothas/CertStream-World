@@ -6,11 +6,11 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +22962594
+[+] New/ReNewed SSL Certs (ALL): +23860519
 
 
 --> 🇷🇺 ru_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +438392
+[+] New/ReNewed SSL Certs (ALL): +451248
 
 ```
 
