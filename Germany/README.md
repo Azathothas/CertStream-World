@@ -6,11 +6,11 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +16031665
+[+] New/ReNewed SSL Certs (ALL): +17864610
 
 
 --> 🇩🇪 de_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +482077
+[+] New/ReNewed SSL Certs (ALL): +539474
 
 ```
 
