@@ -1,24 +1,24 @@
 ```mathematica
-135M └─┬ main
- 87M   ├─┬ Germany
- 85M   │ ├── certstream_domains_de_all_7days.txt
-2.1M   │ ├── certstream_domains_de_all_24h.txt
+131M └─┬ main
+ 86M   ├─┬ Germany
+ 83M   │ ├── certstream_domains_de_all_7days.txt
+2.6M   │ ├── certstream_domains_de_all_24h.txt
 4.0K   │ └── README.md
- 41M   ├─┬ Russia
- 40M   │ ├── certstream_domains_ru_all_7days.txt
-972K   │ ├── certstream_domains_ru_all_24h.txt
+ 38M   ├─┬ Russia
+ 37M   │ ├── certstream_domains_ru_all_7days.txt
+868K   │ ├── certstream_domains_ru_all_24h.txt
 4.0K   │ └── README.md
-5.4M   ├─┬ Argentina
-5.3M   │ ├── certstream_domains_ar_all_7days.txt
-120K   │ ├── certstream_domains_ar_all_24h.txt
+5.2M   ├─┬ Argentina
+5.1M   │ ├── certstream_domains_ar_all_7days.txt
+108K   │ ├── certstream_domains_ar_all_24h.txt
 4.0K   │ └── README.md
-1.3M   ├─┬ Nepal
-1.3M   │ ├── certstream_domains_np_all_7days.txt
+1.2M   ├─┬ Nepal
+1.2M   │ ├── certstream_domains_np_all_7days.txt
  24K   │ ├── certstream_domains_np_all_24h.txt
 4.0K   │ └── README.md
-440K   ├─┬ Bangladesh
-420K   │ ├── certstream_domains_bd_all_7days.txt
- 12K   │ ├── certstream_domains_bd_all_24h.txt
+404K   ├─┬ Bangladesh
+388K   │ ├── certstream_domains_bd_all_7days.txt
+8.0K   │ ├── certstream_domains_bd_all_24h.txt
 4.0K   │ └── README.md
 4.0K   ├── README.md
 4.0K   └── LICENSE
